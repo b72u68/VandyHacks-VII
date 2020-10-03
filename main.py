@@ -9,8 +9,8 @@ def parse_args():
     parser.add_argument('-fw', '--filterwords', help='Include file contains words to filter messages', default='./filterWords.txt')
     parser.add_argument('-s', '--search', help='(Search mode) Search student messages in given time. Default value = 0, change to 1 to use Search mode', type=int, default=0)
     parser.add_argument('-n', '--name', help='(Search mode) Enter student name to search', type=str, default='')
-    parser.add_argument('-st', '--start', help='(Search mode) Start search time. Format: hh:mm:ss', type=str, default='')
-    parser.add_argument('-e', '--end', help='(Search mode) End search time. Format: hh:mm:ss', type=str, default='')
+    parser.add_argument('-st', '--start', help='(Search mode) Start time. Format: hh:mm:ss', type=str, default='')
+    parser.add_argument('-e', '--end', help='(Search mode) End time. Format: hh:mm:ss', type=str, default='')
     return parser.parse_args()
 
 def main():
