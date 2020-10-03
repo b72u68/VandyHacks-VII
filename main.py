@@ -25,6 +25,7 @@ def main():
 
     # new monitoring
     chat_monitoring = ZoomChatMonitoring(bad_word_file, filter_word_file, chat_file)
+    chat_monitoring.read_chat_file()
 
 if __name__ == '__main__':
     main()
