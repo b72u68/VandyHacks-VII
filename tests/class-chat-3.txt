@@ -1,0 +1,864 @@
+09:39:56	 From Alan Palayil : Good morning prof.
+09:40:02	 From Neveen Elmajdoub : Good morning
+09:40:04	 From Mansoor Syed : morning
+09:40:08	 From Alek Popovic : good morning
+09:40:10	 From Nathan Valdez : good morning
+09:40:25	 From Adrian Escribano : Good morning
+09:40:30	 From Andrew Petravicius : Good morning
+09:40:31	 From James E : morning
+09:40:33	 From Eddie Mei : morning
+09:40:38	 From Michael Cardiff : Morning
+09:40:39	 From Jonathan Polley : morning
+09:40:43	 From Jiahao Zhang : morning
+09:40:43	 From Brian Xu : morning
+09:41:23	 From kristin : good morning
+09:41:28	 From Andres Valencia : good morning
+09:41:33	 From SAM : orning
+09:41:33	 From Eric Zhang : morning
+09:41:35	 From Sean Graney : Morning 
+09:41:40	 From Giovanni Garcia : g'morning
+09:41:50	 From James E : laptop mic better
+09:41:50	 From Fatai Odunewu : good morning
+09:41:52	 From Mansoor Syed : yeah laptop mic wayy better
+09:41:54	 From Alexis Edwards : much better
+09:41:54	 From kristin : sounds good
+09:41:54	 From Kevin Quach : That's better
+09:41:55	 From Ali H. : it is clearer
+09:41:55	 From Nathan Cook : `much better
+09:41:55	 From Mansoor Syed : room mic trash
+09:41:56	 From Andrew Cordell : yeah its a bit clearer
+09:41:56	 From Michael Cardiff : better
+09:41:57	 From Andrew Petravicius : much better
+09:41:58	 From Jonathan Polley : the laptop is clearer
+09:41:58	 From Fatai Odunewu : much better
+09:41:59	 From Andres Valencia : yes
+09:42:00	 From Eddie Mei : yep
+09:42:01	 From Ameer Ali : better
+09:42:02	 From SAM : Yes
+09:42:02	 From Neveen Elmajdoub : laptop is better
+09:42:03	 From Nathan Valdez : laptop mic is better
+09:42:07	 From James E : still good
+09:42:08	 From Ali H. : doesn't take the noise other than your voice
+09:42:09	 From Alexis Edwards : yes
+09:42:10	 From Nathan Cook : yes
+09:42:10	 From Andres Valencia : yes
+09:42:10	 From Jonathan Polley : fine
+09:42:10	 From Ali H. : ye
+09:42:10	 From Mansoor Syed : still better
+09:42:11	 From James E : yes
+09:42:11	 From Michael Cardiff : yess
+09:42:11	 From Andrew Cordell : yes
+09:42:11	 From Andrew Petravicius : yep
+09:42:12	 From Nathan Valdez : yes
+09:42:12	 From kristin : yes still sounds better
+09:42:13	 From Fatai Odunewu : still good
+09:42:13	 From Neveen Elmajdoub : yes
+09:42:14	 From Sameeha Ahmed : yes
+09:42:14	 From SAM : Yes
+09:42:14	 From Alan Palayil : yes
+09:42:15	 From Adrian Escribano : Yes
+09:42:17	 From Alek Popovic : yes
+09:42:18	 From Sohaib Syed : live session better
+09:42:19	 From Drew Bauer : yes this is infinitely better
+09:42:39	 From Giovanni Garcia : *creek*
+09:42:39	 From Jason Scott : That was my favorite part
+09:42:44	 From Jason Scott : :,(
+09:42:47	 From Ameer Ali : You guys used wd40?
+09:43:08	 From Jason Scott : Nah just the bananas from the commons
+09:43:20	 From Zachery Linscott : Good morning
+09:43:28	 From Mansoor Syed : am i supposed to be seeing a video right now or is my zoom just glitched?
+09:44:01	 From James E : mine is work mansoor
+09:44:05	 From Nabeeha Syeda : there is a video, your zoom just glitched
+09:44:09	 From Giovanni Garcia : there is video
+09:44:12	 From Mansoor Syed : ight imma relog in
+09:44:16	 From Alexis Edwards : when is 1st midterm?
+09:44:46	 From Fatai Odunewu : weird question about the homework, we don't have to type in the questions from the assignments ,right?
+09:44:48	 From James E : yes
+09:44:58	 From Anthony Banuelos : maybe one or two
+09:44:59	 From Joshua Hutton : one proof would be nice
+09:44:59	 From James E : proof examples
+09:45:10	 From Giovanni Garcia : cool
+09:45:28	 From Ali H. : ?
+09:45:30	 From James E : no it was just him
+09:45:31	 From Kevin Quach : no
+09:45:34	 From Alan Palayil : no
+09:45:34	 From Jonathan Polley : it seems fine
+09:45:35	 From Anthony Banuelos : I believe its okay
+09:45:35	 From Jane Downer : seems fine
+09:45:41	 From SAM : Its fine
+09:45:41	 From Giovanni Garcia : it was just the one guy
+09:46:01	 From Fatai Odunewu : yes, that's what I did
+09:46:01	 From Mansoor Syed : yeah had to join from the browser, the window app wasn't working for some reason
+09:46:08	 From Joshua Hutton : just out of curiosity, are all of the assignments going to be a similar length to this one?
+09:46:22	 From Fatai Odunewu : that helped a lot
+09:46:27	 From Anthony Banuelos : thank you so much
+09:46:41	 From Alan Palayil : Good question @Joshua
+09:46:58	 From Alexis Edwards : okay thanks!
+09:46:58	 From George Tapia : 😬
+09:47:11	 From Joshua Hutton : because it took me like 5 hours at least:P
+09:47:20	 From Giovanni Garcia : true
+09:47:36	 From Aman Luqman : on that note, does anyone have an easier way of making truth tables in LaTeX?
+09:47:39	 From FENGLIAN LI : 8 hrs
+09:47:50	 From Fatai Odunewu : took me 3hrs
+09:47:59	 From Ameer Ali : 4-5 hours
+09:48:02	 From Aman Luqman : each table took me like 30 minutes by hand 
+09:48:09	 From Giovanni Garcia : Sorry, I just use OneNote
+09:48:14	 From Michael Cardiff : Use  online table makers
+09:48:17	 From Joshua Hutton : copy and paste helped me so much
+09:48:17	 From Aman Luqman : smart
+09:48:29	 From Khushboo B. Bhattu : I used Latex, it was fairly easy
+09:48:44	 From Michael Cardiff : https://www.tablesgenerator.com/#
+09:48:48	 From Mansoor Syed : I used google docs for the truth tables and it only took about 10-15 each table
+09:48:59	 From Fatai Odunewu : Google docs is good as well 
+09:49:02	 From Aman Luqman : @michael, you're a king, thank you
+09:49:13	 From emberhomes : Agreed
+09:49:20	 From Aman Luqman : yeah google docs seems like the move here, thanks y'all
+09:49:22	 From Michael Cardiff : no problem
+09:49:32	 From Ameer Ali : Word was fine for me
+09:49:47	 From Nathan Chahine : yeah google docs made it easy for me 
+09:50:20	 From Jason Scott : I've used LaTex before and its good but if your lazy and just want to get the work done, google docs is the move
+09:50:51	 From Jonathan Polley : I also found google doc was good for me to do it
+09:50:51	 From Anwar Adam : yup, google docs was the move
+09:52:14	 From Alek Popovic : square 2y+1
+09:52:14	 From Thien Le : Square 2y + 1
+09:52:21	 From Jane Downer : square 2y + 1 and see if we can write it in the same format
+09:52:24	 From Michael Cardiff : square x and see if it is in the form 2n+1
+09:52:29	 From Faizan Mohiuddin : square both side
+09:52:31	 From Michael Cardiff : specifically (2y+1)
+09:52:35	 From Anwar Adam : ^2 both sides
+09:52:35	 From Zain Farhat : 2y+1 is the way to go
+09:52:36	 From Fatai Odunewu : square 2y + 1
+09:52:44	 From George Tapia : square both sides
+09:52:52	 From Nathan Chahine : ^2 both sides
+09:53:03	 From Adrian Escribano : 1
+09:53:04	 From Abheek Mondal : +3ab
+09:53:04	 From Austin Roddy : 1
+09:53:05	 From Nikhil C : square both sides and show x^2 is similar to 2y+1
+09:53:05	 From Alek Popovic : foil
+09:53:19	 From Jiahao Zhang : 4y^2+4y+1
+09:53:19	 From FENGLIAN LI : 1
+09:53:21	 From Aman Luqman : 1
+09:53:21	 From Sunny Patel : 1
+09:53:22	 From Nathan Valdez : 4y^2+4y+1
+09:53:23	 From Caitlin Davitt : 1
+09:53:24	 From Junhyx Fetero : 1
+09:53:24	 From Andres Valencia : 1
+09:53:32	 From Michael Cardiff : Factor a 4y
+09:53:39	 From Michael Cardiff : yes
+09:53:40	 From Nikhil C : factor 4y
+09:53:46	 From Alek Popovic : 2(2y^2+2y)+1
+09:53:52	 From Andrew Petravicius : factor
+09:53:54	 From Michael Cardiff : ^
+09:53:54	 From Evelyn Vazquez : factor 4
+09:53:56	 From Austin Roddy : factor 
+09:53:56	 From Abheek Mondal : take out the 2
+09:53:57	 From Anwar Adam : factor
+09:53:58	 From Zain Farhat : 4y(y+1)+1
+09:53:58	 From Eddie Mei : factor 2
+09:54:00	 From Andres Valencia : factor
+09:54:01	 From Mansoor Syed : factor 4
+09:54:02	 From SAM : Factor
+09:54:03	 From Max : factor
+09:54:03	 From Nathan Chahine : factor 4
+09:54:03	 From Sunny Patel : factor 2
+09:54:05	 From Jason Scott : factor
+09:54:08	 From chidera beluonwu : factor out 2
+09:54:13	 From George Tapia : factor it
+09:54:16	 From chidera beluonwu : yes
+09:54:51	 From Michael Cardiff : group axioms
+09:55:27	 From George Tapia : agreed
+09:55:36	 From Jiahao Zhang : yes
+09:55:37	 From Neveen Elmajdoub : yes
+09:55:38	 From Min Kyoung Kang : yes
+09:55:38	 From Kevin Quach : yes
+09:55:39	 From Thien Le : yes
+09:55:39	 From Eddie Mei : yep
+09:55:39	 From Alexis Edwards : y
+09:55:40	 From Joshua Hutton : yes
+09:55:40	 From Nathan Valdez : yes
+09:55:40	 From Andres Valencia : yes
+09:55:40	 From Aman Luqman : yes
+09:55:40	 From Brian Xu : yes
+09:55:41	 From Austin Roddy : yes
+09:55:41	 From Alek Popovic : yes
+09:55:42	 From Anwar Adam : yes
+09:55:42	 From Mansoor Syed : yes
+09:55:44	 From tabor : yes
+09:55:45	 From Z Chaudhry : yes
+09:55:47	 From Junhyx Fetero : y
+09:55:54	 From Kamil Kaczmarczyk : yes
+09:55:58	 From Anthony Banuelos : yes
+09:56:00	 From kristin : yes
+09:56:08	 From Labib Kreidi : yes
+09:57:04	 From Michael Cardiff : That happened with a proof of Fermat's Last Theorem
+09:57:55	 From Ivan Prskalo : proof by contradiction?
+09:58:15	 From Zain Farhat : biconditional
+09:58:33	 From Alexis Edwards : conversely
+09:58:36	 From Zain Farhat : this is w two way proof, must prove in both directions to be true
+09:58:38	 From Kevin Quach : the converse
+09:58:39	 From Faith Busche : vice versa
+09:58:39	 From Jane Downer : squaring any result is odd
+09:58:44	 From George Tapia : makes sense
+09:58:45	 From Fatai Odunewu : if x squared is odd x is also odd
+09:58:46	 From Jane Downer : square root*
+09:59:51	 From Fatai Odunewu : simplification
+10:00:02	 From George Tapia :  simplification 
+10:00:04	 From Zain Farhat : prove each case separately
+10:00:05	 From Nathan Chahine : simplification 
+10:00:08	 From Adam Falcigno : seperately
+10:00:11	 From Aaron Paprocki : simplification
+10:00:12	 From Jason Scott : simp
+10:00:14	 From Elizabeth Paniagua : prove them separately
+10:00:15	 From Giovanni Garcia : seperate
+10:00:18	 From Mansoor Syed : simplify seperately
+10:00:25	 From Jason Scott : lifaction
+10:00:26	 From Anwar Adam : yes
+10:00:31	 From Fatai Odunewu : yes
+10:00:33	 From Sean Graney : firt
+10:00:37	 From Caitlin Davitt : first
+10:00:43	 From Mansoor Syed : second one
+10:01:18	 From Abheek Mondal : 16 doesn't work
+10:01:53	 From Aaron Paprocki : 16 is even
+10:01:54	 From Neveen Elmajdoub : do the same steps as the first one but backwards
+10:01:56	 From Labib Kreidi : 16 isn't odd
+10:01:58	 From Jason Scott : 9
+10:01:58	 From Mansoor Syed : but 16 isnt odd
+10:02:01	 From Ivan Prskalo : aren't negative numbers also integers but they aren't even or odd?
+10:02:04	 From Emanuel Barcenas : 16 isn't odd
+10:02:09	 From Adrian Escribano : 16 isnt odd
+10:02:23	 From Nathan Valdez : negative number can be even / odd
+10:02:25	 From Nathan Cook : -16 isn't odd
+10:02:28	 From Jason Scott : not is 16, even
+10:02:33	 From George Tapia : 🤔
+10:02:46	 From Austin Roddy : indirectly 
+10:02:55	 From Giovanni Garcia : ...indirectly :)
+10:02:57	 From Joshua Hutton : proof by contradiction?
+10:02:57	 From Faizan Mohiuddin : proof by contra?
+10:02:57	 From Aman Luqman : prove that the opposite is false
+10:02:58	 From Sunny Patel : contradiction
+10:02:59	 From Thien Le : Contradiction
+10:03:05	 From Kevin Quach : contradiction
+10:03:06	 From marina pojani : condtraditction 
+10:03:06	 From Zain Farhat : contraposition
+10:03:11	 From Aaron Paprocki : contraposative
+10:03:11	 From Faith Busche : contradiction
+10:03:13	 From Andres Valencia : contraposition
+10:03:14	 From Ivan Prskalo : i think evens and odds only refer to natural numbers so not negative numbers
+10:03:17	 From James E : contradiction
+10:03:18	 From Mansoor Syed : contradiction would take too long no?
+10:03:26	 From Michael Cardiff : contrapositive?
+10:03:27	 From Zain Farhat : contrapositive
+10:03:29	 From Neveen Elmajdoub : proof by contrapositive
+10:03:40	 From Jason Scott : Indirectly (contrapositive and contradiction) 
+10:03:45	 From Nathan Chahine : contrapositive 
+10:03:47	 From Victor Samsonov : Contrapositive
+10:03:48	 From Nabeeha Syeda : contrapositive
+10:03:49	 From Mansoor Syed : contrapositive makes sense
+10:03:50	 From George Tapia : proof by contrapositive
+10:03:53	 From Alek Popovic : contrapositive
+10:03:53	 From marina pojani : contraposotive
+10:03:55	 From Ayman Fahsi : contopositive
+10:03:55	 From Eddie Mei : contrapositive
+10:04:01	 From Jason Scott : Some might even say its fool-proof... lolz
+10:04:14	 From Aman Luqman : if x is even, x^2 must be even as well
+10:04:17	 From Alexis Edwards : x not odd then x^2 not odd
+10:04:19	 From Zain Farhat : x is not odd, then x^2 is not odd
+10:04:21	 From Alek Popovic : if x is not odd then x^2 is not odd
+10:04:22	 From Jane Downer : if x is not odd, then x^2 is not odd
+10:04:24	 From Mikel Woo : x^2 is even then x is even
+10:04:24	 From Caitlin Davitt : if x is even then x^2 is even
+10:04:25	 From Nathan Cook : if x isn't odd then x^2 isn't odd
+10:04:27	 From Kevin Quach : if x^2 is even, then x is even
+10:04:28	 From Austin Roddy : x not odd, then x^2 not odd 
+10:04:28	 From Adrian Escribano : if x is not odd then x^2 is not odd
+10:04:30	 From Neveen Elmajdoub : if x is even then x^2 is even
+10:04:30	 From Ayman Fahsi : the same but in even terms
+10:04:30	 From Sunny Patel : if x is even, then x^2 is even 
+10:04:31	 From Jonathan Polley : x is not odd then x^2 isn't odd
+10:04:31	 From Aaron Paprocki : x even -> x^2 even
+10:04:32	 From Yongkang Hu : if x isnt odd, then x^2 isnt odd
+10:04:36	 From Nathan Valdez : if x is not odd then x^2 is not odd
+10:04:38	 From Andres Valencia : x^2 is even, then x^2 not odd
+10:04:39	 From Ameer Ali : if x is even then x^2 is even
+10:04:39	 From marina pojani : f x isnt odd, then x^2 isnt odd
+10:04:39	 From Min Kyoung Kang : if x if even then x squared is even
+10:04:42	 From Giovanni Garcia : if x is not odd, then x^2 is not odd either
+10:04:43	 From Mansoor Syed : if x not odd then x^2 not ood
+10:04:50	 From Kevin Quach : if x is even. then x^2 is even
+10:04:52	 From Giovanni Garcia : if x is even, then x^2 is even
+10:05:08	 From Michael Sanchez : if x is even, then x^2 is even
+10:05:21	 From George Tapia : makes sense
+10:05:21	 From Luis Acosta : if x is even, then x^2 is even
+10:06:48	 From Min Kyoung Kang : yes
+10:06:48	 From Mansoor Syed : therefore if x^2 odd then x odd
+10:06:51	 From Andres Valencia : yes
+10:06:52	 From Joshua Hutton : yea
+10:06:52	 From Alisha Khan : yes
+10:06:57	 From Joshua Prila : ohhh
+10:07:18	 From Zain Farhat : in this class, we don't always use rules of inference for proofs?
+10:09:16	 From Zain Farhat : thanks that makes is better!
+10:09:50	 From Alek Popovic : do we need to prove the other condition also?
+10:11:18	 From Alek Popovic : right
+10:11:23	 From Joshua Hutton : we already did
+10:11:27	 From Alek Popovic : oh right 
+10:11:41	 From Alek Popovic : my bad, thank you
+10:12:07	 From marina pojani : yes
+10:12:09	 From Michael Cardiff : Probably
+10:12:09	 From Alek Popovic : yes
+10:12:10	 From George Tapia : no
+10:12:13	 From Nabeeha Syeda : no
+10:12:13	 From petar : yes
+10:12:13	 From carlosrodriguez : yes
+10:12:14	 From Junhyx Fetero : yes
+10:12:15	 From Austin Roddy : no
+10:12:17	 From Joshua Hutton : no?
+10:12:17	 From Nathan Chahine : I haven't 
+10:12:18	 From Nathan Valdez : no
+10:12:19	 From Jonathan Polley : yes
+10:12:20	 From Neveen Elmajdoub : no
+10:12:23	 From Andres Valencia : yes
+10:12:24	 From Joanna Findura : no
+10:12:25	 From Jason Scott : We went over this one in Math 100
+10:12:25	 From Jiahao Zhang : yes
+10:12:25	 From Anthony Banuelos : no
+10:12:27	 From Anwar Adam : no
+10:12:52	 From Faith Busche : can you just prove that one number is NOT prime?
+10:14:10	 From Faith Busche : ohhh my bad
+10:14:35	 From Austin Roddy : wrote a program last week. I've found the first 1billion primes 😂
+10:14:59	 From Zain Farhat : insane!
+10:15:04	 From Michael Cardiff : 1 billion ~ infinity
+10:15:15	 From Austin Roddy : only infinity left to go 
+10:16:10	 From Ali H. : thats a prime
+10:16:14	 From Ali H. : no
+10:16:16	 From Anwar Adam : no
+10:16:16	 From Joshua Hutton : nope
+10:16:17	 From Fatai Odunewu : no
+10:16:17	 From Nathan Valdez : no
+10:16:19	 From Eddie Mei : no
+10:16:19	 From Andres Valencia : no
+10:16:21	 From Sean Graney : no
+10:16:22	 From Michael Sanchez : no
+10:16:25	 From Austin Roddy : no
+10:16:29	 From Jason Scott : nie
+10:16:29	 From Aaron Paprocki : no
+10:16:37	 From George Tapia : makes sense 
+10:16:40	 From Min Kyoung Kang : yes
+10:16:45	 From Alexis Edwards : y
+10:16:46	 From Jonathan Polley : yes
+10:16:47	 From Sameeha Ahmed : yes
+10:16:48	 From Giovanni Garcia : gotcha
+10:17:05	 From Michael Cardiff : its unique
+10:17:25	 From Joshua Hutton : but that doesn’t necessarily mean that m is prime? for example 5x3+1=16, and 16 isn’t prime
+10:18:13	 From Aman Luqman : m doesn't need to be prime, it's just the finite limit where primes "end"
+10:18:39	 From Alisha Khan : Wouldn’t you have to do 2*3*5+1 ?
+10:18:43	 From Michael Cardiff : @joshua were gonna do cases
+10:18:44	 From Alisha Khan : @joshua
+10:18:55	 From Eddie Mei : product of prime?
+10:18:57	 From Andrea Ocampo : Product of primes
+10:19:12	 From Andrew Cordell : a multiple of prime
+10:19:13	 From George Tapia : product of primes
+10:19:17	 From Fatai Odunewu : product of primes
+10:19:22	 From Kevin Quach : product of primes
+10:19:23	 From Nathan Cook : product of old prime
+10:19:30	 From Giovanni Garcia : product of primes
+10:19:33	 From Zain Farhat :  product of old priime
+10:19:41	 From Ali H. : @joshua you should have multiplied 2x3x5
+10:19:45	 From Aaron Paprocki : product of primes
+10:20:35	 From Min Kyoung Kang : how could it not be on the list
+10:20:51	 From Ali H. : pn+1
+10:20:51	 From Aaron Paprocki : not finite
+10:20:54	 From Anthony Banuelos : our first assumption is false
+10:20:57	 From Alisha Khan : It is the product of previous primes
+10:20:58	 From Fatai Odunewu : not finite
+10:21:00	 From tabor : infinite
+10:21:00	 From Aman Luqman : the list would just keep going
+10:21:01	 From Joshua Prila : if new prime then there are infinitely many prime numbers
+10:21:04	 From Neveen Elmajdoub : not finite
+10:21:04	 From Alek Popovic : infinite
+10:21:07	 From Andres Valencia : infinite
+10:21:07	 From Mansoor Syed : infinite
+10:21:07	 From Joshua Hutton : also false
+10:21:17	 From Alan Palayil : infinite
+10:21:17	 From Andrea Ocampo : The list cant be finite
+10:21:42	 From George Tapia : infinite 
+10:21:42	 From marina pojani : infinte
+10:21:42	 From Fatai Odunewu : so there are infinite primes
+10:21:42	 From Mansoor Syed : therefore you just proved it by contradiction
+10:22:17	 From Joshua Prila : why can't m just be a product of numbers that are not prime? (I understand why it cannot be a product of primes already in list)
+10:23:00	 From Joshua Prila : wait nevermind I see
+10:23:12	 From George Tapia : makes sense 
+10:23:17	 From Abheek Mondal : so if you want to prove some thing with an infinite list, you would just take a finite version of it and do a proof by contradiction?
+10:24:38	 From Abheek Mondal : oh no i have done induction before :(
+10:25:26	 From Joshua Hutton : couldn’t you just do it by saying that either a number is prime or it is composite, and so if there are infinite primes than there are infinite composite numbers?
+10:26:15	 From Austin Roddy : can you prove that 25 is funnier than 24 
+10:26:24	 From Michael Cardiff : We do not know that infinity plus infinity is infinity
+10:26:31	 From Joshua Hutton : ok
+10:28:08	 From Ayman Fahsi : if you put a function in the set would it still be called a set
+10:28:27	 From Eddie Mei : can a set be infinite?
+10:28:52	 From Zain Farhat : ellipse is the dots?
+10:29:06	 From Aaron Paprocki : @zain yes
+10:30:11	 From Austin Roddy : I think he wrote ellipsis i.e (...) not ellipse 
+10:30:27	 From Mansoor Syed : ^^
+10:31:25	 From Austin Roddy : element of? 
+10:31:30	 From Jason Scott : Yes
+10:34:39	 From Aman Luqman : a logical statement
+10:34:44	 From Faith Busche : the thing you begin with
+10:34:44	 From Zain Farhat : an assertion
+10:34:46	 From Andrew Petravicius : A statement
+10:34:54	 From Saurim Khan : something about the subject
+10:34:57	 From Aaron Paprocki : assertion
+10:35:06	 From Zain Farhat : domain
+10:35:15	 From Michael Cardiff : takes a variable in a domain, evaluates to T or F
+10:35:16	 From Alek Popovic : why can't we say that D is all j between 100 and 200 instead
+10:35:17	 From Junhyx Fetero : domain
+10:35:18	 From Andrea Ocampo : It has a domain
+10:35:18	 From Adam Falcigno : variable
+10:35:21	 From Mansoor Syed : variable
+10:35:22	 From Andres Valencia : domain
+10:35:26	 From Neveen Elmajdoub : variable
+10:35:27	 From Alan Palayil : domain
+10:35:40	 From Jason Scott : and Im blue ba da dee da boo
+10:38:16	 From Min Kyoung Kang : contains 0
+10:38:17	 From Michael Cardiff : set containing the empty set
+10:38:20	 From Abheek Mondal : a set with the empty set
+10:38:24	 From Mife : ^
+10:38:30	 From Ali H. : a list of the symbol of the null
+10:38:37	 From Aaron Paprocki : set of an empty set
+10:39:48	 From Neveen Elmajdoub : true
+10:39:49	 From Eddie Mei : T
+10:39:49	 From Michael Cardiff : y
+10:39:49	 From Alisha Khan : yes
+10:39:49	 From marina pojani :  T
+10:39:49	 From Sean Graney : yes
+10:39:50	 From Thien Le : yes
+10:39:50	 From Eric Zhang : yes
+10:39:50	 From Sara Fryzlewicz : t
+10:39:50	 From David Galicia : T
+10:39:51	 From Faith Busche : yes
+10:39:51	 From Khushboo B. Bhattu : t
+10:39:51	 From Andres Valencia : T
+10:39:51	 From Caitlin Davitt : T
+10:39:51	 From Aaron Paprocki : t
+10:39:52	 From Alexis Edwards : t
+10:39:52	 From tabor : t
+10:39:52	 From Kevin Quach : yes
+10:39:52	 From Aman Luqman : true
+10:39:53	 From Min Kyoung Kang : yes
+10:39:54	 From Mife : t
+10:39:54	 From Andres Valencia : yes
+10:39:54	 From Faizan Mohiuddin : yes
+10:39:55	 From Alan Palayil : T
+10:39:55	 From Lauren Williams : t
+10:39:55	 From Anthony Banuelos : t
+10:39:56	 From Alek Popovic : yes
+10:39:56	 From Jiahao Zhang : t
+10:39:56	 From Nikhil C : t
+10:39:57	 From Adrian Escribano :  t
+10:39:57	 From Mansoor Syed : t
+10:39:58	 From Ali H. : t
+10:40:00	 From Andrew Petravicius : yes
+10:40:03	 From Aaron Paprocki : F
+10:40:04	 From Neveen Elmajdoub : false
+10:40:04	 From Michael Cardiff : F
+10:40:04	 From Caitlin Davitt : F
+10:40:05	 From Alisha Khan : f
+10:40:05	 From Kevin Quach : F
+10:40:06	 From Aman Luqman : false
+10:40:06	 From David Galicia : F
+10:40:06	 From Jonathan Polley : f
+10:40:06	 From Alek Popovic : no
+10:40:06	 From marina pojani : F
+10:40:07	 From Andrew Cordell : no
+10:40:07	 From Mikel Woo : F
+10:40:07	 From Mife : f
+10:40:07	 From Khushboo B. Bhattu : f
+10:40:07	 From Eddie Mei : F
+10:40:07	 From Mansoor Syed : f
+10:40:07	 From Eric Zhang : false
+10:40:07	 From tabor : f
+10:40:07	 From Alexis Edwards : f
+10:40:08	 From Andres Valencia : F
+10:40:08	 From Ivan Prskalo : f
+10:40:08	 From Thien Le : no
+10:40:08	 From Adrian Escribano : f
+10:40:08	 From Abheek Mondal : f
+10:40:08	 From Lauren Williams : f
+10:40:08	 From Faith Busche : f
+10:40:08	 From Alan Palayil : F
+10:40:08	 From Fatai Odunewu : f
+10:40:08	 From George Tapia : false
+10:40:08	 From Ameer Ali : f
+10:40:09	 From Andrew Petravicius : false
+10:40:10	 From Faizan Mohiuddin : f
+10:40:11	 From Ayman Fahsi : f
+10:40:11	 From Sean Graney : f
+10:40:11	 From Andres Valencia : F
+10:40:11	 From Andrew Cordell : false
+10:40:12	 From Sunny Patel : F
+10:40:13	 From Jane Downer : false
+10:40:14	 From Min Kyoung Kang : f
+10:40:15	 From Nathan Valdez : f
+10:40:15	 From Junhyx Fetero : f
+10:40:16	 From Jason Cheng : F
+10:40:16	 From Victor Samsonov : False
+10:40:17	 From Adam Falcigno : TFFFFT
+10:40:17	 From Anthony Banuelos : f
+10:40:17	 From Jane Downer : remove bracket
+10:40:18	 From Kamil Kaczmarczyk : F
+10:40:19	 From Kevin Quach : make a a set
+10:40:20	 From Michael Cardiff : subset
+10:40:20	 From Nikolaus Schultze : false
+10:40:21	 From Alisha Khan : Make a set
+10:40:21	 From Zain Farhat : out set a in the set
+10:40:23	 From Faith Busche : brackets around a
+10:40:24	 From FENGLIAN LI : un equal
+10:40:25	 From tabor : remove brackets
+10:40:25	 From James E : curly brackets over a
+10:40:28	 From Anwar Adam : set 
+10:40:28	 From Sunny Patel : braces
+10:40:33	 From Neveen Elmajdoub : remove brackets
+10:40:34	 From Andrew Cordell : curly braces over a
+10:40:34	 From Andres Valencia : brackets remove
+10:40:36	 From Fatai Odunewu : have {a} in there
+10:40:38	 From Michael Cardiff : F
+10:40:38	 From Alisha Khan : f
+10:40:39	 From Evelyn Vazquez : false
+10:40:39	 From Sean Graney : no
+10:40:39	 From Mikel Woo : F
+10:40:39	 From Yasaman Mostafavi : F
+10:40:40	 From Ivan Prskalo : f
+10:40:40	 From Faith Busche : no
+10:40:40	 From David Galicia : F
+10:40:40	 From Khushboo B. Bhattu : f
+10:40:40	 From Alan Palayil : F
+10:40:40	 From tabor : f
+10:40:40	 From Alek Popovic : false
+10:40:40	 From Lauren Williams : f
+10:40:40	 From Thien Le : no
+10:40:41	 From marina pojani : no
+10:40:41	 From Ameer Ali : g
+10:40:41	 From Aaron Paprocki : no
+10:40:41	 From Abheek Mondal : no
+10:40:41	 From Neveen Elmajdoub : false
+10:40:41	 From Fatai Odunewu : f
+10:40:41	 From Kevin Quach : no
+10:40:41	 From Caitlin Davitt : F
+10:40:41	 From Adrian Escribano : f
+10:40:41	 From Kenneth Addo : f
+10:40:42	 From Nathan Chahine : false
+10:40:42	 From Aman Luqman : no
+10:40:42	 From Victor Samsonov : False
+10:40:42	 From Nathan Valdez : f
+10:40:43	 From Ayman Fahsi : f
+10:40:43	 From Adam Falcigno : nahh
+10:40:43	 From Andres Valencia : f
+10:40:43	 From Anthony Banuelos : f
+10:40:43	 From Brian Xu : f
+10:40:44	 From Andrew Cordell : nope
+10:40:44	 From George Tapia : false 
+10:40:44	 From Sunny Patel : no
+10:40:44	 From carlosrodriguez : f
+10:40:44	 From Faizan Mohiuddin : f
+10:40:45	 From Jane Downer : false
+10:40:45	 From Andres Valencia : f
+10:40:47	 From Eric Zhang : false
+10:40:47	 From Junhyx Fetero : f
+10:40:50	 From Z Chaudhry : f
+10:40:50	 From Victor Samsonov : False
+10:40:50	 From Junhyx Fetero : f
+10:40:51	 From Alisha Khan : f
+10:40:51	 From tabor : f
+10:40:51	 From Sara Fryzlewicz : f
+10:40:51	 From Austin Roddy : f
+10:40:51	 From Neveen Elmajdoub : false
+10:40:51	 From Eric Zhang : false
+10:40:51	 From Sean Graney : f
+10:40:52	 From Alan Palayil : F
+10:40:52	 From marina pojani : f
+10:40:52	 From Kevin Quach : No
+10:40:52	 From Alek Popovic : false
+10:40:52	 From Khushboo B. Bhattu : f
+10:40:52	 From David Galicia : f
+10:40:52	 From Yasaman Mostafavi : F
+10:40:52	 From Faith Busche : no
+10:40:52	 From carlosrodriguez : f
+10:40:53	 From Ayman Fahsi : f
+10:40:53	 From Lauren Williams : f
+10:40:53	 From Kenneth Addo : f
+10:40:53	 From Abheek Mondal : f
+10:40:53	 From Ameer Ali : f
+10:40:54	 From chidera beluonwu : false
+10:40:54	 From Andrew Cordell : no
+10:40:54	 From Nikolaus Schultze : f
+10:40:54	 From Jane Downer : yes?
+10:40:54	 From Sunny Patel : f
+10:40:54	 From Nathan Chahine : false 
+10:40:55	 From Min Kyoung Kang : f
+10:40:55	 From George Tapia : f
+10:40:55	 From Thien Le : f
+10:40:55	 From Andres Valencia : f
+10:40:55	 From Andrea Ocampo : f
+10:40:55	 From Tomiwa : f
+10:40:56	 From Aman Luqman : no
+10:40:56	 From Brian Xu : f
+10:40:56	 From Nathan Valdez : f
+10:40:57	 From Aaron Paprocki : t
+10:40:57	 From Caitlin Davitt : F
+10:40:57	 From Adrian Escribano : F
+10:40:57	 From Jason Cheng : f
+10:40:58	 From Zain Farhat : f
+10:40:59	 From Eddie Mei : f
+10:40:59	 From Michael Cardiff : F
+10:40:59	 From Fatai Odunewu : f
+10:41:01	 From Joshua Hutton : true
+10:41:01	 From Adam Falcigno : no
+10:41:02	 From Jonathan Polley : f
+10:41:09	 From Yasaman Mostafavi : I suppose there is no folder inthat folder 
+10:41:10	 From Alisha Khan : no
+10:41:12	 From marina pojani : no
+10:41:12	 From Ali H. : no
+10:41:13	 From Khushboo B. Bhattu : no
+10:41:13	 From Eddie Mei : no
+10:41:13	 From Tomiwa : no
+10:41:14	 From Alan Palayil : no
+10:41:14	 From Brian Xu : no
+10:41:14	 From Mansoor Syed : no
+10:41:14	 From Ayman Fahsi : no
+10:41:14	 From Jonathan Polley : no
+10:41:15	 From Eric Zhang : no
+10:41:15	 From Andres Valencia : no
+10:41:16	 From kristin : no
+10:41:17	 From Z Chaudhry : no
+10:41:19	 From tabor : no
+10:41:21	 From George Tapia : no
+10:41:24	 From Sean Graney : if it was {a,{}}
+10:41:35	 From Adrian Escribano : yes
+10:41:36	 From Alan Palayil : {a,{}}
+10:41:37	 From Sunny Patel : yes
+10:41:39	 From Andres Valencia : yes
+10:41:43	 From Sara Fryzlewicz : t
+10:41:43	 From Mikel Woo : T
+10:41:44	 From Khushboo B. Bhattu : t
+10:41:44	 From Ivan Prskalo : t
+10:41:44	 From Junhyx Fetero : t
+10:41:44	 From Joshua Prila : yes
+10:41:44	 From Jane Downer : true
+10:41:44	 From Austin Roddy : true
+10:41:44	 From Thien Le : f
+10:41:45	 From David Galicia : t
+10:41:45	 From tabor : rue
+10:41:45	 From Joshua Hutton : t
+10:41:45	 From Alan Palayil : T
+10:41:45	 From Nathan Valdez : t
+10:41:45	 From Alisha Khan : no
+10:41:45	 From Yasaman Mostafavi : T
+10:41:45	 From Aaron Paprocki : t
+10:41:46	 From Ayman Fahsi : t
+10:41:46	 From Adrian Escribano : T
+10:41:46	 From Ali H. : f
+10:41:46	 From Andrew Cordell : Yes
+10:41:47	 From carlosrodriguez : t
+10:41:47	 From Austin Roddy : t
+10:41:47	 From Eric Zhang : true
+10:41:47	 From Max : t
+10:41:47	 From Sunny Patel : t
+10:41:48	 From Sean Graney : yes
+10:41:48	 From Lauren Williams : t
+10:41:48	 From Zain Farhat : f
+10:41:48	 From Andres Valencia : T
+10:41:49	 From tabor : true
+10:41:49	 From Alek Popovic : false
+10:41:49	 From Thien Le : no
+10:41:49	 From Nathan Chahine : True
+10:41:49	 From Joshua Prila : true
+10:41:50	 From Kevin Quach : No
+10:41:50	 From Mife : f
+10:41:51	 From Sean Graney : oop
+10:41:51	 From Aaron Paprocki : g
+10:41:51	 From Zain Farhat : f
+10:41:52	 From Caitlin Davitt : F
+10:41:52	 From Andrea Ocampo : no
+10:41:52	 From Fatai Odunewu : f
+10:41:52	 From Eric Zhang : false
+10:41:52	 From Anthony Banuelos : f
+10:41:52	 From Junhyx Fetero : f
+10:41:52	 From Abheek Mondal : f
+10:41:52	 From Zain Farhat : f
+10:41:54	 From Andres Valencia : F
+10:41:54	 From marina pojani : f
+10:41:54	 From George Tapia : false
+10:41:55	 From Andrew Petravicius : f
+10:41:56	 From Mansoor Syed : f
+10:41:58	 From Victor Samsonov : False
+10:42:00	 From Alek Popovic : {{}}
+10:42:01	 From Sean Graney : woah
+10:42:01	 From Lauren Williams : oop
+10:42:05	 From Nathan Chahine : ohh
+10:42:05	 From Adrian Escribano : Oh, oops
+10:42:06	 From carlosrodriguez : oh
+10:42:08	 From Yasaman Mostafavi : oh lol
+10:42:08	 From Victor Samsonov : True
+10:42:08	 From Abheek Mondal : t
+10:42:08	 From Kevin Quach : rip
+10:42:09	 From Alisha Khan : true
+10:42:09	 From Abheek Mondal : t
+10:42:09	 From James E : T
+10:42:09	 From Ayman Fahsi : o ok
+10:42:09	 From Thien Le : yes
+10:42:10	 From Aman Luqman : true
+10:42:10	 From Austin Roddy : true
+10:42:10	 From Junhyx Fetero : t
+10:42:10	 From Yongkang Hu : t
+10:42:10	 From Sara Fryzlewicz : t
+10:42:10	 From Alek Popovic : true
+10:42:10	 From Adrian Escribano : yes
+10:42:10	 From Abheek Mondal : t
+10:42:11	 From marina pojani : y
+10:42:11	 From Zain Farhat : t
+10:42:11	 From Mife : t
+10:42:11	 From Abheek Mondal : t
+10:42:11	 From Thien Le : ture
+10:42:11	 From Elizabeth Paniagua : True
+10:42:12	 From kristin : t
+10:42:12	 From Joshua Hutton : t
+10:42:12	 From David Galicia : t
+10:42:12	 From Abheek Mondal : t
+10:42:12	 From tabor : yes
+10:42:12	 From carlosrodriguez : t
+10:42:12	 From Brian Xu : t
+10:42:13	 From Mikel Woo : T
+10:42:13	 From Abheek Mondal : t
+10:42:13	 From Sean Graney : T 
+10:42:13	 From Caitlin Davitt : T
+10:42:13	 From Ayman Fahsi : true
+10:42:14	 From Abheek Mondal : t
+10:42:14	 From Khushboo B. Bhattu : t
+10:42:14	 From Faizan Mohiuddin : yes
+10:42:14	 From Sameeha Ahmed : t
+10:42:14	 From Fatai Odunewu : t
+10:42:14	 From Eddie Mei : t
+10:42:14	 From Ali H. : t
+10:42:15	 From Alan Palayil : yes
+10:42:15	 From Zain Farhat : TRUE
+10:42:15	 From George Tapia : t
+10:42:16	 From Anthony Banuelos : t
+10:42:17	 From Eric Zhang : true
+10:42:17	 From Kevin Quach : Yews
+10:42:17	 From tabor : true
+10:42:18	 From Andres Valencia : T
+10:42:19	 From Ameer Ali : true
+10:42:19	 From Nathan Valdez : t
+10:42:20	 From Aaron Paprocki : t
+10:42:20	 From Kevin Quach : yes*
+10:42:21	 From Nathan Chahine : t
+10:42:32	 From Jason Scott : tfffft
+10:42:36	 From Aaron Paprocki : t
+10:42:41	 From marina pojani : yess
+10:42:43	 From Labib Kreidi : true
+10:42:44	 From Alan Palayil : T
+10:42:44	 From Andres Valencia : t
+10:42:44	 From Sean Graney : welp 50/50
+10:42:45	 From Kenneth Addo : t
+10:42:46	 From Mikel Woo : F
+10:42:47	 From Sean Graney : T
+10:42:54	 From Neveen Elmajdoub : Fatrue
+10:42:55	 From Aaron Paprocki : f
+10:42:55	 From Adam Falcigno : Is that a 6 or a b
+10:42:57	 From George Tapia : t
+10:42:59	 From James E : f
+10:42:59	 From Brian Xu : t
+10:43:00	 From Alisha Khan : false
+10:43:01	 From Eric Zhang : false
+10:43:02	 From Jiahao Zhang : t?
+10:43:03	 From Sara Fryzlewicz : t
+10:43:04	 From Alek Popovic : true
+10:43:04	 From Ameer Ali : true
+10:43:04	 From Jane Downer : yes
+10:43:05	 From Nathan Valdez : f
+10:43:06	 From carlosrodriguez : T
+10:43:07	 From Kamil Kaczmarczyk : F
+10:43:08	 From Ali H. : f
+10:43:10	 From Eddie Mei : F
+10:43:10	 From Nathan Chahine : f
+10:43:13	 From Min Kyoung Kang : t
+10:43:14	 From tabor : true
+10:43:15	 From Ameer Ali : C all of the above
+10:43:17	 From Jonathan Polley : false
+10:43:17	 From Aaron Paprocki : t
+10:43:19	 From Alek Popovic : wait no false
+10:43:21	 From Andres Valencia : t
+10:43:22	 From Lauren Williams : it looks like a 6 to me
+10:43:22	 From Wen Hao (Tim) Yu : false
+10:43:22	 From Fatai Odunewu : f
+10:43:22	 From Abheek Mondal : f
+10:43:23	 From Austin Roddy : Frue
+10:43:24	 From Sunny Patel : F
+10:43:27	 From Zain Farhat : F
+10:43:31	 From Ayman Fahsi : can’t read
+10:43:33	 From Thien Le : f
+10:43:33	 From Faith Busche : f
+10:43:35	 From David Galicia : f
+10:43:37	 From kristin : f
+10:43:38	 From FENGLIAN LI : f
+10:43:38	 From FENGLIAN LI : f
+10:43:39	 From FENGLIAN LI : f
+10:43:39	 From FENGLIAN LI : f
+10:43:39	 From FENGLIAN LI : f
+10:43:39	 From FENGLIAN LI : ff
+10:43:39	 From FENGLIAN LI : f
+10:43:39	 From Ali H. : true
+10:43:39	 From FENGLIAN LI : f
+10:43:39	 From FENGLIAN LI : f
+10:43:40	 From FENGLIAN LI : f
+10:43:40	 From FENGLIAN LI : f
+10:43:40	 From FENGLIAN LI : f
+10:43:40	 From FENGLIAN LI : f
+10:43:42	 From Kevin Quach : f
+10:43:42	 From Alan Palayil : Ohh, dang it's F
+10:43:45	 From Aman Luqman : t as long as z!= 6
+10:43:48	 From Min Kyoung Kang : f
+10:43:54	 From Ivan Prskalo : i thought that was a z
+10:43:58	 From Lauren Williams : same
+10:44:01	 From Thien Le : same
+10:44:04	 From Ameer Ali : Oh that is a 2
+10:44:33	 From Alan Palayil : Same, i thought it was z as well
+10:44:42	 From Austin Roddy : all integers expect for 6. 
+10:44:42	 From Joshua Hutton : false
+10:44:44	 From Faizan Mohiuddin : false\
+10:44:46	 From Alisha Khan : W cant be 2
+10:44:51	 From Austin Roddy : false
+10:44:54	 From Faizan Mohiuddin : 6 is divisible by 2
+10:44:59	 From Ameer Ali : false
+10:45:17	 From Ali H. : 6 is not divisible by w
+10:45:18	 From Jane Downer : 2 is in the set that isn’t divisible by 6
+10:45:26	 From Zain Farhat : 6 is not divisible by w
+10:45:26	 From Alek Popovic : is 6 divisible by 2
+10:45:44	 From Sean Graney : yes
+10:46:08	 From Aman Luqman : false
+10:46:09	 From Jane Downer : ok, false
+10:46:10	 From tabor : ohh false
+10:46:11	 From Anthony Banuelos : F
+10:46:12	 From Lauren Williams : false
+10:46:12	 From Sean Graney : F
+10:46:12	 From Ali H. : f
+10:46:13	 From Adrian Escribano : F
+10:46:14	 From Kenneth Addo : f
+10:46:14	 From Austin Roddy : false
+10:46:14	 From Min Kyoung Kang : f
+10:46:14	 From Andres Valencia : F
+10:46:15	 From Neveen Elmajdoub : false
+10:46:16	 From George Tapia : f
+10:46:18	 From carlosrodriguez : false
+10:46:18	 From Yasaman Mostafavi : lol
+10:46:19	 From Elizabeth Paniagua : false
+10:46:19	 From Jason Cheng : f
+10:46:20	 From Ameer Ali : false
+10:46:20	 From Min Kyoung Kang : lol
+10:46:23	 From Fatai Odunewu : lmao
+10:46:42	 From FENGLIAN LI : LOL
+10:49:11	 From Aman Luqman : infinite
+10:49:12	 From Michael Cardiff : infinite
+10:49:13	 From Sean Graney : infinite 
+10:49:13	 From Aaron Paprocki : infinire
+10:49:14	 From Kevin Quach : infinite
+10:49:14	 From tabor : finite

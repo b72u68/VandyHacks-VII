@@ -1,0 +1,1061 @@
+09:42:23	 From Jason Scott : Morning yall
+09:42:28	 From Sunny Patel : Morning 
+09:42:30	 From Kevin Quach : Good morning
+09:42:30	 From Aman Luqman : good morning!
+09:42:31	 From James E : morning
+09:42:31	 From Giovanni Garcia : good morning
+09:42:33	 From Nathan Chahine : good morning
+09:42:34	 From Nathan Cook : good morning
+09:42:34	 From Junhyx Fetero : morning
+09:42:34	 From Ivan Prskalo : good morning
+09:42:34	 From Alan Biju Palayil : morning
+09:42:35	 From Nabeeha Syeda : good morning
+09:42:36	 From Alek Popovic : good morning
+09:42:36	 From Thien Le : morning
+09:42:36	 From SAM : Morning
+09:42:36	 From Sameeha Ahmed : good morning
+09:42:36	 From jonathan polley : morning
+09:42:37	 From vsams : Good morning
+09:42:37	 From Neveen Elmajdoub : good morning 
+09:42:37	 From Nathan Valdez : good morning
+09:42:38	 From Alexis Edwards : goodmorning!
+09:42:38	 From Carlena Veller : good morning
+09:42:38	 From Neil Bhandari : morning
+09:42:39	 From Nikolaus Schultze : good morning
+09:42:39	 From Ali Guzelyel : good morning
+09:42:39	 From Tabor "Juice" : Good morning guys
+09:42:39	 From Caitlin Davitt : Good morning
+09:42:40	 From Aaron Paprocki : good morning
+09:42:40	 From Joshua Hutton : morning
+09:42:40	 From kristin : good morning
+09:42:41	 From Andres Valencia : good morning
+09:42:42	 From Sean Graney : Morning
+09:42:43	 From Alisha Khan : morning
+09:42:45	 From Anthony Banuelos : good morning
+09:42:45	 From Andrew Petravicius : good morning
+09:42:45	 From Jesse A. Cortez : Good morning.
+09:42:46	 From Tyler Keating : good mornigng
+09:42:46	 From Alae Moudni : morning
+09:42:47	 From Andrew Cordell : good morning!
+09:42:49	 From Fahsil : morning
+09:42:50	 From Carlos Rodriguez : morning
+09:42:52	 From Na'im Muhammad : Hi Professor Lee 😃👋
+09:42:55	 From Sebastian Gembis : helo
+09:43:15	 From Drew Bauer : morning prof!
+09:43:25	 From Jason Scott : Which section of moss?
+09:43:29	 From Eddie Mei : Morning!
+09:43:36	 From George Tapia (The Decider) : good morning
+09:43:59	 From Austin Roddy : https://moss.cs.iit.edu/cs330/
+09:44:04	 From Na'im Muhammad : I wonder, why do you call it “MOSS” @Prof LEe?
+09:44:36	 From Aman Luqman : moss isn't boring at all :o
+09:44:37	 From Jason Scott : Yes I have been on the site but I don't see a title of a section for "YouTube playlist" 
+09:44:53	 From Aman Luqman : it's on the left side, jason
+09:45:02	 From Jason Scott : Ahh I had to refresh it and it popped up thanks lol
+09:45:14	 From Alisha Khan : Recitation will be on blackboard right?
+09:45:40	 From Abheek Mondal : what will recitations cover again?
+09:45:49	 From Zachery Linscott : I’ve never done recitation, what should we expect?
+09:46:13	 From Mitchell Traylor : Probably practice problems and QA
+09:46:23	 From Ali Guzelyel : Are you going to stream and record classes if IIT starts in person classes
+09:47:33	 From Yasaman Mostafavi : when will we get our first assignment
+09:47:34	 From SAM : Where will assignments be posted?
+09:48:25	 From SAM : Where on the website?
+09:48:25	 From Yasaman Mostafavi : cool.
+09:48:36	 From Abheek Mondal : when will all the assignments be due by?
+09:48:39	 From SAM : Ok. thanks
+09:48:49	 From Abheek Mondal : oh ok, thank you
+09:50:52	 From Na'im Muhammad : @Prof Lee, so reading assignments are in the calendar column 😮
+09:51:23	 From James E : no sir
+09:52:05	 From Na'im Muhammad : § <— Is there something we need to know about this?
+09:52:24	 From Michael Cardiff : it means section
+09:52:33	 From Na'im Muhammad : Oh! 😮 Thank you!
+09:52:43	 From Michael Cardiff : np
+09:55:37	 From Na'im Muhammad : ⊥
+09:55:41	 From Zain Farhat : perpendicular
+09:55:44	 From Ameer : Perpendicular
+09:55:47	 From Na'im Muhammad : My symbol thing calls it an up tack
+09:55:49	 From Emanuel Barcenas : upside down T
+09:55:51	 From Austin Roddy : upside down T
+09:55:52	 From Eddie Mei : Reverse T?
+09:55:56	 From Patrick Inosanto : up something
+09:55:59	 From Aman Luqman : T-n't
+09:56:07	 From Ameer : A T at half mass
+09:56:08	 From Ali Guzelyel : looks like GND
+09:56:14	 From Fahsil : anti-T
+09:56:20	 From Ameer : mast*
+09:56:23	 From Giovanni Garcia : anT
+09:56:30	 From Jesse A. Cortez : DOwn tact
+09:56:31	 From Joshua Prila : false
+09:56:31	 From Nathan Valdez : T from australia
+09:56:44	 From Jason Scott : Live inverse T for false
+09:56:47	 From Jason Scott : like*
+09:56:51	 From Sunny Patel : sounds like a harry potter spell
+09:56:52	 From Ameer : Up tack is the real name
+09:57:09	 From Keaton Whiteley : yes
+09:57:09	 From Kevin Quach : Yes
+09:57:09	 From Junhyx Fetero : yes
+09:57:09	 From Jane Downer : yes
+09:57:10	 From Tabor "Juice" : yes
+09:57:10	 From James E : yes
+09:57:10	 From Eric Zhang : yes
+09:57:10	 From Aman Luqman : ye
+09:57:10	 From Sameeha Ahmed : yes
+09:57:10	 From Nikolaus Schultze : yes
+09:57:10	 From Brian Xu : Yes
+09:57:10	 From Michael Sanchez : Yes
+09:57:11	 From Joshua Hutton : yes
+09:57:11	 From Carlena Veller : yes
+09:57:11	 From Neveen Elmajdoub : Yes
+09:57:11	 From Alisha Khan : yes
+09:57:11	 From vsams : Yes
+09:57:11	 From Ali Guzelyel : yes
+09:57:11	 From Fahsil : yes
+09:57:11	 From Na'im Muhammad : Yes
+09:57:11	 From Alek Popovic : yes
+09:57:11	 From Andres Valencia : yes
+09:57:12	 From Andrea Ocampo : yes
+09:57:12	 From marinapojani : yes
+09:57:12	 From Thien Le : yes
+09:57:12	 From Nabeeha Syeda : true
+09:57:12	 From Anwar Adam : yes
+09:57:13	 From Nathan Valdez : yes
+09:57:13	 From Nathan Chahine : yes
+09:57:13	 From Sean Graney : yes
+09:57:13	 From Adam Falcigno : yes
+09:57:15	 From Jason Scott : true
+09:57:15	 From Adrian Escribano : Yes
+09:57:15	 From Jason Cheng : yes
+09:57:16	 From Kenneth A. : yes
+09:57:16	 From Giovanni Garcia : yes
+09:57:16	 From Joshua Prila : ye
+09:57:16	 From Junhyx Fetero : yes
+09:57:16	 From Kevin Quach : Yes
+09:57:16	 From Jane Downer : yes
+09:57:17	 From Nikolaus Schultze : yes
+09:57:17	 From Anwar Adam : yes
+09:57:17	 From Nabeeha Syeda : false
+09:57:17	 From Keaton Whiteley : yes
+09:57:17	 From Ameer : yes
+09:57:17	 From Tabor "Juice" : yes
+09:57:17	 From Carlena Veller : yes
+09:57:17	 From Alek Popovic : yes
+09:57:17	 From Fahsil : yes
+09:57:17	 From Tommy Ton : yes
+09:57:17	 From Aman Luqman : yes
+09:57:17	 From Aaron Paprocki : yes
+09:57:18	 From Saurim Khan : yes
+09:57:18	 From Jiahao Zhang : yes
+09:57:18	 From Caitlin Davitt : yes
+09:57:18	 From Sean Graney : yes
+09:57:18	 From Brian Xu : Yes
+09:57:18	 From Adrian Escribano : Yes
+09:57:19	 From Alisha Khan : yes
+09:57:19	 From Sameeha Ahmed : yes
+09:57:19	 From SAM : Yes
+09:57:19	 From Eric Zhang : yes
+09:57:19	 From Nathan Chahine : yes
+09:57:20	 From Michael Sanchez : Yes
+09:57:20	 From Ali Guzelyel : yes
+09:57:20	 From Angelica Madera : yes
+09:57:21	 From Jason Scott : true
+09:57:21	 From Jason Cheng : yes
+09:57:22	 From Anthony Banuelos : yes
+09:57:22	 From marinapojani : yes
+09:57:22	 From Andres Valencia : yes
+09:57:28	 From Zair Chaudhry : Yez
+09:57:30	 From Neveen Elmajdoub : no
+09:57:30	 From Adam Falcigno : no
+09:57:30	 From Eric Zhang : no
+09:57:31	 From Sohaib Syed : no
+09:57:31	 From Jane Downer : no
+09:57:31	 From Abheek Mondal : no
+09:57:31	 From marinapojani : no
+09:57:31	 From Zain Farhat : no
+09:57:31	 From Giovanni Garcia : nope
+09:57:31	 From Jiahao Zhang : no
+09:57:31	 From Carlena Veller : no
+09:57:31	 From Joshua Prila : no
+09:57:31	 From Kevin Quach : No
+09:57:31	 From Aaron Paprocki : no
+09:57:31	 From Ameer : no
+09:57:31	 From Sameeha Ahmed : no
+09:57:31	 From Junhyx Fetero : no
+09:57:31	 From Michael Sanchez : No
+09:57:31	 From Caitlin Davitt : no
+09:57:31	 From Alisha Khan : no
+09:57:31	 From Austin Roddy : false
+09:57:31	 From Tabor "Juice" : No
+09:57:31	 From Andrew Cordell : no
+09:57:31	 From Andrea Ocampo : no
+09:57:31	 From Nikolaus Schultze : no
+09:57:31	 From Aman Luqman : absolutely not
+09:57:32	 From Angelica Madera : no
+09:57:32	 From Alexis Edwards : n
+09:57:32	 From kristin : no
+09:57:32	 From Adrian Escribano : No
+09:57:32	 From Alek Popovic : no
+09:57:32	 From Jaciel Saucedo : No
+09:57:32	 From Saurim Khan : no
+09:57:32	 From Sunny Patel : no
+09:57:32	 From Sean Graney : no
+09:57:32	 From Tommy Ton : no
+09:57:32	 From jonathan polley : no
+09:57:32	 From Nathan Valdez : no
+09:57:32	 From Jason Cheng : no
+09:57:33	 From Fahsil : no
+09:57:33	 From Jason Scott : no
+09:57:33	 From Thien Le : no
+09:57:33	 From Anthony Banuelos : no
+09:57:33	 From James E : noi
+09:57:33	 From Brian Xu : No
+09:57:33	 From Andres Valencia : no
+09:57:33	 From Justin Turziak : no
+09:57:34	 From Tyler Keating : no
+09:57:34	 From Nathan Chahine : no
+09:57:34	 From Kenneth A. : no
+09:57:34	 From Jason Scott : false
+09:57:34	 From Wen Hao (Tim) Yu : no
+09:57:34	 From Ali Guzelyel : no
+09:57:34	 From SAM : No
+09:57:35	 From Nathan Cook : no
+09:57:35	 From Carlos Rodriguez : no
+09:57:35	 From Emanuel Barcenas : no
+09:57:35	 From Lauren Williams : no
+09:57:36	 From Anwar Adam : no
+09:57:37	 From Zair Chaudhry : No
+09:57:42	 From Fatai Odunewu : no
+09:57:43	 From Neveen Elmajdoub : yes
+09:57:43	 From Luis Acosta : no
+09:57:46	 From Fenglian Li : ..
+09:57:47	 From Abheek Mondal : yes
+09:57:47	 From Jason Scott : or crash zoom
+09:57:47	 From vsams : yes
+09:57:47	 From Caitlin Davitt : yes
+09:57:48	 From Nikolaus Schultze : yes
+09:57:48	 From Nabeeha Syeda : yes
+09:57:48	 From Jane Downer : yes
+09:57:48	 From Alexis Edwards : y
+09:57:48	 From Saurim Khan : Yes
+09:57:48	 From Yongkang Hu : yes
+09:57:48	 From Carlena Veller : yes
+09:57:48	 From marinapojani : yes
+09:57:48	 From James E : yes
+09:57:48	 From Sameeha Ahmed : yes
+09:57:48	 From Tabor "Juice" : yes
+09:57:48	 From Sean Graney : yes
+09:57:48	 From Eric Zhang : yes
+09:57:49	 From Sunny Patel : yes
+09:57:49	 From Kevin Quach : Yes
+09:57:49	 From Thien Le : yes
+09:57:49	 From jonathan polley : yes
+09:57:49	 From Alek Popovic : yes
+09:57:49	 From Emanuel Barcenas : yes
+09:57:49	 From Junhyx Fetero : yes
+09:57:49	 From Wen Hao (Tim) Yu : Yes
+09:57:49	 From Giovanni Garcia : yes
+09:57:49	 From Aman Luqman : yes^yes
+09:57:49	 From Patrick Inosanto : yes
+09:57:49	 From kristin : yes
+09:57:49	 From Adrian Escribano : Yes
+09:57:49	 From Lauren Williams : yes
+09:57:49	 From Anwar Adam : yes
+09:57:49	 From Kenneth A. : yes
+09:57:49	 From Fatai Odunewu : yes
+09:57:49	 From Andrew Petravicius : Yes
+09:57:50	 From Nathan Chahine : yes
+09:57:50	 From Tommy Ton : Yes
+09:57:50	 From Josie Mace : yes
+09:57:50	 From Neveen Elmajdoub : yes
+09:57:50	 From Ameer : yes
+09:57:50	 From Justin Turziak : yes
+09:57:50	 From Tyler Keating : yea
+09:57:50	 From Luis Acosta : yes
+09:57:50	 From Michael Sanchez : Yes
+09:57:50	 From Tom Hartley : yes
+09:57:51	 From Aaron Paprocki : yes
+09:57:51	 From Andrea Ocampo : yea
+09:57:51	 From George Tapia (The Decider) : yes
+09:57:51	 From Brian Xu : Yes
+09:57:51	 From Fahsil : yep
+09:57:51	 From Yasaman Mostafavi : yes
+09:57:51	 From Andres Valencia : yes
+09:57:51	 From Jesse A. Cortez : yes
+09:57:51	 From Jason Scott : yes
+09:57:51	 From Jason Cheng : yes
+09:57:51	 From Jiahao Zhang : yes
+09:57:51	 From Nathan Valdez : yes
+09:57:51	 From Andrew Cordell : yes
+09:57:51	 From Keaton Whiteley : yes
+09:57:51	 From Austin Roddy : yes
+09:57:51	 From Faith Busche : yes
+09:57:52	 From Elizabeth Aquino : yes
+09:57:52	 From Adam Falcigno : sure
+09:57:52	 From Zair Chaudhry : Yes
+09:57:52	 From Petar Stoichkov : yes
+09:57:52	 From Carlos Rodriguez : yes
+09:57:52	 From SAM : Yes
+09:57:52	 From Angelica Madera : yes
+09:57:52	 From Anthony Banuelos : yes
+09:57:53	 From Zain Farhat : yes
+09:57:54	 From Andres Valencia : yes
+09:57:54	 From Ali Guzelyel : yes
+09:57:54	 From Eddie Mei : yes
+09:57:54	 From Fenglian Li : yes
+09:57:54	 From Sebastian Gembis : yes
+09:57:55	 From Jesse A. Cortez : yes
+09:57:55	 From Alisha Khan : yes
+09:57:56	 From Yifan Deng : yes
+09:57:57	 From Sean Graney : two propositions
+09:57:58	 From James E : how did u know?
+09:58:07	 From Tom Hartley : &&
+09:58:11	 From Fatai Odunewu : and
+09:58:27	 From Sean Hogarty : wait I thought this class started at 10. how much did I miss
+09:58:35	 From Giovanni Garcia : rip
+09:58:37	 From Abheek Mondal : f
+09:58:38	 From Eric Zhang : f
+09:58:39	 From Saurim Khan : F
+09:58:39	 From Giovanni Garcia : f
+09:58:39	 From Jason Scott : f
+09:58:40	 From Aman Luqman : f
+09:58:40	 From Sean Graney : f
+09:58:41	 From Kevin Quach : lolz
+09:58:42	 From Jeebe Diop : f
+09:58:42	 From Anthony Banuelos : f
+09:58:44	 From Caitlin Davitt : f
+09:58:45	 From Jesse A. Cortez : F
+09:58:45	 From Andrew Petravicius : f
+09:58:46	 From Fahsil : f
+09:58:46	 From Luis Acosta : F
+09:58:46	 From kristin : f
+09:58:47	 From James E : f
+09:58:51	 From Na'im Muhammad : Why the f in the chat 😮
+09:58:52	 From Andres Valencia : f
+09:58:57	 From Fahsil : yes
+09:58:58	 From Abheek Mondal : f is to pay respect
+09:58:59	 From Saurim Khan : F for respect
+09:59:00	 From Elizabeth Paniagua : lol
+09:59:01	 From Luis Acosta : F to pay respects
+09:59:01	 From Zachery Linscott : Press f for respect
+09:59:02	 From George Tapia (The Decider) : f
+09:59:03	 From Giovanni Garcia : F in chat
+09:59:04	 From Adam Falcigno : what
+09:59:05	 From Sean Hogarty : it's not a fortnite thing
+09:59:07	 From Joshua Prila : "fortnite thing" hmm 
+09:59:07	 From Jason Scott : Ok boomer
+09:59:08	 From Keaton Whiteley : CoD
+09:59:09	 From Emanuel Barcenas : fortnite?
+09:59:09	 From Abheek Mondal : false\
+09:59:10	 From Jiahao Zhang : f
+09:59:12	 From Eric Zhang : no
+09:59:12	 From Drew Bauer : o no
+09:59:12	 From Tabor "Juice" : yes
+09:59:12	 From Nikolaus Schultze : no
+09:59:12	 From Alexis Edwards : no
+09:59:13	 From Yongkang Hu : no
+09:59:13	 From Adam Falcigno : no
+09:59:13	 From Wen Hao (Tim) Yu : No
+09:59:13	 From Saurim Khan : no
+09:59:13	 From Thien Le : no
+09:59:13	 From Emanuel Barcenas : yes
+09:59:13	 From James E : no
+09:59:13	 From Abheek Mondal : no
+09:59:13	 From Andres Valencia : no
+09:59:13	 From Nabeeha Syeda : no
+09:59:13	 From Aman Luqman : it's definitely not fortnite
+09:59:13	 From Jiahao Zhang : no
+09:59:14	 From Tyler Keating : no
+09:59:14	 From Sunny Patel : no
+09:59:14	 From Mife : no
+09:59:14	 From Caitlin Davitt : no
+09:59:14	 From Aaron Paprocki : no
+09:59:14	 From jonathan polley : no
+09:59:14	 From Luis Acosta : no
+09:59:15	 From Faith Busche : y
+09:59:15	 From Jason Cheng : no
+09:59:15	 From Eddie Mei : no
+09:59:15	 From vsams : no
+09:59:15	 From Alek Popovic : no
+09:59:15	 From Nathan Chahine : no
+09:59:15	 From Andrew Petravicius : no
+09:59:15	 From Tommy Ton : no
+09:59:15	 From Neveen Elmajdoub : no
+09:59:15	 From Fahsil : runescape
+09:59:15	 From Nathan Valdez : no
+09:59:15	 From Sara Fryzlewicz : no
+09:59:15	 From Jane Downer : both?
+09:59:15	 From Kevin Quach : no
+09:59:16	 From Christian Razo : yes
+09:59:16	 From Ali Guzelyel : no
+09:59:16	 From George Tapia (The Decider) : no
+09:59:16	 From Petar Stoichkov : no
+09:59:16	 From Anthony Banuelos : no
+09:59:16	 From Adrian Escribano : Yes
+09:59:16	 From Nathan Cook : 0
+09:59:16	 From Josie Mace : no
+09:59:16	 From Kenneth A. : no
+09:59:16	 From Fatai Odunewu : no
+09:59:16	 From Andrea Ocampo : no
+09:59:16	 From Khushboo B. Bhattu : falsum
+09:59:16	 From Sean Hogarty : it's from call of duty advanced warfare
+09:59:17	 From Giovanni Garcia : no
+09:59:17	 From Angelica Madera : no
+09:59:17	 From Sean Graney : no
+09:59:17	 From Carlos Rodriguez : no
+09:59:17	 From Sameeha Ahmed : no
+09:59:17	 From Na'im Muhammad : No
+09:59:17	 From Yifan Deng : no
+09:59:17	 From Alisha Khan : no
+09:59:17	 From marinapojani : no
+09:59:17	 From Aman Luqman : yes v yes
+09:59:18	 From David G : no
+09:59:18	 From Michael Sanchez : No
+09:59:18	 From Andres Valencia : no
+09:59:18	 From Jesse A. Cortez : No
+09:59:18	 From Austin Roddy : no
+09:59:18	 From Jason Scott : no
+09:59:18	 From Zain Farhat : no
+09:59:19	 From Elizabeth Paniagua : its a more of a gamer thing
+09:59:19	 From Mikel Woo : no
+09:59:19	 From Zair Chaudhry : No
+09:59:19	 From SAM : NO
+09:59:19	 From Elizabeth Aquino : no
+09:59:19	 From Brian Xu : No
+09:59:24	 From George Tapia (The Decider) : no
+09:59:24	 From Labib Kreidi : no
+09:59:25	 From Calvin Teng : no
+09:59:45	 From Alan Biju Palayil : no
+09:59:49	 From Aaron Paprocki : java
+09:59:50	 From Na'im Muhammad : SQL?
+09:59:50	 From Alek Popovic : java
+09:59:51	 From Alisha Khan : java
+09:59:56	 From Na'im Muhammad : RIGHT!
+09:59:56	 From Alan Biju Palayil : c++
+09:59:57	 From Ameer : python
+09:59:58	 From Aman Luqman : python
+09:59:59	 From Adam Falcigno : python
+10:00:00	 From Fahsil : c
+10:00:00	 From Josie Mace : c#
+10:00:25	 From Na'im Muhammad : Kotlin? 😮
+10:01:14	 From Abheek Mondal : OH is that why we use the variable p, for proposition?
+10:01:37	 From Alexis Edwards : so atomic props make up compound props?
+10:02:46	 From Na'im Muhammad : ¬ ⊕ 😮
+10:03:07	 From Jason Scott : its just exclusive lolz
+10:03:07	 From Abheek Mondal : what about XAND?
+10:03:25	 From Abheek Mondal : ok
+10:03:32	 From Aman Luqman : !p ^ !q?
+10:04:04	 From Zain Farhat : isn't + with a circle around it symmetric difference?
+10:04:14	 From Alexis Edwards : The book mentioned using parentheses, so will we be doing the same?
+10:04:17	 From Mansoor Syed : yup
+10:04:33	 From Alexis Edwards : like to help remember precedence
+10:04:59	 From Alexis Edwards : okay thanks!
+10:05:05	 From Anwar Adam : I have a question
+10:05:17	 From Alisha Khan : disjunction
+10:05:17	 From Jane Downer : disjunction
+10:05:18	 From Alexis Edwards : disjunction
+10:05:18	 From Alek Popovic : disjunction
+10:05:19	 From Michael Cardiff : disjunction
+10:05:19	 From Na'im Muhammad : Disjunction
+10:05:19	 From Sunny Patel : disjunction
+10:05:20	 From Sameeha Ahmed : disjunction
+10:05:21	 From Ali Guzelyel : disj
+10:05:21	 From Zachery Linscott : disjunction
+10:05:22	 From Andres Valencia : disjunction
+10:05:22	 From Eddie Mei : disjunction
+10:05:22	 From Zain Farhat : disjunction
+10:05:22	 From Faith Busche : dis
+10:05:23	 From Caitlin Davitt : disjunction
+10:05:23	 From Tabor "Juice" : disjunction
+10:05:23	 From Fatai Odunewu : disjunction
+10:05:24	 From Yasaman Mostafavi : disjunction
+10:05:24	 From Andrew Petravicius : disjunction
+10:05:24	 From vsams : disjunction
+10:05:24	 From Joshua Prila : disjunction 
+10:05:24	 From Adrian Escribano :     disjunction
+10:05:25	 From Joshua Hutton : disjunction
+10:05:28	 From Kevin Quach : ||
+10:05:30	 From Jason Scott : disjunction
+10:06:12	 From Michael Cardiff : then if both were negative it would pass
+10:06:13	 From Ali Guzelyel : x and y true
+10:06:19	 From Alek Popovic : because if they were both negative the exception wouldn't be thrown
+10:06:20	 From Adam Falcigno : If both were negative
+10:06:21	 From Fatai Odunewu : both
+10:06:22	 From Carlos Rodriguez : both
+10:06:36	 From Zain Farhat : OR needs at least one to be true
+10:06:45	 From Na'im Muhammad : I’m still a bit confused on how xor works 😮
+10:07:19	 From Na'im Muhammad : OHH!!!
+10:07:38	 From Na'im Muhammad : 🍦 OR 🍰, not both :)
+10:07:46	 From Eddie Mei : I would like both
+10:07:55	 From Aman Luqman : ice cream cake
+10:08:17	 From Abheek Mondal : both
+10:08:17	 From Fahsil : both
+10:08:19	 From Eddie Mei : both
+10:08:20	 From Adrian Escribano : Ice cream cake.
+10:08:20	 From Zachery Linscott : Only true if one is true
+10:08:21	 From Andres Valencia : both
+10:08:21	 From Yongkang Hu : both
+10:08:21	 From Jesse A. Cortez : Ice cream cake
+10:08:22	 From Carlena Veller : both
+10:08:22	 From Jason Cheng : both
+10:08:22	 From Jason Scott : yes
+10:08:23	 From Tyler Keating : both
+10:08:23	 From Aman Luqman : an ice cream cake
+10:08:24	 From Drew Bauer : I like amans answer
+10:08:24	 From Nathan Chahine : yes
+10:08:25	 From marinapojani : both
+10:08:25	 From Fatai Odunewu : yes
+10:08:25	 From Alan Biju Palayil : both
+10:08:26	 From Wen Hao (Tim) Yu : both
+10:08:26	 From Tommy Ton : yes
+10:08:26	 From Jiahao Zhang : yes
+10:08:29	 From Joshua Prila : ⊥
+10:09:26	 From Ivan Prskalo : yes
+10:09:26	 From Fatai Odunewu : yesf
+10:09:26	 From Alek Popovic : yes
+10:09:27	 From Sunny Patel : yeah
+10:09:27	 From Na'im Muhammad : Yes
+10:09:27	 From Saurim Khan : yes
+10:09:27	 From Nathan Chahine : yes
+10:09:27	 From Carlena Veller : yes
+10:09:27	 From Joshua Hutton : yep
+10:09:27	 From Tommy Ton : yes
+10:09:27	 From mflisk : yes
+10:09:27	 From Elizabeth Paniagua : yes
+10:09:28	 From Alisha Khan : yes
+10:09:28	 From Jesse A. Cortez : Yes
+10:09:28	 From Austin Roddy : yes
+10:09:28	 From Lauren Williams : yes
+10:09:28	 From Andres Valencia : yes
+10:09:28	 From Anthony Banuelos : yes
+10:09:29	 From Aman Luqman : nah
+10:09:29	 From Petar Stoichkov : yes
+10:09:29	 From Drew Bauer : yep
+10:09:29	 From Eric Zhang : yes
+10:09:29	 From Alan Biju Palayil : yes
+10:09:29	 From Andrew Petravicius : yes
+10:09:29	 From Khushboo B. Bhattu : yeet
+10:09:29	 From Nathan Valdez : yes
+10:09:30	 From Caitlin Davitt : yep
+10:09:30	 From Fahsil : y1
+10:09:30	 From Kevin Quach : yes
+10:09:30	 From Jason Scott : yes
+10:09:30	 From Ali Guzelyel : yes cs350
+10:09:32	 From Kenneth Addo : yea\
+10:09:33	 From Andrea Ocampo : yea
+10:09:33	 From Eddie Mei : yep
+10:09:34	 From Jason Scott : Math 100 
+10:09:35	 From Brian Xu : ye
+10:09:36	 From Kamil Kaczmarczyk : yes
+10:09:36	 From Yifan Deng : yes
+10:09:39	 From Austin Roddy : OR
+10:09:40	 From Alek Popovic : and
+10:09:41	 From Sunny Patel : or
+10:09:41	 From Alisha Khan : P or q
+10:09:41	 From Abheek Mondal : or
+10:09:41	 From Thien Le : or
+10:09:41	 From Alan Biju Palayil : or
+10:09:42	 From Aman Luqman : p or q
+10:09:42	 From Tabor "Juice" : or
+10:09:43	 From Na'im Muhammad : OR
+10:09:43	 From Alek Popovic : or
+10:09:44	 From Carlena Veller : or
+10:09:44	 From Zain Farhat : or
+10:09:45	 From Kenneth Addo : or
+10:09:45	 From Faith Busche : p or q
+10:09:45	 From Jason Scott : or
+10:09:46	 From mflisk : or
+10:09:46	 From Anthony Banuelos : p or q
+10:09:46	 From Andrew Petravicius : or
+10:09:47	 From Aman Luqman : ^
+10:09:47	 From Carlos Rodriguez : or
+10:09:49	 From jonathan polley : or
+10:09:49	 From Andres Valencia : or
+10:09:51	 From Fatai Odunewu : inclusive or
+10:09:52	 From Joshua Prila : inclusive or
+10:10:23	 From Alan Biju Palayil : TT=T,TF=F,FT+F,FF=F
+10:10:31	 From Thien Le : True true true false
+10:10:36	 From Ameer : T
+10:10:40	 From Kenneth Addo : T
+10:10:40	 From Fatai Odunewu : t t t f
+10:10:48	 From Jiahao Zhang : tttf
+10:11:10	 From Alan Biju Palayil : Damn, I did AND instead of OR
+10:11:26	 From Sean Graney : FTTF
+10:11:28	 From Kenneth Addo : f t t f
+10:11:28	 From Carlos Rodriguez : fttf
+10:11:28	 From Eddie Mei : FTTF
+10:11:29	 From Joshua Prila : F T T F
+10:11:30	 From Carlena Veller : F T T F
+10:11:31	 From Alisha Khan : fttf
+10:11:32	 From Na'im Muhammad : F T T F <— 😮
+10:11:32	 From Joanna Findura : fttf
+10:11:33	 From Ameer : FTTF
+10:11:34	 From Mikel Woo : F T T F
+10:11:35	 From Tabor "Juice" : fttf
+10:11:35	 From Anthony Banuelos : FTTF
+10:11:35	 From Faith Busche : fttf
+10:11:36	 From Jane Downer : fttf
+10:11:37	 From Jason Cheng : fttf
+10:11:37	 From Sunny Patel : FTTF
+10:11:38	 From SAM : fttf
+10:11:38	 From Wen Hao (Tim) Yu : Fttf
+10:11:39	 From Jiahao Zhang : fttf
+10:11:40	 From Caitlin Davitt : FTTF
+10:11:41	 From Tommy Ton : FTTF
+10:11:41	 From Alex Michael : fttf
+10:11:41	 From Anthony E. Paiotti : fttf
+10:11:42	 From Kevin Quach : F T T F
+10:11:43	 From Zachery Linscott : F t t f
+10:11:44	 From Alan Biju Palayil : fttf
+10:11:46	 From Adam Falcigno : 0110
+10:11:46	 From Christian Razo : f t t f
+10:11:51	 From Josie Mace : fttf
+10:11:52	 From Nathan Chahine : fttf
+10:11:53	 From Kamil Kaczmarczyk : Fttf
+10:11:54	 From Adrian Escribano : f t t f
+10:11:56	 From Fatai Odunewu : fttf
+10:12:00	 From Saurim Khan : wait why
+10:12:04	 From Na'im Muhammad : Yes, definitely good!
+10:12:08	 From Aman Luqman : only one of them can be true
+10:12:12	 From Drew Bauer : this makes so much more sense now lol
+10:12:22	 From Saurim Khan : ohhh yeah I remember now
+10:12:31	 From Sean Graney : yeah fr that's a great way to explain it
+10:13:01	 From Na'im Muhammad : @Prof Lee knows we like our 🍦 😋
+10:13:04	 From Saurim Khan : alright yeah I get it, thanks
+10:13:22	 From Alek Popovic : n^2?
+10:13:26	 From Alek Popovic : oops
+10:13:31	 From Na'im Muhammad : OOH, CS 331 returns
+10:14:21	 From Tyler Keating : 4
+10:14:21	 From Alek Popovic : 4
+10:14:22	 From mflisk : 4
+10:14:22	 From Carlena Veller : 4
+10:14:23	 From Tabor "Juice" : 4
+10:14:23	 From Aman Luqman : 2
+10:14:23	 From Alisha Khan : 4
+10:14:24	 From Andres Valencia : 4
+10:14:26	 From Brian Xu : 4
+10:14:27	 From Jason Cheng : 4
+10:14:28	 From Alan Biju Palayil : 4
+10:14:28	 From Kevin Quach : 4
+10:14:29	 From Carlos Rodriguez : 4
+10:14:30	 From Eric Zhang : 4
+10:14:38	 From Jason Scott : four
+10:14:45	 From Jiahao Zhang : 4
+10:14:48	 From Anthony E. Paiotti : 4
+10:14:49	 From Tyler Keating : it's 2^n rows total, right?
+10:15:02	 From Eddie Mei : sounds right
+10:15:08	 From Alek Popovic : you would be counting in binary
+10:15:09	 From Ameer : Yes it is
+10:15:13	 From Abheek Mondal : binary
+10:15:14	 From Jason Cheng : counting binary
+10:15:15	 From Tyler Keating : binary
+10:15:20	 From Faith Busche : binary
+10:15:23	 From Joshua Hutton : 0-7 in binary
+10:15:25	 From Jason Scott : binary
+10:16:00	 From Thien Le : 16
+10:16:01	 From Nabeeha Syeda : c16an you explain 
+10:16:01	 From Joshua Hutton : 16
+10:16:01	 From Anthony E. Paiotti : 16
+10:16:01	 From Alek Popovic : 16
+10:16:01	 From Kenneth Addo : 16
+10:16:02	 From Fahsil : 16
+10:16:02	 From Ameer : 16
+10:16:02	 From Eric Zhang : 167
+10:16:02	 From Sunny Patel : 16
+10:16:03	 From Mife : 16
+10:16:03	 From Carlos Rodriguez : 16
+10:16:03	 From Andres Valencia : 16
+10:16:03	 From Carlena Veller : 16
+10:16:04	 From Fatai Odunewu : 16
+10:16:04	 From Eric Zhang : *16
+10:16:05	 From Austin Roddy : 16
+10:16:05	 From Alan Biju Palayil : 16
+10:16:06	 From Nabeeha Syeda : 16
+10:16:06	 From Jason Cheng : 16
+10:16:07	 From jonathan polley : 16
+10:16:07	 From Zain Farhat : ^4
+10:16:08	 From Brian Xu : 16
+10:16:08	 From Yifan Deng : 16
+10:16:08	 From Tommy Ton : 16
+10:16:09	 From Jason Scott : 16
+10:16:11	 From Kevin Quach : 16
+10:16:11	 From Angelica Madera : 16
+10:16:13	 From Wen Hao (Tim) Yu : 16
+10:16:13	 From Nathan Valdez : 0-15 in binary
+10:16:14	 From Zain Farhat : 2^4
+10:16:19	 From Faith Busche : 16
+10:16:23	 From Neveen Elmajdoub :  16
+10:16:26	 From marinapojani : 16
+10:16:30	 From Mansoor Syed : 4^2
+10:16:31	 From Na'im Muhammad : 0000 -> 1111
+10:17:08	 From Andrew Cordell : will it double each time we add a variable?
+10:17:32	 From Na'im Muhammad : @Prof Lee showing off his iPad magic
+10:17:40	 From Ameer : No Andrew it is exponential
+10:17:45	 From Alexis Edwards : y
+10:17:45	 From Carlos Rodriguez : yes
+10:17:47	 From James E : yes
+10:17:47	 From mflisk : yes
+10:17:48	 From Alan Biju Palayil : y
+10:17:48	 From Fenglian Li : ye
+10:17:48	 From Lauren Williams : yep
+10:17:49	 From Tabor "Juice" : yes
+10:17:50	 From Kenneth Addo : yea
+10:17:50	 From Andres Valencia : yes
+10:17:51	 From Sameeha Ahmed : yes
+10:17:52	 From Yongkang Hu : yes
+10:17:59	 From Anthony E. Paiotti : base 2 lol
+10:18:00	 From Fatai Odunewu : yes
+10:18:26	 From Ivan Prskalo : no
+10:18:29	 From Na'im Muhammad : 2^10 😮
+10:18:29	 From Anthony E. Paiotti : 2^10
+10:18:30	 From Anwar Adam : 10
+10:18:30	 From Sean Graney : no
+10:18:31	 From Eddie Mei : I hope I don’t have to
+10:18:31	 From Yasaman Mostafavi : no, thankfully.
+10:18:31	 From Ali Guzelyel : 2034
+10:18:32	 From Alexis Edwards : alot
+10:18:32	 From Alek Popovic : 2^10
+10:18:33	 From Petar Stoichkov : 1024
+10:18:33	 From Tommy Ton : 1024
+10:18:35	 From Sameeha Ahmed : 2^10
+10:18:35	 From Ali Guzelyel : 1024
+10:18:35	 From Fenglian Li : ...
+10:18:36	 From Faith Busche : a lot
+10:18:36	 From Aman Luqman : many
+10:18:36	 From Sunny Patel : 1024
+10:18:37	 From Ameer : Yes you have to draw that
+10:18:37	 From Carlena Veller : 1024
+10:18:37	 From Jiahao Zhang : 2^10
+10:18:38	 From Jesse A. Cortez : 1024
+10:18:39	 From SAM : 1024
+10:18:40	 From Andres Valencia : 1024
+10:18:50	 From Fenglian Li : wow
+10:19:04	 From Faith Busche : like into the atomic propositions?
+10:19:45	 From Faith Busche : gotchya
+10:21:06	 From Sohaib Syed : I love cats and computer science 'is a science'
+10:21:06	 From Alisha Khan : I love cats and cs is a science
+10:21:08	 From Tabor "Juice" : I love cats and computer science is a science
+10:21:08	 From Carlena Veller : I love cats and computer science is a science.
+10:21:08	 From Nabeeha Syeda : I love cats and computer science is a science
+10:21:09	 From Jane Downer : I love cats and computer science is a sceince
+10:21:09	 From Sameeha Ahmed : I love cats and computer science is a science
+10:21:09	 From Abheek Mondal : i love cats and computer science is a science
+10:21:10	 From Sean Graney : I love cats and computer science
+10:21:10	 From Sunny Patel : I love cats and CS is a science
+10:21:11	 From Alex Michael : I love cats and cs is a science
+10:21:11	 From Neveen Elmajdoub : I love cats and computer science is a science
+10:21:12	 From Alek Popovic : I love cats and cs is a science
+10:21:12	 From Saurim Khan : I love cats and cs is a science
+10:21:13	 From Michael Sanchez : I love cats and computer science and science
+10:21:14	 From Fenglian Li : I LOVE CATS AND CS IS A SCIENCE
+10:21:17	 From Andres Valencia : I love cats and cs is a science
+10:21:18	 From Tommy Ton : I love cats and computer science is a science
+10:21:21	 From Jason Scott : I love cats & CS is sci
+10:21:21	 From Abheek Mondal : i hate cats and isn't a science
+10:21:21	 From Anthony Banuelos : I love cats and cs is a science
+10:21:23	 From Anthony E. Paiotti : I love cats and cs is a science
+10:21:24	 From Caitlin Davitt : I don t love cats and computer science isnt a science
+10:21:26	 From Alisha Khan : I dont love cats or computer science isnt a science
+10:21:27	 From George Tapia (The Decider) : I love cats and cs is a science
+10:21:28	 From Saurim Khan : I don't love cats or cs is not a science
+10:21:30	 From Christian Razo : I don't love cats and cs is not a science
+10:21:30	 From Fenglian Li : I DO NOT LOVE CATS AND CS IS NOT SCIENDCE
+10:21:31	 From Zachery Linscott : I do not love cats or computer science isn’t a science
+10:21:31	 From Jesse A. Cortez : I don't love cats and CS is not science
+10:21:31	 From Na'im Muhammad : I don’t like cats or computer science is not a science
+10:21:31	 From Tabor "Juice" : I do not love cats and cs is not a science
+10:21:32	 From Faith Busche : I don't love cats and cs is not a science
+10:21:32	 From Fahsil : I hate cats and cs isn't a scinece
+10:21:32	 From Yongkang Hu : i dont like cats and cs is not a science
+10:21:32	 From Alek Popovic : I don't love cats or I cs isn't a science
+10:21:34	 From Aman Luqman : i don't love cats or computer science is not a science
+10:21:34	 From Zain Farhat : I dnt love cats or computer sci is not a sci
+10:21:35	 From Tommy Ton : I don't love cats or computer science isn't a science
+10:21:36	 From Kenneth Addo : I dont like cats and computer science isnt science
+10:21:37	 From Kevin Quach : I don't love cats and CS is not a science
+10:21:37	 From Jason Cheng : I do not love cats or cs is not science
+10:21:37	 From Sunny Patel : I do not love cats or cs is not a science 
+10:21:38	 From Sameeha Ahmed : i don't love cats or cs  i not a science
+10:21:39	 From Sean Graney : I don't love cats or cs is not a science
+10:21:39	 From Jason Scott : I don't like cats or CS is not a sci
+10:21:40	 From mflisk : I don't love cats or cs is not a science 
+10:21:41	 From Nathan Valdez : I don't love cats and cs is not a science
+10:21:41	 From Ameer : I hate cats or cs is not a science
+10:21:42	 From Andres Valencia : I don't love cats and cs is not a science
+10:21:44	 From Wen Hao (Tim) Yu : I dont like cats and computer science isnt science
+10:21:46	 From Anthony E. Paiotti : don't love cats and cs isn't a science
+10:21:46	 From Tabor "Juice" : or
+10:21:47	 From Eddie Mei : I don’t love cats or computer science is not science
+10:22:07	 From Alisha Khan : I love cats and cs is a science or 4 is not less than 100
+10:22:08	 From Na'im Muhammad : No, in English, that doesn’t work either because I don’t like != I hate 😮
+10:22:08	 From vsams : I love cats and computer science is a science or it is not 4 < 100
+10:22:10	 From Jane Downer : I love cats and either cs is is a science or 4 is not less than 100
+10:22:14	 From Zain Farhat : I love cats and comp sci is a sci or 4 is not < 100
+10:22:16	 From Saurim Khan : how about no
+10:22:23	 From Andrew Cordell : I love cats AND computer science is not a science OR 4 is not less than 100
+10:22:25	 From Drew Bauer : i love cats and cs is a science but 4 is not less than 100
+10:22:25	 From Ameer : I love cats and cs is a science or 4 > 100
+10:22:26	 From Anwar Adam : i love cants and cs is a science 
+10:22:27	 From Adam Falcigno : yes
+10:22:28	 From Abheek Mondal : yes?
+10:22:28	 From Nathan Chahine : I love cats and comp sci is a science or 4 is not less than 100
+10:22:28	 From Tommy Ton : I love cats and either computer science is a science or 4 is not less than 100
+10:22:29	 From Jason Cheng : I love cats and either cs is is a science or 4 is not less than 100
+10:22:32	 From Drew Bauer : or********
+10:22:33	 From Ameer : It is for precedence
+10:22:34	 From Andres Valencia : I love cats and cs is not a science or 4 is not less than 100
+10:22:34	 From Yongkang Hu : i love cats and cs is a science or 4 is not <100
+10:22:37	 From Nathan Cook : I love cats and either computer science is a science or 4 is not less than 100
+10:22:38	 From Sameeha Ahmed : i love cats and cs is science or 4 is not less than 100
+10:22:39	 From Tomiwa : I love cats and cs is a science or 4>100
+10:22:39	 From Alek Popovic : I lovoe cats and cs is a science or 4 is not less than 100
+10:22:42	 From Nathan Valdez : I love cats and cs is a science or 4 is not < 100
+10:22:45	 From Fenglian Li : I LOVE CATS AND CS IS SCINCE OR 4 IS NOT LESS THAN 100
+10:22:45	 From Faith Busche : I love cats and either cs is a science or 4 is not less than 100
+10:22:47	 From Jason Scott : I love cats and either CS is a sci or 4 is not less than 100
+10:22:48	 From Christian Razo : i love cats and either cs is a science or 4 < 100
+10:22:49	 From Zachery Linscott : I love cats and (computer science is a science or 4 is not less than 100)
+10:22:54	 From mflisk : I love cats and either cs is a science or 4 is not less than 100
+10:22:56	 From Ameer : Cs is a science or 4 >100 and I love cats
+10:23:02	 From Carlos Rodriguez : Got it
+10:23:05	 From Zain Farhat : I love cats and I do not love cats
+10:23:05	 From Neveen Elmajdoub : I love cats and I don't love cats
+10:23:05	 From Ivan Prskalo : I love cats and I don't love cats
+10:23:06	 From Drew Bauer : i love cats and i don't love cats
+10:23:07	 From Jane Downer : I love cats and I dont love cats
+10:23:07	 From Nathan Chahine : i love cats and i don't love cats
+10:23:07	 From Jiahao Zhang : I love cats and computer science is a science or 4 is not less than 100
+10:23:08	 From Alisha Khan : I love cats and I dont love cats
+10:23:10	 From Saurim Khan : I love cats and I don't love cats
+10:23:10	 From Mikel Woo : I love cats and I don't love cats
+10:23:13	 From Petar Stoichkov : I love cats and I don't love cats
+10:23:14	 From Jaciel Saucedo : I love cats and do not love cats
+10:23:14	 From Kenneth Addo : I love cats and I dont love cats
+10:23:14	 From Faith Busche : i love cats and i dont
+10:23:14	 From Nabeeha Syeda : I love cats and I don't love cats
+10:23:14	 From Christian Razo : i love and hate cats
+10:23:15	 From Yongkang Hu : i love cats and i dont love cats
+10:23:15	 From Jeebe Diop : i love cats and i don't love cats
+10:23:15	 From Wen Hao (Tim) Yu : i love cats and i don't love cats
+10:23:15	 From Angelica Madera : I love cats and I don't love cats
+10:23:15	 From Tabor "Juice" : i love cats and i don't love cats
+10:23:15	 From Sameeha Ahmed : i love cats and I don't love cats 
+10:23:16	 From Ameer : I love cats and I hate cats
+10:23:16	 From Emanuel Barcenas : I love cats and I don't love cats
+10:23:16	 From Michael Cardiff : Always false
+10:23:16	 From Andrew Petravicius : love cats and also don't 
+10:23:17	 From Carlena Veller : i love cats and i don't love cats
+10:23:17	 From Ali Guzelyel : false
+10:23:17	 From Alek Popovic : I love cats and I don't love cats
+10:23:17	 From Zain Farhat : contradiction
+10:23:17	 From Zachery Linscott : Contradiction?
+10:23:17	 From Tommy Ton : I love cats and I don't love cats
+10:23:17	 From Jason Scott : I love cats and I don't love cats
+10:23:17	 From Sunny Patel : I love cats and I don't love cats 
+10:23:17	 From Andres Valencia : I love cats and I don't love cats
+10:23:18	 From Caitlin Davitt : I love cats and I dont love cats
+10:23:19	 From mflisk : I love cats and I don't love cats
+10:23:19	 From Adam Falcigno : Always 0
+10:23:20	 From Anthony Banuelos : I love cats and I don't love cats
+10:23:21	 From Ali Guzelyel : 0
+10:23:22	 From Zain Farhat : contradiction
+10:23:22	 From Nathan Cook : schroedingers feelings about cats
+10:23:22	 From Mansoor Syed : i love cats and i dont love cats
+10:23:22	 From Tommy Ton : False
+10:23:22	 From Joshua Hutton : always false
+10:23:23	 From Jane Downer : false
+10:23:23	 From Alisha Khan : Always false
+10:23:23	 From Michael Cardiff : False
+10:23:25	 From Andrea Ocampo : Its not true
+10:23:25	 From Sunny Patel : contradicts each other
+10:23:26	 From Fatai Odunewu : I love cats and I don't love cats
+10:23:26	 From Nathan Valdez : false
+10:23:27	 From Kenneth Addo : False
+10:23:27	 From Carlos Rodriguez : Contradiction
+10:23:27	 From Jason Scott : False
+10:23:27	 From Jesse A. Cortez : False
+10:23:27	 From Andres Valencia : false
+10:23:28	 From Carlena Veller : false
+10:23:28	 From Mansoor Syed : false
+10:23:28	 From George Tapia (The Decider) : I dont love cats or cs is not a science 
+10:23:30	 From Sean Graney : I love cants and I don't love cats
+10:23:30	 From Austin Roddy : always false
+10:23:30	 From Fatai Odunewu : false
+10:23:31	 From Wen Hao (Tim) Yu : false
+10:23:31	 From Fenglian Li : 0
+10:23:32	 From Christian Razo : always false
+10:23:32	 From Sameeha Ahmed : false 
+10:23:33	 From Jiahao Zhang : false
+10:23:33	 From Eddie Mei : flase
+10:23:33	 From Faith Busche : false
+10:23:36	 From Adrian Escribano : false
+10:23:37	 From Anthony E. Paiotti : false
+10:23:42	 From Jason Scott : It doesn't look purrty
+10:23:45	 From Saurim Khan : cs is a science or cs is not a science
+10:23:45	 From Mikel Woo : CS is a science or CS is not a science
+10:23:46	 From Michael Cardiff : Always true
+10:23:46	 From vsams : computer science is a science or computer science is not a science
+10:23:46	 From Alek Popovic : cs is a science or cs is not a science
+10:23:47	 From Andrew Petravicius : maybe they hate cats the animal but love Cats the movie
+10:23:47	 From marinapojani : Computer science is science and computer science is not science
+10:23:48	 From Jane Downer : cs is a science or cs is not a science
+10:23:48	 From Nathan Valdez : always true
+10:23:49	 From Aaron Paprocki : cs is a science or cs is not a science
+10:23:49	 From Jeebe Diop : computer science is a science or computer science is not a science
+10:23:50	 From Carlena Veller : computer science is a science or it is not a science
+10:23:50	 From Sunny Patel : always true 
+10:23:50	 From Anwar Adam : True
+10:23:51	 From Tommy Ton : Computer science is a science and computer science isn't a science
+10:23:51	 From Fatai Odunewu : true
+10:23:52	 From Neveen Elmajdoub : cs is a science or cs is nit a science
+10:23:52	 From Adam Falcigno : 1
+10:23:53	 From Ameer : True
+10:23:53	 From Alek Popovic : always true
+10:23:53	 From Mikel Woo : Always true
+10:23:54	 From Austin Roddy : always true
+10:23:54	 From Jesse A. Cortez : True?
+10:23:58	 From Jason Scott : CS is a sci or CS is not a sci
+10:23:58	 From Joshua Hutton : always true
+10:23:58	 From Zain Farhat : comp sci is a sci or comp sci is not a sci
+10:23:59	 From Mansoor Syed : true
+10:23:59	 From Fenglian Li : T
+10:23:59	 From Yongkang Hu : cs is a science or cs is not a science
+10:23:59	 From Jiahao Zhang : true
+10:24:00	 From Adrian Escribano : True?
+10:24:00	 From Carlena Veller : true
+10:24:01	 From Tomiwa : T
+10:24:01	 From Wen Hao (Tim) Yu : Cs is a science and cs is not a science
+10:24:01	 From Justin Turziak : Computer science is a science  or cs is not a science
+10:24:01	 From Anthony Banuelos : computer science is a science or computer science is not a science
+10:24:02	 From Emanuel Barcenas : true 
+10:24:02	 From George Tapia (The Decider) : I love cats and I don't love cats
+10:24:02	 From Brian Xu : true
+10:24:02	 From mflisk : t
+10:24:02	 From Alan Biju Palayil : true
+10:24:03	 From Anthony E. Paiotti : true
+10:24:03	 From Tommy Ton : always true
+10:24:04	 From Anthony Banuelos : T
+10:24:04	 From Kenneth Addo : True
+10:24:04	 From Andrew Petravicius : True
+10:24:05	 From Ameer : It is an inclusive or
+10:24:06	 From Andres Valencia : computer science or cs is not a science
+10:24:06	 From Eddie Mei : true
+10:24:08	 From Jason Cheng : true
+10:24:09	 From vsams : It is always true
+10:24:11	 From Christian Razo : cs is a science or is not a science
+10:24:11	 From Alisha Khan : tauntology
+10:24:11	 From Wen Hao (Tim) Yu : true
+10:24:16	 From Faith Busche : cs is a science or is not a science
+10:24:17	 From George Tapia (The Decider) : false
+10:24:18	 From Alisha Khan : tautology*
+10:24:19	 From George Tapia (The Decider) : true
+10:24:43	 From Andrew Cordell : if the OR was exclusive would it be always false?
+10:24:47	 From Fenglian Li : HOW ABOUT XOR?
+10:25:00	 From Nathan Cook : are you stuck in caps lock man
+10:25:07	 From Anthony Banuelos : true
+10:25:09	 From Aaron Paprocki : true
+10:25:09	 From Anthony Banuelos : ?
+10:25:09	 From Tabor "Juice" : true
+10:25:11	 From Fenglian Li : T
+10:25:12	 From Tommy Ton : always true
+10:25:12	 From Kenneth Addo : true
+10:25:13	 From mflisk : true
+10:25:13	 From Alexis Edwards : true
+10:25:13	 From Tyler Keating : true
+10:25:13	 From Tomiwa : true
+10:25:14	 From Andres Valencia : t
+10:25:14	 From Yasaman Mostafavi : I don't feel great about it
+10:25:15	 From Anthony E. Paiotti : true
+10:25:15	 From Alek Popovic : true
+10:25:15	 From Abheek Mondal : yees
+10:25:16	 From Sunny Patel : yea
+10:25:16	 From Caitlin Davitt : true
+10:25:17	 From marinapojani : true
+10:25:17	 From Wen Hao (Tim) Yu : true
+10:25:17	 From Nabeeha Syeda : true
+10:25:18	 From SAM : True
+10:25:18	 From Saurim Khan : yes
+10:25:18	 From George Tapia (The Decider) : true
+10:25:19	 From Austin Roddy : always true
+10:25:22	 From Eddie Mei : true
+10:25:23	 From Neveen Elmajdoub : true
+10:25:24	 From Nathan Valdez : always true
+10:25:27	 From Michael Cardiff : Still a tautology since negation cant give it the same value
+10:25:31	 From Joshua Hutton : always have one true with the other false
+10:25:35	 From Alek Popovic : because they will always be opposite
+10:25:46	 From Anthony Banuelos : TT
+10:25:47	 From Aaron Paprocki : t t
+10:25:47	 From Caitlin Davitt : TT
+10:25:47	 From Andrew Cordell : TT
+10:25:47	 From Fatai Odunewu : t
+10:25:47	 From Tommy Ton : TT
+10:25:48	 From Alisha Khan : tt
+10:25:49	 From Keaton Whiteley : T T
+10:25:49	 From Justin Turziak : TT
+10:25:49	 From mflisk : both true
+10:25:50	 From Carlos Rodriguez : tt
+10:25:50	 From Tabor "Juice" : true
+10:25:51	 From Lauren Williams : TT
+10:25:51	 From Fenglian Li : T
+10:25:51	 From Fenglian Li : T
+10:25:51	 From Ameer : 11
+10:25:51	 From Fenglian Li : T
+10:25:51	 From Fenglian Li : T
+10:25:51	 From Sunny Patel : TT
+10:25:51	 From Fenglian Li : T
+10:25:51	 From Jason Scott : TT
+10:25:51	 From Sean Graney : tt
+10:25:52	 From Fenglian Li : T
+10:25:52	 From Fenglian Li : T
+10:25:52	 From Fenglian Li : T
+10:25:52	 From Kevin Quach : TT
+10:25:52	 From Andres Valencia : tt
+10:25:52	 From Fenglian Li : T
+10:25:52	 From Mansoor Syed : TT
+10:25:54	 From George Tapia (The Decider) : TT
+10:25:55	 From Anthony E. Paiotti : TT
+10:26:02	 From Alexis Edwards : y
+10:26:03	 From Carlos Rodriguez : yes
+10:26:05	 From Kevin Quach : Ye
+10:26:05	 From Sameeha Ahmed : yes
+10:26:05	 From Lauren Williams : yes
+10:26:05	 From Andres Valencia : yes
+10:26:05	 From Anthony Banuelos : yea
+10:26:05	 From Alisha Khan : y
+10:26:06	 From Kenneth Addo : yea
+10:26:07	 From Yongkang Hu : yes
+10:27:08	 From Ali Guzelyel : yes
+10:27:08	 From Carlena Veller : yes
+10:27:09	 From Jason Scott : yes
+10:27:09	 From Fatai Odunewu : yes
+10:27:09	 From Joshua Hutton : yes
+10:27:09	 From Sunny Patel : yes
+10:27:10	 From Andres Valencia : yes
+10:27:10	 From Sameeha Ahmed : yes
+10:27:10	 From Anthony Banuelos : yes
+10:27:10	 From Anthony E. Paiotti : yes
+10:27:10	 From Faith Busche : yes
+10:27:11	 From Kevin Quach : Yes
+10:27:11	 From Kenneth Addo : yes
+10:27:11	 From marinapojani : yes
+10:27:11	 From mflisk : yes
+10:27:11	 From Caitlin Davitt : yeah
+10:27:13	 From George Tapia (The Decider) : agreed
+10:27:13	 From Jason Cheng : ye
+10:27:13	 From Sebastian Gembis : yes
+10:27:14	 From Aaron Paprocki : yes
+10:27:15	 From Nabeeha Syeda : yes
+10:27:15	 From Zain Farhat : yes
+10:27:16	 From Adrian Escribano : Yes
+10:27:19	 From SAM : Yes
+10:27:20	 From Carlos Rodriguez : yes
+10:27:21	 From Zain Farhat : sneaky
+10:27:24	 From Andrew Petravicius : yes
+10:27:30	 From Mansoor Syed : makes sense
+10:27:49	 From Joshua Hutton : truth table
+10:27:50	 From Michael Cardiff : Truth table
+10:27:53	 From Andres Valencia : truth table
+10:27:53	 From Anthony Banuelos : truth table
+10:27:56	 From Alek Popovic : truth table
+10:28:00	 From Mansoor Syed : sus?
+10:28:01	 From Anthony E. Paiotti : Truth Table
+10:28:24	 From Na'im Muhammad : Suspicious
+10:28:26	 From Alan Biju Palayil : ohh
+10:29:02	 From Zair Chaudhry : off topic question but is the chat log going to be included in the recording
