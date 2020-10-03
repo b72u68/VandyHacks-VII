@@ -1,0 +1,779 @@
+09:44:34	 From Adrian Escribano Viviescas : Good morning.
+09:44:38	 From James E : good morning
+09:44:43	 From Aman Luqman : good morning~
+09:44:43	 From Joshua Hutton : good morning
+09:44:44	 From Jiahao Zhang : good morning
+09:44:44	 From Nathan Valdez : good morning
+09:44:45	 From SAM : Morning
+09:44:46	 From Alexis Edwards : good morning!
+09:44:47	 From Sameeha Ahmed : good morning
+09:44:47	 From Andrew Petravicius : good morning
+09:44:47	 From Andres Valencia : good morning
+09:44:47	 From Mansoor Syed : good morning
+09:44:49	 From Joanna Findura : morning
+09:44:49	 From Sunny Patel : morning
+09:44:50	 From Yongkang Hu : morning
+09:44:51	 From Alek Popovic : good morning
+09:44:51	 From Fatai Odunewu : Good morning
+09:44:53	 From Thien Le : Good morning
+09:44:54	 From Lauren Williams : good morning
+09:44:54	 From Jason Scott : good morning!
+09:44:55	 From George Tapia (The Decider) : good morning
+09:44:55	 From Andrew Cordell : good morning
+09:44:55	 From Yasaman Mostafavi : hi good morning :)
+09:44:55	 From Anwar Adam : Good Morning Professor Lee
+09:44:56	 From Aman Luqman : good morning, non-remote people!
+09:44:56	 From Nathan Chahine : good morning 
+09:44:57	 From Kevin Quach : good morning
+09:44:57	 From Drew Bauer : goomd morning
+09:44:59	 From kristin : good morning
+09:45:01	 From Alan Palayil : Good Morning
+09:45:01	 From Tabor : good morning prof
+09:45:01	 From Brian Xu : good morning
+09:45:02	 From Elizabeth Aquino : good morning
+09:45:03	 From Caitlin Davitt : good morning
+09:45:03	 From Wen Hao (Tim) Yu : good morning
+09:45:04	 From Petar Stoichkov : good morning
+09:45:05	 From carlosrodriguez : Good morning
+09:45:15	 From Na'im Muhammad : Good morning, everyone!
+09:45:16	 From Nathan Cook : mornin
+09:45:22	 From Yifan Deng : good morning
+09:45:22	 From marina pojani : Good morning!
+09:45:25	 From Mife Atewogbola : good morning
+09:45:28	 From Alek Popovic : How many students are in person right now?
+09:45:30	 From Jonathan Polley : morning
+09:45:39	 From Na'im Muhammad : We have in-person class???
+09:45:48	 From George Tapia (The Decider) : lol
+09:45:54	 From Joshua Prila : Na'im this class is hybrid
+09:45:57	 From Ameer Ali : It is a hybrid Na'im
+09:46:12	 From Na'im Muhammad : I know, I thought this was all online! :)
+09:46:20	 From Fatai Odunewu : nope, hybrid
+09:46:25	 From Na'im Muhammad : COOLIO
+09:47:46	 From Alexis Edwards : yes
+09:47:47	 From Adrian Escribano Viviescas : Yes
+09:47:47	 From George Tapia (The Decider) : yes
+09:47:47	 From Aman Luqman : ye
+09:47:48	 From Andres Valencia : yes
+09:47:48	 From Mife Atewogbola : yes
+09:47:48	 From Yasaman Mostafavi : great
+09:47:48	 From patrycja : yes
+09:47:48	 From Eric Zhang : yes
+09:47:48	 From Alan Palayil : yes
+09:47:48	 From Jason Scott : yea
+09:47:48	 From Caitlin Davitt : yep
+09:47:48	 From Austin Roddy : yes
+09:47:48	 From Jonathan Polley : yes
+09:47:49	 From Yongkang Hu : yea
+09:47:49	 From Nathan Chahine : yep
+09:47:49	 From carlosrodriguez : yes
+09:47:49	 From Mansoor Syed : yup
+09:47:49	 From Fatai Odunewu : yes
+09:47:49	 From Faizan Mohiuddin : ya
+09:47:49	 From Nathan Valdez : yes
+09:47:49	 From Kevin Quach : yes
+09:47:49	 From Thien Le : yes
+09:47:49	 From Patrick Inosanto : yes
+09:47:49	 From Brian Xu : yes
+09:47:49	 From kristin : yes
+09:47:49	 From Kamil Kaczmarczyk : yep
+09:47:49	 From Faith Busche : yes
+09:47:49	 From marina pojani : yes
+09:47:49	 From Lauren Williams : yep
+09:47:49	 From Na'im Muhammad : Yes
+09:47:49	 From Tabor : yea
+09:47:50	 From Ameer Ali : yes
+09:47:50	 From Drew Bauer : yes
+09:47:50	 From James E : yes
+09:47:50	 From Sunny Patel : yup
+09:47:50	 From Anthony Banuelos : yes\
+09:47:51	 From Alek Popovic : yes
+09:47:51	 From Jiahao Zhang : yes
+09:47:51	 From Joshua Hutton : audio is a bit choppy, but yes
+09:47:52	 From Joshua Prila : yep
+09:47:52	 From Sameeha Ahmed : yes
+09:47:52	 From Joanna Findura : yes
+09:47:53	 From Anwar Adam : Yes 
+09:47:54	 From FENGLIAN LI : ok
+09:47:55	 From Ayman Fahsi : yes
+09:47:55	 From SAM : Yes
+09:47:56	 From Min Kyoung Kang : yes
+09:47:56	 From Nikolaus Schultze : yes
+09:48:37	 From Zachery Linscott : Hi Prof Lee! I am in your physical class, responding on zoom for participation credit
+09:48:44	 From Giovanni Garcia : aye, im in two places at once
+09:48:51	 From Justin Turziak : how many people are there
+09:48:59	 From Giovanni Garcia : eh, 15?
+09:49:00	 From Zachery Linscott : Like 20
+09:49:02	 From Giovanni Garcia : ish
+09:49:04	 From Adam Falcigno : ^
+09:49:06	 From Justin Turziak : decent
+09:49:12	 From Eddie Mei : around 20
+09:49:13	 From Na'im Muhammad : I’m coming on Friday! 😮
+09:49:15	 From Zachery Linscott : Weird times
+09:49:24	 From Giovanni Garcia : lmao, I was one of them
+09:49:24	 From Adrian Escribano Viviescas : I was about to email, so thanks for addressing that
+09:49:43	 From Alan Palayil : I didn't cause I remember you said about this during Friday's class
+09:49:50	 From Alan Palayil : ^Email
+09:49:53	 From Joanna Findura : Is there a max number that can attend?
+09:50:28	 From Abheek Mondal : yeah, depends on the classroom
+09:51:01	 From Alan Palayil : I think its 25 max
+09:51:08	 From Na'im Muhammad : @Prof Lee, when the recoding messed up from Friday, did you happen to find an older recording from a previous semester’s 330 lecture?
+09:51:35	 From Jason Scott : ^?
+09:51:47	 From Jonathan Polley : i think it is more then 25 because i think it is a lecture room but could be wrong
+09:51:52	 From Elizabeth Paniagua : he said the room fit 50
+09:52:02	 From Giovanni Garcia : classroom limit is 50ish
+09:52:07	 From Na'im Muhammad : 😮 Oh darn
+09:52:09	 From George Tapia (The Decider) : youtube
+09:52:33	 From Adrian Escribano Viviescas : Yeah
+09:52:35	 From William Gibson : ye
+09:52:36	 From Mansoor Syed : yeah
+09:52:42	 From Anwar Adam : yes
+09:55:19	 From Na'im Muhammad : LaTeX? 😮
+09:55:39	 From FENGLIAN LI : hhhh
+09:55:44	 From Abheek Mondal : can we use ! for the not symbol?
+09:56:04	 From Na'im Muhammad : ¬ <— Use this
+09:56:06	 From FENGLIAN LI : you can copy that 
+09:56:14	 From Yasaman Mostafavi : learn latex : )
+09:56:17	 From Abheek Mondal : oooo ok thx
+09:56:20	 From Faith Busche : we have to type everything right?
+09:56:22	 From Abheek Mondal : oof 
+09:56:23	 From Faizan Mohiuddin : I  couldn't find XOR
+09:56:26	 From William Gibson : ctrl c + ctrl v go brrrrt
+09:56:56	 From Zain Farhat : for truth table, is the truth table with all its rows and columns enough for an explanation?
+09:57:20	 From Na'im Muhammad : @Yasi, what did you use for LaTeX
+09:57:56	 From Na'im Muhammad : Yes ✋
+09:58:17	 From Patrick Inosanto : Typing in chat also makes it easier for people at home because we cant hear the student asking the question. But if they type we know the question that was asked.
+09:58:28	 From Yasaman Mostafavi : I use onenote, which just lets you input equations really easily. highly recommend. yall could also just use markdown in VScode
+09:58:54	 From Giovanni Garcia : OneNote is really good
+09:59:20	 From Na'im Muhammad : 😮
+09:59:33	 From Mikel Woo : If you want a quickstart to LaTeX I recommend overleaf.com
+09:59:51	 From Austin Roddy : ^
+10:00:01	 From Na'im Muhammad : Thank you!
+10:00:02	 From Anthony Banuelos : ty
+10:00:06	 From Nabeeha Syeda : thank you
+10:00:18	 From Alan Palayil : Thanks
+10:00:18	 From Tabor : none
+10:02:07	 From Elizabeth Paniagua : so the blue and black are equal ?
+10:02:22	 From Austin Roddy : Demorgans law
+10:02:23	 From Na'im Muhammad : @Prof Lee, can you walk thought that again, sorry 😮
+10:02:29	 From Fatai Odunewu : yes
+10:02:30	 From Adam Falcigno : yes
+10:02:32	 From Jane Downer : yes
+10:02:32	 From Andres Valencia : yes
+10:02:33	 From Mife Atewogbola : yes
+10:02:35	 From Mansoor Syed : yes
+10:02:37	 From Caitlin Davitt : Yeah makes sense
+10:02:37	 From Alan Palayil : yes
+10:02:37	 From Jason Cheng : yes
+10:02:39	 From Alisha Khan : yes
+10:02:40	 From Nathan Chahine : yea
+10:02:40	 From Aman Luqman : yes
+10:02:47	 From William Gibson : yes
+10:02:47	 From Anwar Adam : yes
+10:02:57	 From Na'im Muhammad : Hi Nabeeha 👋😃
+10:02:58	 From Jiahao Zhang : yes
+10:03:01	 From Anwar Adam : yes 
+10:03:05	 From Sean Graney : yes
+10:03:22	 From Na'im Muhammad : OHH
+10:03:29	 From Nabeeha Syeda : Hi Na’im☺️🥺
+10:03:39	 From Jason Scott : Side note question: Are there outlets in the room so we can charge our computers?
+10:04:01	 From Alan Palayil : There should be
+10:04:03	 From Giovanni Garcia : there's like a couple at the very back but not very many
+10:04:11	 From Tabor : one class both Michael and Shannon has
+10:04:31	 From Mikel Woo : At least one CS class has been taken by Michael and Shannon
+10:04:36	 From Zain Farhat : there exists two students, Micheal and Shannon, who are taking the same CS class at IIT
+10:04:40	 From Kamil Kaczmarczyk : There is a class that both take
+10:04:43	 From Sunny Patel : There is one class Michael and Shannon have in common
+10:04:49	 From Andrew Cordell : There is a class michael and shannon have both taken
+10:04:49	 From Nathan Chahine : there exists a class Michael and Shannon have and taken
+10:04:55	 From Ivan Prskalo : Michael and Shannon are taking a class that exists
+10:04:58	 From Anthony Banuelos :  There is a class that both Michael and Shannon have taken
+10:05:00	 From Tyler Keating : There exists two students who both have taken the same class
+10:05:00	 From Nathan Chahine : have taken*
+10:05:16	 From Joshua Hutton : Michael has taken class x
+10:05:17	 From Jane Downer : michael has taken class x
+10:05:19	 From Kevin Quach : There exists a class Michael and Shannon have taken
+10:05:19	 From josie mace : Micheal has taken a class
+10:05:19	 From William Gibson : Michael has taken class c
+10:05:19	 From Giovanni Garcia : Student micheal has taken class c
+10:05:20	 From Andres Valencia : there exists a class Michael and Shannon have taken
+10:05:20	 From Sameeha Ahmed : Michael has taken class c
+10:05:20	 From Aman Luqman : michael is taking a cs course
+10:05:22	 From Alexis Edwards : There exists a class that both Michael and Shannon have taken
+10:05:23	 From Alex Michael : Michael has taken class c
+10:05:24	 From Anthony Banuelos : michael has taken class x
+10:05:25	 From George Tapia (The Decider) : Michael has taken class c
+10:05:27	 From Sunny Patel : Michael has taken class c
+10:05:27	 From Aaron Paprocki : Michael and Shannon have taken class x
+10:05:28	 From Andrew Cordell : a CS class
+10:05:28	 From William Gibson : c is a cs class
+10:05:28	 From Tabor : variable
+10:05:29	 From Na'im Muhammad : C is a CS class
+10:05:29	 From Caitlin Davitt : Micheal has taken a cs class
+10:05:30	 From Eddie Mei : michael taken a cs class
+10:05:30	 From Jiahao Zhang : Michael has taken class c
+10:05:31	 From Zain Farhat : cs class
+10:05:31	 From Fatai Odunewu : cs class
+10:05:32	 From Giovanni Garcia : some cs class
+10:05:32	 From Alek Popovic : There is a class that Michael has taken and Shannon has taken
+10:05:33	 From Jaciel D Saucedo : Michael has taken a class c
+10:05:33	 From Andres Valencia : class
+10:05:33	 From Wen Hao (Tim) Yu : Michael has taken class c
+10:05:33	 From Faith Busche : c is a cs class
+10:05:35	 From Neveen Elmajdoub : Michael and Shannon have taken the same class
+10:05:37	 From James E : There exists a class that Michael and Shannon have taken
+10:05:39	 From Mansoor Syed : michael has taken class c
+10:05:39	 From marina pojani : Michael has taken class c
+10:05:42	 From Alan Palayil : Michael and Shannon have taken class x
+10:05:44	 From Nathan Valdez : Michael has taken class x
+10:05:44	 From Jonathan Polley : is a cs class
+10:05:51	 From Min Kyoung Kang : Michael has taken class x
+10:06:00	 From Na'im Muhammad : OHHHH, but they have taken the SAME class?? @Prof Lee
+10:06:02	 From Mansoor Syed : michael has taken class x and shannon has taken class x
+10:06:06	 From Fatai Odunewu : there exist a class mivhael has taken
+10:06:10	 From Giovanni Garcia : There exists a cs class that Michael and Shannon have taken
+10:06:11	 From Aaron Paprocki : Michael and Shannon have taken some cs class
+10:06:12	 From Faith Busche : so it could be any class that IS a cs class?
+10:06:21	 From Zain Farhat : oh I was in a rush!
+10:06:28	 From Alan Palayil : There exists a class x which Michael and Shannon have taken
+10:06:29	 From Mansoor Syed : there exists some class such that michael and shannon have taken class x
+10:06:41	 From Sean Graney : There exist some cs class they both have taken
+10:06:41	 From Andrea Ocampo : Michael has taken x cs class and Shannon too?
+10:06:42	 From Evelyn Vazquez : there exists a class that Michael and Shannon have taken
+10:06:43	 From Victor Samsonov : Some class x has been taken by Michael
+10:06:49	 From Giovanni Garcia : Gotcha, makes sense
+10:06:51	 From William Gibson : yeah
+10:06:51	 From Tabor : yea
+10:06:51	 From Andres Valencia : yes
+10:06:53	 From Andrew Petravicius : yes
+10:06:53	 From Alexis Edwards : y
+10:06:53	 From James E : yes
+10:06:53	 From patrycja : yes
+10:06:53	 From Na'im Muhammad : Okay 😮
+10:06:54	 From Alisha Khan : Could you clarify the defs of free and bound variables
+10:06:54	 From Nathan Chahine : yes
+10:06:54	 From carlosrodriguez : yeah
+10:06:55	 From Yongkang Hu : yea
+10:06:55	 From Nathan Valdez : yes
+10:06:56	 From Tomiwa : yes
+10:06:56	 From Mansoor Syed : yup
+10:06:56	 From George Tapia (The Decider) : yes
+10:06:57	 From Jiahao Zhang : yes
+10:06:58	 From Austin Roddy : yes
+10:07:00	 From Jonathan Polley : yes
+10:07:37	 From Austin Roddy : Its not bound to a domain
+10:07:39	 From Faith Busche : one without a domain?
+10:07:39	 From Ayman Fahsi : unrestricted
+10:07:39	 From Andrew Cordell : not bound to a domain
+10:07:48	 From Anwar Adam : without a domain
+10:07:52	 From Alan Palayil : Unrestricted
+10:07:59	 From Fatai Odunewu : not bound to a domain
+10:08:00	 From Andres Valencia : not bound to domain.
+10:08:00	 From Andrew Petravicius : unrestricted
+10:08:01	 From FENGLIAN LI : variable is a input?
+10:08:34	 From Jonathan Polley : it is not attached to the domains
+10:08:39	 From FENGLIAN LI : it can be changed
+10:08:41	 From Mansoor Syed : you can assign anything to that free variable
+10:09:47	 From Alisha Khan : yes
+10:10:39	 From Kamil Kaczmarczyk : there is a student who’s taken all  cs classes Michael has
+10:10:41	 From Alexis Edwards : there exists a student, other than Michael, that if Michael has taken all CS classes, then that student has taken all CS classes
+10:10:41	 From Alek Popovic : There exists a student x for all classes y such that the student is not Michael and Michael taking class y implies that student x has taken class y.
+10:10:42	 From Tomiwa : there exist a student x for every class y such that student x is nor Michael and Michael goes to class y if student x goes to class y ?
+10:10:42	 From Ivan Prskalo : if Michael has taken all cs classes then there exists a student that isn't Michael that has taken all cs classes
+10:10:44	 From Tabor : there exists a student who is not Michael that has taken every cs class that Michael does?
+10:10:48	 From carlosrodriguez : There exist another student that has taken all the classes Michael has
+10:10:55	 From Anthony Banuelos : There is a student who is not michael that has taken all class michael has taken
+10:11:03	 From Min Kyoung Kang : There is a student who has taken all the classes Michael has taken
+10:11:05	 From Mikel Woo : There exists someone who has taken the same CS courses as Michael
+10:11:15	 From Alan Palayil : There is a student who is not michael that has taken all class michael has taken
+10:11:15	 From Caitlin Davitt : There exist some student that for all CS classes, is not Micheal and has taken all of the CS classed the Michael has
+10:11:17	 From Nathan Chahine : there is a student that have taken all the classes Michael has
+10:11:18	 From Tom Hartley : There exists another student who has taken the same classes as Michael
+10:11:24	 From Andres Valencia : there exists a student who is not Michael that has taken all classes Michael has
+10:11:24	 From Mansoor Syed : there exists someone who has taken the same classes as michael
+10:11:24	 From Adam Falcigno : If Michael has taken a class, there is a student that is not Michael that has taken all of the same classes
+10:11:27	 From Jason Cheng : there is a student that has taken the same classes that Michael has
+10:11:36	 From Aman Luqman : there exists a student that isn't michael who has taken all classes that he has
+10:11:38	 From Tyler Keating : There is a student other than Michael who has taken all of the cs classes Michael has
+10:11:40	 From Kevin Quach : There exists a student that has taken the same classes Michael has taken
+10:11:42	 From Aaron Paprocki : There exists a student who has taken the same cs classes Michael has
+10:11:47	 From Andrew Petravicius : there exists an IIT student that has taken all cs classes Michael has
+10:11:47	 From Jiahao Zhang : There exists another student who has taken the same classes as Michael
+10:11:50	 From Giovanni Garcia : There is a student that is not Michael that has taken all the classes as him
+10:11:52	 From Neveen Elmajdoub : There exists some student who is not Michael that has taken all cs classes that Michael has taken
+10:11:53	 From Saurim Khan : A student that is not micheal has taken the clas
+10:12:14	 From William Gibson : There exists a student besides Michael who has taken the class that Michael has
+10:12:15	 From Jonathan Polley : there exists some student that has taken the same classes Michael has taken
+10:12:17	 From Joshua Hutton : if Michael has taken class y, then there exists a student x that for all classes y has taken that class as well
+10:12:17	 From Drew Bauer : There is a student that is not Michael that has taken all the same classes as him
+10:12:19	 From Evelyn Vazquez : there exist a student that has taken the same class as Michael
+10:12:22	 From Tabor : tf
+10:12:22	 From Alexis Edwards : T F
+10:12:25	 From Sunny Patel : t, F
+10:12:26	 From Mikel Woo : T -> F
+10:12:27	 From Alan Palayil : TF
+10:12:27	 From Zain Farhat : conclusion is f
+10:12:28	 From Andres Valencia : tf
+10:12:29	 From Giovanni Garcia : T->F
+10:12:30	 From Anwar Adam : TF
+10:12:30	 From Jonathan Polley : tf
+10:12:31	 From Mansoor Syed : TF
+10:12:31	 From Wen Hao (Tim) Yu : tf
+10:12:32	 From Jiahao Zhang : t f
+10:12:33	 From Fatai Odunewu : tf
+10:12:34	 From Carlena Veller : Tf
+10:12:35	 From Nathan Valdez : tf
+10:12:37	 From Victor Samsonov : TF
+10:12:37	 From Nathan Chahine : conclusion is false 
+10:12:37	 From Adrian Escribano Viviescas : Tf
+10:12:38	 From Michael Sanchez : Tf
+10:12:39	 From Kenneth Addo : tf
+10:12:39	 From wai : tf
+10:12:42	 From Faith Busche : t -> f is f
+10:12:42	 From Yongkang Hu : tf
+10:12:42	 From George Tapia (The Decider) : True->false
+10:12:43	 From Andres Valencia : T,F
+10:12:45	 From Alexis Edwards : y
+10:12:46	 From Min Kyoung Kang : yes
+10:12:47	 From Alan Palayil : y
+10:12:48	 From Tomiwa :    yes
+10:12:48	 From Alek Popovic : yes
+10:12:49	 From patrycja : y
+10:12:49	 From Anwar Adam : yes
+10:12:49	 From Kenneth Addo : yea
+10:12:50	 From Ayman Fahsi : so then that first portion is an exception to the domains
+10:12:50	 From Austin Roddy : yes
+10:12:50	 From Andres Valencia : yes
+10:12:51	 From Aman Luqman : y
+10:12:53	 From Sean Graney : y
+10:12:56	 From Jason Scott : y
+10:12:59	 From Nathan Cook : y
+10:13:31	 From Anthony Banuelos : there are 2 different students that have taken the same classes
+10:13:34	 From Min Kyoung Kang : There are two students
+10:13:34	 From Tyler Keating : There are two students that have taken the same cs classes
+10:13:48	 From Giovanni Garcia : There are two students at IIT that have taken the same classes as each other
+10:13:48	 From Sunny Patel : there exists a student x, and a student y that have taken the same classes 
+10:13:50	 From Saurim Khan : @ different students have taken the same CS class
+10:13:53	 From Tom Hartley : There exists two students x and y who have take all the same cs classes
+10:13:53	 From Aman Luqman : there are two students who have taken the same cs courses
+10:13:54	 From Abheek Mondal : why does x != michael need to be anded? isn't a reatriction like the quantifiers?
+10:13:55	 From marina pojani : there are two students that have taken the same cs classes
+10:13:56	 From Jane Downer : there are two students that have taken all the same classes
+10:13:57	 From Kenneth Addo : 2 students taken the same classes
+10:14:01	 From patrycja : There are two different students that have taken the same CS class
+10:14:03	 From Nathan Chahine : there are two students that have taken the same classes 
+10:14:10	 From Mansoor Syed : there exists two students taking the same classes
+10:14:12	 From David Galicia : theres two students that have taken the same classes
+10:14:12	 From Mikel Woo : There is at least one pair of students who have taken the same CS courses
+10:14:12	 From Andres Valencia : there exists two students that have taken the same classes.
+10:14:13	 From Tabor : there are some 2 students who take the cs classes
+10:14:15	 From Alan Palayil : there exists a student x, and a student y that have taken the same classes 
+10:14:23	 From Andrew Cordell : There are two different students that have both taken Z classes
+10:14:24	 From Brian Xu : There are two different student that have taken the same CS class
+10:14:25	 From Victor Samsonov : There exist two different students that have taken the same class
+10:14:27	 From Alex Michael : There are 2 different students who have taken the same cs class
+10:14:30	 From Elizabeth Aquino : two different students have taken the same cs class
+10:14:30	 From Alek Popovic : There are 2 students for al classes such that the 2 students are not the same person and if student x took class z then student y also took class z.
+10:14:31	 From Faith Busche : how do we know x and y are about students and not classes?
+10:14:32	 From Alexis Edwards : there is a student x and a student y, that for all cs classes, student x has taken all classes iff student y has taken all cs classes
+10:14:34	 From wai : there are student x and student y and they are have taken the same csclass
+10:14:39	 From George Tapia (The Decider) : there exists two students who have taken the same class
+10:14:41	 From Adam Falcigno : There are two students that have taken (and not taken) the exact same classes
+10:14:43	 From Neveen Elmajdoub : There exists two students who have taken the same classes
+10:14:44	 From Kevin Quach : There exists two different students that have taken the same classes
+10:14:47	 From Min Kyoung Kang : There are two different students that have taken the same classes
+10:14:47	 From Yongkang Hu : there are two students who have taken the same class
+10:14:48	 From Caitlin Davitt : There are 2 srudents that have taken the same CS classes
+10:14:56	 From Eddie Mei : there exists two student who have taken the same class
+10:14:57	 From Yasaman Mostafavi : There are 2 students who have taken the same CS classes 
+10:15:11	 From Faith Busche : how do we know that x and y are about students and that z is about classes?
+10:15:24	 From Tommy Ton : There are two students that are taking the same CS class
+10:15:27	 From Aaron Paprocki : There are 2 different students at IIT who have taken the same CS classes
+10:15:29	 From Alisha Khan : Bc we say x !=y
+10:15:32	 From Tomiwa : they take the same classes
+10:15:33	 From Sean Graney : There are two different students that have taken the same class 
+10:15:36	 From Faizan Mohiuddin : cuz that's what T(s,c) is
+10:15:39	 From Aman Luqman : have taken the same cs courses
+10:15:40	 From Khushboo B. Bhattu : …who took the same cs class
+10:15:43	 From marina pojani : Same two classes
+10:15:43	 From Austin Roddy : They both took the same class
+10:15:44	 From Jonathan Polley : there are 2 students who have taken the same cs class
+10:15:44	 From Alek Popovic : student x has taken a class iff student y took the class
+10:15:44	 From Joshua Hutton : there exists two different students x and y such that iff the first student has taken the class, then the second student has also taken the same class
+10:15:44	 From Andrea Ocampo : is it the same class
+10:15:46	 From Thien Le : Two diff students have taken the same class
+10:15:46	 From George Tapia (The Decider) : have taken the same class
+10:15:47	 From Andres Valencia : have taken same cs course
+10:15:50	 From Drew Bauer : two different students who have taken the same course
+10:15:51	 From Mansoor Syed : two different students same classes
+10:15:53	 From Fatai Odunewu : there exists 2 students x and y who have taken the same class iff one has taken it.
+10:15:53	 From Min Kyoung Kang : Both students have taken the same cs courses
+10:15:55	 From Sean Hogarty : same classes
+10:15:56	 From Nathan Chahine : have taken the same class
+10:15:56	 From Sunny Patel : same class
+10:16:07	 From Z Chaudhry : taken the same class
+10:16:08	 From Anthony Banuelos : @Faith you can look at T(x,z) and T(y,z) and compare  it to what we know about T(s,c) where s is all IIT students and c is all CS classes
+10:16:22	 From Zain Farhat : same classes taken by both, isn't this the same as the if condition in the previous example?
+10:16:29	 From Joshua Prila : for all classes they took the same class
+10:16:49	 From Min Kyoung Kang : @Zain this example is iff and the previous example of an if condition
+10:16:50	 From Alisha Khan : @zain it isnt the same bc this is a biconditional
+10:17:08	 From Alek Popovic : does that mean the 2 students took all the same classes or at least 1?
+10:17:12	 From Fatai Odunewu : there exists 2 students x and y who have taken the same class iff one of them has taken it.
+10:17:30	 From Alisha Khan : @alek Every class is the same
+10:17:33	 From Alexis Edwards : all
+10:17:36	 From Anthony Banuelos : all the same
+10:17:36	 From Sameeha Ahmed : all
+10:17:36	 From FENGLIAN LI : if and only if one of them take the class
+10:17:36	 From Andrew Cordell : all the same
+10:17:36	 From Nathan Cook : at least 1
+10:17:37	 From Kenneth Addo : all
+10:17:37	 From carlosrodriguez : all
+10:17:37	 From Tabor : all
+10:17:38	 From Sunny Patel : all
+10:17:39	 From marina pojani : all
+10:17:39	 From Caitlin Davitt : all
+10:17:40	 From patrycja : All
+10:17:40	 From Fatai Odunewu : all
+10:17:40	 From Joshua Hutton : all CS classes at least
+10:17:41	 From Austin Roddy : all
+10:17:41	 From SAM : All
+10:17:42	 From Jonathan Polley : all
+10:17:42	 From Adrian Escribano Viviescas : it has to be all
+10:17:43	 From Andres Valencia : all
+10:17:43	 From George Tapia (The Decider) : all classes
+10:17:44	 From William Gibson : At least 1 = both took it
+10:17:44	 From Tom Hartley : all cs classes
+10:17:47	 From Nathan Valdez : all cs classes
+10:17:54	 From Jason Scott : all
+10:17:57	 From Alek Popovic : thanks guys
+10:18:37	 From Joshua Prila : so if a single class is false (not taken by both) the whole thing is false?
+10:18:42	 From James E : what was the previous slide's translation
+10:18:51	 From Giovanni Garcia : so otherwise you would look through all class until you found a 2 students that have taken all the same classes?
+10:18:53	 From Jane Downer : its the same
+10:18:56	 From Tomiwa : there are at least two different students x and y that take the one class
+10:19:02	 From Mikel Woo : For all CS classes there exist at least two people who have taken it
+10:19:02	 From James E : thanks
+10:19:26	 From Min Kyoung Kang : For all classes, two different students
+10:19:32	 From William Gibson : ye
+10:19:35	 From Caitlin Davitt : yep
+10:19:35	 From Alisha Khan : yes
+10:19:36	 From patrycja : yes
+10:19:36	 From Andres Valencia : y
+10:19:38	 From Alek Popovic : yes
+10:19:42	 From Alan Palayil : yes
+10:19:43	 From Jonathan Polley : yes
+10:19:47	 From Anwar Adam : yes
+10:19:47	 From George Tapia (The Decider) : I'd buy it
+10:19:47	 From Fatai Odunewu : yes
+10:19:48	 From Sunny Patel : ye
+10:19:50	 From Adrian Escribano Viviescas : yeah
+10:19:52	 From Mansoor Syed : yea
+10:19:54	 From Nathan Valdez : yes
+10:19:58	 From Nathan Chahine : yea
+10:20:48	 From Anwar Adam : evidence
+10:20:55	 From patrycja : Justification
+10:20:58	 From Adrian Escribano Viviescas : evidence of why something works
+10:20:59	 From Tabor : valid argument
+10:21:03	 From Tyler Keating : PTSD from geometry
+10:21:04	 From Evelyn Vazquez : reasoning
+10:21:04	 From Andres Valencia : validation
+10:21:06	 From Na'im Muhammad : Fact? Steps?
+10:21:06	 From Fatai Odunewu : justification
+10:21:13	 From Zain Farhat : conclusion, the word "therefore"
+10:21:15	 From Anwar Adam : concrete
+10:21:16	 From Z Chaudhry : proof for an argument 
+10:21:17	 From Alek Popovic : evidence that supports a claim
+10:21:20	 From Nabeeha Syeda : lol same Tyler
+10:21:21	 From William Gibson : a statement that explains why something works (or doesn't)
+10:21:23	 From Sean Hogarty : pain
+10:21:25	 From Jason Scott : How it is easy to prove something wrong with one condition but hard to prove it true for infinite conditions
+10:21:27	 From Sameeha Ahmed : same @Tyler
+10:21:27	 From Jane Downer : all previous statements imply the subsequent statements
+10:21:28	 From Jason Scott : mathematics 
+10:21:30	 From Jonathan Polley : explaining how you do things and the evidence for how you can do those formula
+10:21:31	 From Nathan Chahine : evidence that something is true 
+10:21:32	 From Na'im Muhammad : Math 😲
+10:21:33	 From Sunny Patel : math
+10:21:33	 From William Gibson : math
+10:21:34	 From Eddie Mei : always true
+10:21:34	 From kristin : argument that proves something
+10:21:34	 From Anthony Banuelos : logical work which proves a solution
+10:21:37	 From Ayman Fahsi : description of an explanation
+10:21:37	 From Adam Falcigno : Premises and conclustion
+10:21:37	 From Jonathan Polley : math
+10:21:38	 From Andrew Cordell : a path between two points with evidence
+10:21:38	 From Andrea Ocampo : why things works
+10:21:40	 From Faith Busche : steps to support an argument
+10:21:48	 From Jason Scott : thms, defs, logic
+10:21:54	 From Na'im Muhammad : @Prof Lee, equivalence?
+10:21:54	 From Andrew Cordell : logic
+10:21:55	 From Alisha Khan : Shouldn’t a proof be evidence that supports statements
+10:22:02	 From Tom Hartley : deductive
+10:22:03	 From Anthony Banuelos : evidence
+10:22:04	 From Aman Luqman : deductive
+10:22:06	 From Michael Sanchez : Deductive
+10:22:09	 From Jason Scott : deduct
+10:22:09	 From Jonathan Polley : a more in-depth way of explain how to can get answers to questions
+10:22:10	 From Ameer Ali : Deductive
+10:22:12	 From Mansoor Syed : deductive
+10:22:17	 From Alek Popovic : deductive
+10:22:21	 From marina pojani : A series of logical deductions
+10:22:29	 From Saurim Khan : deduce
+10:22:33	 From patrycja : Axiomatized deductive reasoning <- math
+10:22:41	 From Aaron Paprocki : facts and logic
+10:22:44	 From Yasaman Mostafavi : a valid argument that establishes truth
+10:23:05	 From Yasaman Mostafavi : : )
+10:23:16	 From Na'im Muhammad : @Prof Lee SIMPLIFICATION??
+10:23:19	 From Faizan Mohiuddin : theorem
+10:23:20	 From wai : Using an existing theory and axiom to prove a new theory is true
+10:23:22	 From Anwar Adam : reasoning
+10:23:23	 From Anwar Adam : ?
+10:23:26	 From Michael Sanchez : Axioms
+10:23:28	 From Zain Farhat : lemmas
+10:23:36	 From Anthony Banuelos : axiomatized deductive system
+10:23:46	 From Alisha Khan : theorem
+10:23:50	 From Alan Palayil : theory
+10:23:52	 From Faith Busche : theorem
+10:23:52	 From Alek Popovic : hypothesis
+10:23:53	 From Fatai Odunewu : theorem
+10:23:53	 From Jane Downer : hypothesis
+10:23:53	 From Andres Valencia : theorem
+10:23:56	 From George Tapia (The Decider) : theory
+10:23:56	 From Aman Luqman : hypothesis?
+10:23:58	 From Eddie Mei : theory?
+10:23:58	 From Na'im Muhammad : Topic of interest?
+10:23:58	 From Andrew Cordell : hypothesis
+10:23:58	 From Mansoor Syed : hypothesis
+10:23:59	 From Ameer Ali : theory
+10:23:59	 From marina pojani : theory
+10:24:00	 From Neveen Elmajdoub : hypothesis
+10:24:01	 From Eric Zhang : hypothesis
+10:24:01	 From Anwar Adam : hypothesis?
+10:24:02	 From Ayman Fahsi : theory
+10:24:03	 From Mansoor Syed : theory
+10:24:04	 From patrycja : Theorem or hypothesis
+10:24:06	 From William Gibson : Hypothesis
+10:24:06	 From Emanuel Barcenas : theory
+10:24:09	 From Fatai Odunewu : hypothesis
+10:24:09	 From Andres Valencia : theory
+10:24:09	 From Nathan Chahine : theorem 
+10:24:14	 From Adrian Escribano Viviescas : theory
+10:24:31	 From William Gibson : Is there a difference between a conjecture and a hypothesis?
+10:25:52	 From Anthony Banuelos : ^
+10:26:40	 From Alisha Khan : I think hypotheses are assumed conditions, idk though
+10:26:50	 From Alisha Khan : Bc he calls them premises
+10:27:06	 From William Gibson : That makes sense, danke
+10:27:15	 From Khushboo B. Bhattu : Trial and error?!
+10:27:44	 From Abheek Mondal : u do the outside first
+10:30:29	 From Yasaman Mostafavi : always true
+10:30:29	 From Alexis Edwards : always true
+10:30:30	 From Sunny Patel : always true 
+10:30:31	 From Anthony Banuelos : all true
+10:30:31	 From Na'im Muhammad : Always true
+10:30:32	 From Jason Scott : all true
+10:30:32	 From Austin Roddy : always true
+10:30:32	 From Emanuel Barcenas : always true
+10:30:33	 From Mansoor Syed : always true
+10:30:33	 From Min Kyoung Kang : ends up being always true
+10:30:33	 From Faith Busche : always true
+10:30:33	 From Alan Palayil : always true
+10:30:33	 From patrycja : Always true
+10:30:33	 From Adrian Escribano Viviescas : always true
+10:30:33	 From Ameer Ali : always true
+10:30:33	 From Nathan Chahine : always true
+10:30:33	 From Andres Valencia : always true
+10:30:33	 From josie mace : Always true
+10:30:34	 From Sebastian Gembis : Always true
+10:30:35	 From Nathan Cook : always true
+10:30:35	 From Jesse Cortez : Always true
+10:30:36	 From Brian Xu : all true
+10:30:36	 From Neveen Elmajdoub : always true
+10:30:36	 From George Tapia (The Decider) : always true
+10:30:37	 From Jonathan Polley : always true
+10:30:37	 From Kevin Quach : always true
+10:30:38	 From Anwar Adam : always true
+10:30:38	 From Yongkang Hu : always true
+10:30:38	 From Sohaib Syed : always true
+10:30:38	 From Jason Cheng : always true
+10:30:38	 From William Gibson : always tru
+10:30:38	 From Nathan Valdez : statements that are always true
+10:30:39	 From Caitlin Davitt : A statement that is always true
+10:30:40	 From Justin Turziak : always true
+10:30:40	 From Aaron Paprocki : always true
+10:30:42	 From Michael Sanchez : Always true
+10:30:43	 From Saurim Khan : always true
+10:30:47	 From Giovanni Garcia : always true
+10:30:56	 From Fatai Odunewu : always true
+10:35:15	 From Tabor : q is true
+10:35:16	 From Alexis Edwards : q is true
+10:35:20	 From Caitlin Davitt : q is true
+10:35:21	 From Fatai Odunewu : p is true and if p is true then q must be true
+10:35:21	 From Zain Farhat : qT
+10:35:21	 From Faith Busche : q is true
+10:35:22	 From Jason Scott : q is too
+10:35:22	 From FENGLIAN LI : q
+10:35:23	 From William Gibson : q is true
+10:35:23	 From Andres Valencia : q is true
+10:35:24	 From Sunny Patel : q = t
+10:35:25	 From patrycja : Q is true
+10:35:26	 From Tyler Keating : q  is true
+10:35:26	 From Nathan Chahine : q is true 
+10:35:27	 From Na'im Muhammad : Q is true?
+10:35:28	 From Aman Luqman : q is true
+10:35:28	 From Ameer Ali : q is true
+10:35:29	 From Zain Farhat : q is true
+10:35:29	 From Aaron Paprocki : q is true
+10:35:30	 From Sameeha Ahmed : q is true 
+10:35:31	 From Jason Cheng : q is true
+10:35:32	 From Anwar Adam : q is true?
+10:35:34	 From Anthony Banuelos : q is true
+10:35:38	 From Alek Popovic : q is also true
+10:35:38	 From Andrew Cordell : q is true
+10:35:40	 From Emanuel Barcenas : q is true
+10:35:40	 From FENGLIAN LI : q
+10:35:42	 From Mife Atewogbola : q is true
+10:35:44	 From Nathan Valdez : q is true
+10:35:47	 From marina pojani : Q is true
+10:35:50	 From Andrew Cordell : we know that p is true
+10:35:51	 From SAM : q is true
+10:35:55	 From Na'im Muhammad : We made an inference 😮
+10:36:00	 From George Tapia (The Decider) : q is true
+10:36:01	 From Caitlin Davitt : If q if false then p->q is false
+10:36:03	 From Andrew Cordell : and if p -> q
+10:36:05	 From Alisha Khan : Conditional statement
+10:36:07	 From Giovanni Garcia : since p ->q is true, and p is true, and t->f is not true, then q has to be true
+10:36:08	 From Joshua Prila : if p is true and p->q is true, q must be true for those statements to not contradict
+10:36:09	 From Kamil Kaczmarczyk : iif
+10:36:09	 From Zain Farhat : the only way for of condition to hold true is for conclusion to be true
+10:36:11	 From Adrian Escribano Viviescas : we made an inference based on an assumption
+10:36:22	 From Zain Farhat : if*
+10:36:24	 From Joshua Hutton : since p is true and p->q is true, q has to be true
+10:36:27	 From Alan Palayil : Since p ->q is true, and p is true, and t->f is not true, then q has to be true
+10:36:35	 From Mife Atewogbola : from truth table
+10:36:40	 From Alek Popovic : q only if p
+10:36:45	 From Austin Roddy : because only the conclusion needs to be true 
+10:36:51	 From Lauren Williams : because p-> q is true  and p is true so q has to be true too 
+10:36:53	 From Thien Le : The premise is true, then conclusion always true
+10:37:00	 From Anthony Banuelos : if we are assuming p to be true then q must be true for this conclusion
+10:37:04	 From Mansoor Syed : p --> q
+10:40:12	 From Joshua Hutton : the AC is on
+10:40:14	 From Kevin Quach : The ac is on
+10:40:15	 From Tabor : if the ac is on
+10:40:16	 From Anwar Adam : the ac is on
+10:40:16	 From Adam Falcigno : AC
+10:40:16	 From Andrew Cordell : AC on
+10:40:16	 From Sunny Patel : the ac is on
+10:40:18	 From Mansoor Syed : AC is on
+10:40:18	 From Fatai Odunewu : ac is on
+10:40:19	 From Anthony Banuelos : the AC is on
+10:40:21	 From Aaron Paprocki : ac is on
+10:40:23	 From Kevin Quach : I am cold
+10:40:24	 From Andrew Cordell : I am cold
+10:40:25	 From Andres Valencia : will be cold
+10:40:26	 From Jiahao Zhang : ac is on
+10:40:26	 From William Gibson : i'll be cold
+10:40:27	 From Sunny Patel : i am cold
+10:40:28	 From Jesse Cortez : I am cold
+10:40:29	 From Fatai Odunewu : I will be cold
+10:40:29	 From Adam Falcigno : cold
+10:40:31	 From Drew Bauer : will be cold
+10:40:33	 From Alan Palayil : AC is on therefore I'll be cold
+10:40:34	 From Abheek Mondal : cold
+10:40:35	 From Jason Cheng : I am cold
+10:40:36	 From Jiahao Zhang : I will be cold
+10:40:37	 From Nathan Chahine : I am cold
+10:40:37	 From patrycja : Ill be cold
+10:40:40	 From Victor Samsonov : I am cold
+10:40:44	 From Alek Popovic : I'm cold
+10:40:46	 From Jonathan Polley : i be cold
+10:41:11	 From Na'im Muhammad : ☃️ Cold
+10:41:13	 From Jason Scott : Proof by contradiction? 
+10:41:33	 From patrycja : ^
+10:41:35	 From Abheek Mondal : that's something else i think
+10:41:42	 From Na'im Muhammad : 😮 I see
+10:41:57	 From Tabor : not q imples not p
+10:42:01	 From James E : not p not q
+10:42:05	 From Zain Farhat : q
+10:42:06	 From Mansoor Syed : not q not p
+10:42:07	 From Fatai Odunewu : not q-->p
+10:42:12	 From Na'im Muhammad : P ≣ Q???
+10:42:25	 From Na'im Muhammad : OH
+10:42:39	 From FENGLIAN LI : !p Vq
+10:43:32	 From William Gibson : I am warm
+10:43:35	 From Zain Farhat : I will not be cold
+10:43:36	 From Alisha Khan : I wont be cold
+10:43:37	 From Sameeha Ahmed : not cold 
+10:43:38	 From Faith Busche : I am not cold
+10:43:38	 From Na'im Muhammad : I am not cold
+10:43:39	 From Yongkang Hu : i wont be cold
+10:43:40	 From Khushboo B. Bhattu : If I’m not cold
+10:43:40	 From Adam Falcigno : No cold
+10:43:41	 From Min Kyoung Kang : I will be warm
+10:43:41	 From Fatai Odunewu : i won't be cold
+10:43:41	 From Thien Le : Not be cold
+10:43:41	 From Joshua Hutton : I am not cold
+10:43:42	 From Eric Zhang : ot be cold
+10:43:42	 From Anthony Banuelos : I will not be cold
+10:43:43	 From Jonathan Polley : i am not cold
+10:43:44	 From Nathan Chahine : i wont be cold
+10:43:48	 From George Tapia (The Decider) : im not cold
+10:43:50	 From Nathan Valdez : I am not cold
+10:43:50	 From Alek Popovic : I wont be cold
+10:43:54	 From Neveen Elmajdoub : the ac is off
+10:43:55	 From SAM : I am not cold
+10:43:56	 From Sara Fryzlewicz : the AC is not on
+10:43:56	 From Fatai Odunewu : the ac isn't on
+10:43:57	 From Khushboo B. Bhattu : The ac is off
+10:43:58	 From Anthony Banuelos : the AC is not on
+10:43:59	 From Abheek Mondal : not necessarily 
+10:44:00	 From Jonathan Polley : the is not on
+10:44:02	 From Elizabeth Paniagua : the ac is not on
+10:44:03	 From Jesse Cortez : Ac is off
+10:44:03	 From Nathan Valdez : the ac is off
+10:44:03	 From Jonathan Polley : ac
+10:44:06	 From William Gibson : ye
+10:44:07	 From Caitlin Davitt : yeah
+10:44:08	 From Alisha Khan : yes
+10:44:08	 From Alan Palayil : I won't be cold, if the AC is not on
+10:44:09	 From Jason Scott : yea
+10:44:10	 From Sameeha Ahmed : yes
+10:44:10	 From patrycja : yes
+10:44:10	 From marina pojani : yes
+10:44:10	 From Nathan Chahine : yea
+10:44:11	 From Alan Palayil : Yes
+10:44:11	 From Fatai Odunewu : yeah
+10:44:12	 From carlosrodriguez : yes
+10:44:13	 From Jonathan Polley : yes
+10:44:16	 From Andres Valencia : yes
+10:44:28	 From Alek Popovic : yes
+10:44:30	 From Drew Bauer : yes
+10:44:31	 From Andrew Cordell : yes
+10:44:33	 From Mife Atewogbola : yes
+10:44:35	 From David Galicia : yes
+10:44:51	 From Alexis Edwards : y
+10:44:57	 From George Tapia (The Decider) : yes
+10:44:57	 From Yongkang Hu : yes
+10:45:01	 From Min Kyoung Kang : y
+10:45:01	 From Alan Palayil : yes
+10:45:01	 From Nathan Valdez : yes
+10:45:01	 From Abheek Mondal : ac could be at a higher temp
+10:45:08	 From Austin Roddy : yes
+10:45:10	 From Jiahao Zhang : y
+10:45:16	 From patrycja : yes
+10:45:30	 From Tabor : if I am not cold than the ac is not on
+10:45:32	 From Joshua Prila : if I am not cold then the ac is off
+10:45:37	 From Faith Busche : if I am not cold then the ac is not on
+10:45:38	 From Austin Roddy : I will not be cold then the ac isn't on
+10:45:39	 From Adam Falcigno : No cold no ac
+10:45:44	 From Andres Valencia : if I am not cold then the ac is not on
+10:45:46	 From Adrian Escribano Viviescas : yeah
+10:46:55	 From Giovanni Garcia : fido must be fuzzy
+10:47:25	 From Anthony Banuelos : if a = b , b = c, then a = c
+10:47:41	 From Alan Palayil : ->
+10:47:45	 From Anthony Banuelos : TT
+10:47:46	 From George Tapia (The Decider) : truth table
+10:47:47	 From Zain Farhat : truth table
+10:47:49	 From Sunny Patel : truth table
+10:47:49	 From Mansoor Syed : TT
+10:47:51	 From Fatai Odunewu : tt
+10:47:52	 From Andres Valencia : tt
+10:48:47	 From Ivan Prskalo : can something be not p and p ever?
