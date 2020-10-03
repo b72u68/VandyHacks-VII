@@ -4,7 +4,6 @@ import csv
 
 class ZoomChatMonitoring:
 
-    # add default filename later
     def __init__(self, bad_word_file, filter_word_file, chat_file):
         # init .txt files
         self.chat_file = chat_file
@@ -45,7 +44,6 @@ class ZoomChatMonitoring:
         """
         read chat file
         """
-
         # get word lists
         self.get_filter_word_list()
         self.get_bad_word_list()
@@ -58,12 +56,13 @@ class ZoomChatMonitoring:
                 message_time = data_split[0][:-1]
                 student_name = data_split[1].split(" : ")[0][len("From")+1:]
                 message= data_split[1].split(" : ")[1]
-                print(message_time, student_name, message)
 
                 if self.check_message(message) == 1:
                     self.monitoring_messages(message_time, student_name, message)
                 elif self.check_message(message) == -1:
                     self.monitoring_badWords(message_time, student_name, message)
+
+            print('[+] Process chat file successfully!')
 
         except Exception as e:
             print(f'[-] Exception occurred while reading chat file: {e}')
@@ -71,6 +70,7 @@ class ZoomChatMonitoring:
         # write the results to files
         self.write_csv_messages()
         self.write_csv_badwords()
+
 
     def get_bad_word_list(self):
         """
