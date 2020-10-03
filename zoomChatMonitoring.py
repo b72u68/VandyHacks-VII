@@ -6,7 +6,10 @@ import json
 class ZoomChatMonitoring:
 
     # add default filename later
-    def __init__(self, bad_word_file, filter_word_file):
+    def __init__(self, bad_word_file, filter_word_file,chat_file):
+        #chat_file: .txt file of all recorded chat messages
+        self.chat_file = chat_file
+
         self.filter_word_file = filter_word_file
         self.bad_word_file = bad_word_file
 
@@ -23,6 +26,8 @@ class ZoomChatMonitoring:
         self.student_messages = {}
         # student_questions: {student_email: [{message_time: str, questions: str}]}
         self.student_questions = {}
+        #student_badWords: {student_email: [{message_time: str, inappropriateMsg: str}]}
+        self.student_badWords = {}
 
     def read_file(self, filename):
         """
@@ -77,21 +82,33 @@ class ZoomChatMonitoring:
 
         return False
 
-    def monitoring_messages(self, json_data):
-        """monitoring and storing message from json_data"""
+    def monitoring_messages(self, chat_file):
+        """monitoring and storing message from chat_file for class participation"""
 
-        # get list of message data (json_data = placeholder)
-        chat_log = json.loads(json_data)
+        #open chat_file for reading
+        chat_file = open(importFile, 'r')
 
         # iterate through messages
-        for message_obj in chat_log["messages"]:
-            # get student student_email
-            student_email = message_obj["sender"]
+        for line in chat_file:
 
-            # get student message
-            msg = message_obj["message"]
-            # get message time as a string
-            time = message_obj["date_time"].split('T')[1][0:-1]
+            #skipping over blank lines
+            if line == '\n':
+                continue
+
+            #split time info from message info
+            spl1 = line.split(' ', 1)#spl1[0] = time, spl1[1] = "From (name) : (message)"
+            #save time info
+            time = spl1[0]
+
+            #split name info from message info
+            spl2 = spl1[1].split(':', 1)#spl2[0] = "From (name)", spl2[1] = message
+            #save message info
+            msg = spl2[1]
+
+            #split "From" from actual name
+            spl3 = spl2[0].split(' ', 1)#spl3[0] = "From", spl3[1] = name
+            #save name info
+            name = spl3[1]
 
             # check if message is worth for student credits
             if self.check_message(msg) == 1:
@@ -112,6 +129,49 @@ class ZoomChatMonitoring:
 
                     # add to student_messages
                     self.student_messages[student_email].append({'message_times': time, 'message': msg})
+
+        #return output file
+        self.write_csv()
+
+    def monitoring_badWords(self,chat_file):
+        """monitoring and storing message from chat_file to monitor for inappropriate language"""
+
+        #open chat_file for reading
+        chat_file = open(importFile, 'r')
+
+        # iterate through messages
+        for line in chat_file:
+
+            #skipping over blank lines
+            if line == '\n':
+                continue
+
+            #split time info from message info
+            spl1 = line.split(' ', 1)#spl1[0] = time, spl1[1] = "From (name) : (message)"
+            #save time info
+            time = spl1[0]
+
+            #split name info from message info
+            spl2 = spl1[1].split(':', 1)#spl2[0] = "From (name)", spl2[1] = message
+            #save message info
+            msg = spl2[1]
+
+            #split "From" from actual name
+            spl3 = spl2[0].split(' ', 1)#spl3[0] = "From", spl3[1] = name
+            #save name info
+            name = spl3[1]
+
+            #if message contains an inappropriate word
+            if self.check_message(msg) == -1:
+                # check if student_email key exists in student_messages
+                if not self.student_badWords[student_email]:
+                    self.student_badWords[student_email] = []
+
+                # add to student_messages
+                self.student_badWords[student_email].append({'message_times': time, 'message': msg})
+
+        #return output file
+        self.write_csv_badWords()
 
     def write_csv(self):
         """write students who get credits to csv file"""
@@ -137,3 +197,25 @@ class ZoomChatMonitoring:
             for student in self.student_questions:
                 if student not in self.student_messages:
                     writer.writerow({'name': student.student_email, 'point': 1})
+
+    def write_csv_badWords(self):
+        """write students who get credits to csv file"""
+        current_date = datetime.datetime.now()
+        filename = f'{current_date.month}-{current_date.day}-{current_date.year}.csv'
+
+        try:
+            # create directory zoom_logs if not exist
+            os.mkdir('./zoom_logs')
+        except OSError:
+            # the directory has already existed
+            pass
+
+        filepath = './zoom_logs' + filename
+
+        with open(filepath, mode='w') as zoom_log_file:
+            fieldnames = ['student_email', 'point']
+            writer = csv.DictWriter(zoom_log_file, fieldnames=fieldnames)
+
+            writer.writeheader()
+            for student in self.student_badWords:
+                writer.writerow({'name': student.student_email, 'message': student.student_email.inappropriateMsg})
