@@ -206,7 +206,7 @@ class ZoomChatMonitoring:
                 for inappropriateMsg in self.student_badwords[student_name]:
                     writer.writerow({'name': student_name, 'message': inappropriateMsg})
 
-    def search_messages(self, student_name='', start='', end=''):
+    def search_messages(self, student_name, start, end):
         """
         search for messages in given time
         """
