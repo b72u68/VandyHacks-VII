@@ -1,5 +1,6 @@
 class ZoomChatMonitoring:
 
+    # add default filename later
     def __init__(self, bad_word_file='', filter_word_file=''):
         self.filter_word_file = filter_word_file
         self.bad_word_file = bad_word_file
