@@ -26,6 +26,9 @@ class ZoomChatMonitoring:
         #student_badwords: {student_name: [{message_time: str, inappropriateMsg: str}]}
         self.student_badwords = {}
 
+        # all messages
+        self.all_messages = []
+
     def read_word_file(self, filename):
         """
         read words from file
@@ -56,6 +59,8 @@ class ZoomChatMonitoring:
                 message_time = data_split[0][:-1]
                 student_name = data_split[1].split(" : ")[0][len("From")+1:]
                 message= data_split[1].split(" : ")[1]
+
+                self.all_messages.append({'message_time': message_time, 'student_name': student_name, 'message': message})
 
                 if self.check_message(message) == 1:
                     self.monitoring_messages(message_time, student_name, message)
@@ -200,3 +205,39 @@ class ZoomChatMonitoring:
             for student_name in self.student_badwords:
                 for inappropriateMsg in self.student_badwords[student_name]:
                     writer.writerow({'name': student_name, 'message': inappropriateMsg})
+
+    def search_messages(self, student_name='', start='', end=''):
+        """
+        search for messages in given time
+        """
+        result_messages = []
+
+        def string_time_to_second(time):
+            """
+            convert string time to second for easier comparision
+            """
+            time_split = time.split(':')
+            hour = int(time_split[0])
+            minute = int(time_split[1])
+            second = int(time_split[2])
+            return 3600*hour + 60*minute + second
+
+        # assign value to start and end if no argument is passed
+        if not start:
+            start = self.all_messages[0]['message_time']
+        if not end:
+            end = self.all_messages[-1]['message_time']
+
+        start_time = string_time_to_second(start)
+        end_time = string_time_to_second(end)
+
+        for i in range(len(self.all_messages)):
+            time = string_time_to_second(self.all_messages[i]['message_time'])
+            if start_time <= time <= end_time:
+                if not student_name:
+                    result_messages.append(self.all_messages[i])
+                else:
+                    if student_name in self.all_messages[i]['student_name']:
+                        result_messages.append(self.all_messages[i])
+
+        return result_messages
