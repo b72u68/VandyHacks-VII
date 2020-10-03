@@ -22,9 +22,10 @@ class ZoomChatMonitoring:
     #otherwise return False
     def is_question(self,message):
         text = message.split(' ')               #split message into individual words
+        lastWord = text[len(text)-1]            #saving last word for ease of use later
         if text[0] is in question_words:        #if first word is a question word
             return True                             #return True (it is a question)
-        elif text[len(text)-1].slice(-1) == '?' #if last character of last word is a '?'
+        elif lastWord[:len(lastWord)-2:-1] == '?' #if last character of last word is a '?'
             return True                             #return True (it is a question)
         else:                                   #else, it is not a question
             return False
@@ -42,5 +43,3 @@ class ZoomChatMonitoring:
                     student_questions[student_email].append({message: [time, questions[msg]})   #add to student_questions
                 else:                                                                   #if not question, but worth for credits
                     student_messages[student_email].append({message: [time, msg]})              #add to student_messages
-            #else
-                #do nothing, or create key with None value
