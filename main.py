@@ -32,11 +32,11 @@ def main():
     chat_monitoring = ZoomChatMonitoring(bad_word_file, filter_word_file, chat_file)
 
     # check if user select monitor mode
-    if args.monitor:
+    if args.monitor == 1:
         chat_monitoring.read_chat_file()
 
     # check if user select search mode
-    if args.search:
+    if args.search == 1:
         print('[+] Search result: ')
         print(chat_monitoring.search_messages(args.name, args.start, args.end))
 
