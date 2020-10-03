@@ -1,3 +1,7 @@
+import datetime
+import os
+import csv
+
 class ZoomChatMonitoring:
 
     # add default filename later
@@ -10,9 +14,9 @@ class ZoomChatMonitoring:
         # bad_words: list of bad words (read from file)
         self.bad_words = []
 
-        # student_messages: {student_name: {message_time: str, message: str}}
+        # student_messages: {student_name: [{message_time: str, message: str}]}
         self.student_messages = {}
-        # student_questions: {student_name: {message_time: str, questions: []}}
+        # student_questions: {student_name: [{message_time: str, questions: str}]}
         self.student_questions = {}
 
     def read_file(self, filename):
@@ -51,5 +55,30 @@ class ZoomChatMonitoring:
                 return 0
         return 1
 
-    # def monitoring_messages(self, message): check if message is worth for credits ->
+    # def monitoring_messages(self, message_json): check if message is worth for credits ->
     # add to student_messages, if a question -> add to student_questions
+
+    def write_csv(self):
+        """write students who get credits to csv file"""
+        current_date = datetime.datetime.now()
+        filename = f'{current_date.month}-{current_date.day}-{current_date.year}.csv'
+
+        try:
+            # create directory zoom_logs if not exist
+            os.mkdir('./zoom_logs')
+        except OSError:
+            # the directory has already existed
+            pass
+
+        filepath = './zoom_logs' + filename
+
+        with open(filepath, mode='w') as zoom_log_file:
+            fieldnames = ['student_email', 'point']
+            writer = csv.DictWriter(zoom_log_file, fieldnames=fieldnames)
+
+            writer.writeheader()
+            for student in self.student_messages:
+                writer.writerow({'name': student.student_email, 'point': 1})
+            for student in self.student_questions:
+                if student not in self.student_messages:
+                    writer.writerow({'name': student.student_email, 'point': 1})
