@@ -16,9 +16,9 @@ root = tk.Tk()
 optionsLabel = tk.Label(root, text="Choose type of monitoring:")
 optionsLabel.pack()
 #creating options i.e. "What kind of monitoring?"
-option1 = tk.Checkbutton(frame, text = "Participation Grading", fg = "black")
-option2 = tk.Checkbutton(frame, text = "Inappropriate Language", fg = "black")
-option3 = tk.Checkbutton(frame, text = "Time Search", fg = "black")
+option1 = tk.Checkbutton(root, text = "Participation Grading", fg = "black")
+option2 = tk.Checkbutton(root, text = "Inappropriate Language", fg = "black")
+option3 = tk.Checkbutton(root, text = "Time Search", fg = "black")
 #adding buttons to screen
 option1.pack()
 option2.pack()
@@ -31,28 +31,28 @@ def open_file():
 
 
 #Open chat_file
-chatFileLabel = tk.Label(frame, text = "Upload chat log:")
+chatFileLabel = tk.Label(root, text = "Upload chat log:")
 chatFileLabel.pack()
-openChatFileButton = tk.Button(frame, text="Browse", command=lambda:open_file())
+openChatFileButton = tk.Button(root, text="Browse", command=lambda:open_file())
 openChatFileButton.pack()
 
 
 #Open badWords_file
-badWordFileLabel = tk.Label(frame, text = "Upload list of inappropriate words:")
+badWordFileLabel = tk.Label(root, text = "Upload list of inappropriate words:")
 badWordFileLabel.pack()
-openBadWordsFileButton = tk.Button(frame, text="Browse", command=lambda:open_file())
+openBadWordsFileButton = tk.Button(root, text="Browse", command=lambda:open_file())
 openBadWordsFileButton.pack()
 
 
 #Open filterWords_file
-filterWordsFileLabel = tk.Label(frame, text = "Upload list of filter words:")
+filterWordsFileLabel = tk.Label(root, text = "Upload list of filter words:")
 filterWordsFileLabel.pack()
-openFilterWordsButton = tk.Button(frame, text="Browse", command=lambda:open_file())
+openFilterWordsButton = tk.Button(root, text="Browse", command=lambda:open_file())
 openFilterWordsButton.pack()
 
 
 #creating a button
-startButton = tk.Button(frame, text="Start", fg = "black", bg = "red", command = start())
+startButton = tk.Button(root, text="Start", fg = "black", bg = "red", command = lambda: start())
 #put button on screen
 startButton.pack()
 
@@ -61,7 +61,8 @@ startButton.pack()
 def start():
 	exec = ZoomChatMonitoring(badWords_file, filterWords_file, chat_file)
 	if opt1 == 1:
-		exec.monitoring_messages()
+		pass
+		#exec.monitoring_messages()
 	elif opt2 == 1:
 		pass
 	elif opt3 == 1:
