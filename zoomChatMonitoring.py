@@ -51,5 +51,5 @@ class ZoomChatMonitoring:
                 return 0
         return 1
 
-    # def monitoring_messages(self): check if message is worth for credits ->
+    # def monitoring_messages(self, message): check if message is worth for credits ->
     # add to student_messages, if a question -> add to student_questions
