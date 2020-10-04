@@ -153,16 +153,15 @@ def open_badWordsFile():
 	badWords_file_temp = filedialog.askopenfilename()
 	if badWords_file_temp:
 		badWords_file = badWords_file_temp
+	w1.withdraw()
 
 def open_filterChatFile():
 	global filterWords_file
 	filterWords_file_temp = filedialog.askopenfilename()
 	if filterWords_file_temp:
 		filterWords_file = filterWords_file_temp
+	w2.withdraw()
 
-
-#chatFrame = tk.Frame(root)			#NEW
-#chatFrame.pack(side=tk.TOP)				#NEW
 
 #Open chat_file
 chatFileLabel = tk.Label(root, text = "Upload chat log:", font=tnr11,bg=background_color)		#NEW CHANGES
@@ -171,31 +170,51 @@ openChatFileButton = tk.Button(root, text="Browse", font=helv10, bg='khaki1', co
 openChatFileButton.pack()
 
 
-badFrame = tk.Frame(root)			#NEW
-badFrame.pack(side=tk.TOP)			#NEW
-
 #Open badWords_file
 badWordFileLabel = tk.Label(root, text = "Upload list of inappropriate words:", font=tnr11,bg=background_color)					#NEW
 badWordFileLabel.pack()
+#openBadWordsFileButton = tk.Button(root, text="Browse", font=helv10, bg='khaki1', command=lambda:open_badWordsFile())
+#openBadWordsFileButton.pack()
 
-openBadWordsFileButton = tk.Button(root, text="Browse", font=helv10, bg='khaki1', command=lambda:open_badWordsFile())
-openBadWordsFileButton.pack()
+#Use default or custom file?
+badOpt1 = badOpt2 = None																				#NEW
+bad1 = tk.Checkbutton(root, text = "Default", font=tnr11,bg=background_color, fg = "black", variable = badOpt1, onvalue = 1, offvalue = 0)		#NEW
+bad1.pack()																				#NEW
+bad2 = tk.Checkbutton(root, text = "Custom", font=tnr11,bg=background_color, fg = "black", variable = badOpt2, onvalue = 1, offvalue = 0,command=lambda:badSearch())		#NEW
+bad2.pack()
 
-#badOption = StringVar()																				#NEW
-#badOptionMenu = OptionMenu(badFrame, badOption, "Default", "Custom")								#NEW
-#badOptionMenu.pack()																				#NEW
+#Prompt for custom file
+def badSearch():
+	global w1
+	w1 = tk.Toplevel(height=(HEIGHT/2), width=(WIDTH/2), bg=background_color)
+	w1.title("Browse File")
+	#w1.geometry("250x250")
 
-#if badOption.get() == "Custom":
-#	openBadWordsFileButton = tk.Button(root, text="Browse", command=lambda:open_badWordsFile())
-#	openBadWordsFileButton.pack()
+	openBadWordsFileButton = tk.Button(w1, text="Browse", command=lambda:open_badWordsFile())
+	openBadWordsFileButton.pack()
 
 
 #Open filterWords_file
 filterWordsFileLabel = tk.Label(root, text = "Upload list of filter words:", font=tnr11,bg=background_color)
 filterWordsFileLabel.pack()
-openFilterWordsButton = tk.Button(root, text="Browse", font=helv10, bg='khaki1', command=lambda:open_filterChatFile())
-openFilterWordsButton.pack()
+#openFilterWordsButton = tk.Button(root, text="Browse", font=helv10, bg='khaki1', command=lambda:open_filterChatFile())
+#openFilterWordsButton.pack()
 
+#Use default or custom file?
+filterOpt1 = filterOpt2 = None																				#NEW
+filter1 = tk.Checkbutton(root, text = "Default", font=tnr11,bg=background_color, fg = "black", variable = filterOpt1, onvalue = 1, offvalue = 0)		#NEW
+filter1.pack()																				#NEW
+filter2 = tk.Checkbutton(root, text = "Custom", font=tnr11,bg=background_color, fg = "black", variable = filterOpt2, onvalue = 1, offvalue = 0,command=lambda:filterSearch())		#NEW
+filter2.pack()
+
+def filterSearch():
+	global w2
+	w2 = tk.Toplevel(height=(HEIGHT/2), width=(WIDTH/2), bg=background_color)
+	w2.title("Browse File")
+	#w2.geometry("250x250")
+
+	openFilterWordsButton = tk.Button(w2, text="Browse", font=helv10, bg='khaki1', command=lambda:open_filterChatFile())
+	openFilterWordsButton.pack()
 
 
 def start():
