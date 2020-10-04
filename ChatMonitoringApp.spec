@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['ChatMonitoringApp.py'],
-             pathex=['C:\\Users\\gtole\\Documents\\GitHub\\VanyHacks\\VandyHacks-VII'],
+             pathex=['D:\\Working\\Side Projects\\VandyHacks-VII'],
              binaries=[],
              datas=[],
              hiddenimports=[],
