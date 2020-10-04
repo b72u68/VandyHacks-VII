@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['ChatMonitoringApp.py'],
+a = Analysis(['chatMonitoringApp.py'],
              pathex=['D:\\Working\\Side Projects\\VandyHacks-VII'],
              binaries=[],
              datas=[],
@@ -23,7 +23,7 @@ exe = EXE(pyz,
           a.zipfiles,
           a.datas,
           [],
-          name='ChatMonitoringApp',
+          name='chatMonitoringApp',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,

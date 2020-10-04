@@ -1,8 +1,32 @@
 ('D:\\Working\\Side '
- 'Projects\\VandyHacks-VII\\build\\ChatMonitoringApp\\PYZ-00.pyz',
- [('os',
+ 'Projects\\VandyHacks-VII\\build\\chatMonitoringApp\\PYZ-00.pyz',
+ [('doctest',
    'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\os.py',
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\doctest.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\struct.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\__init__.py',
    'PYMODULE'),
   ('ntpath',
    'c:\\users\\edogawa '
@@ -16,61 +40,9 @@
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\genericpath.py',
    'PYMODULE'),
-  ('posixpath',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\posixpath.py',
-   'PYMODULE'),
   ('stat',
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\stat.py',
-   'PYMODULE'),
-  ('copy',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('pickle',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\pickle.py',
-   'PYMODULE'),
-  ('pprint',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\pprint.py',
-   'PYMODULE'),
-  ('_strptime',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\_strptime.py',
-   'PYMODULE'),
-  ('datetime',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\datetime.py',
-   'PYMODULE'),
-  ('calendar',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\calendar.py',
-   'PYMODULE'),
-  ('argparse',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\argparse.py',
-   'PYMODULE'),
-  ('textwrap',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('gettext',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
-   'PYMODULE'),
-  ('doctest',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\doctest.py',
-   'PYMODULE'),
-  ('unittest',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\__init__.py',
    'PYMODULE'),
   ('unittest.signals',
    'c:\\users\\edogawa '
@@ -88,9 +60,29 @@
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\runner.py',
    'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\calendar.py',
+   'PYMODULE'),
   ('unittest.loader',
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\posixpath.py',
    'PYMODULE'),
   ('unittest.suite',
    'c:\\users\\edogawa '
@@ -104,9 +96,21 @@
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\contextlib.py',
    'PYMODULE'),
+  ('pprint',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\pprint.py',
+   'PYMODULE'),
   ('logging',
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\_compat_pickle.py',
    'PYMODULE'),
   ('threading',
    'c:\\users\\edogawa '
@@ -352,82 +356,6 @@
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\token.py',
    'PYMODULE'),
-  ('platform',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\platform.py',
-   'PYMODULE'),
-  ('plistlib',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\plistlib.py',
-   'PYMODULE'),
-  ('xml.parsers.expat',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\expat.py',
-   'PYMODULE'),
-  ('xml.parsers',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\__init__.py',
-   'PYMODULE'),
-  ('xml',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\__init__.py',
-   'PYMODULE'),
-  ('xml.sax.expatreader',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\expatreader.py',
-   'PYMODULE'),
-  ('xml.sax.saxutils',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\saxutils.py',
-   'PYMODULE'),
-  ('urllib.request',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\request.py',
-   'PYMODULE'),
-  ('getpass',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\getpass.py',
-   'PYMODULE'),
-  ('nturl2path',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\nturl2path.py',
-   'PYMODULE'),
-  ('ftplib',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\ftplib.py',
-   'PYMODULE'),
-  ('netrc',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\netrc.py',
-   'PYMODULE'),
-  ('http.cookiejar',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookiejar.py',
-   'PYMODULE'),
-  ('urllib.response',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\response.py',
-   'PYMODULE'),
-  ('urllib.error',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\error.py',
-   'PYMODULE'),
-  ('xml.sax',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\__init__.py',
-   'PYMODULE'),
-  ('xml.sax.handler',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\handler.py',
-   'PYMODULE'),
-  ('xml.sax._exceptions',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\_exceptions.py',
-   'PYMODULE'),
-  ('xml.sax.xmlreader',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\xmlreader.py',
-   'PYMODULE'),
   ('pkgutil',
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\pkgutil.py',
@@ -508,29 +436,21 @@
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\__future__.py',
    'PYMODULE'),
-  ('_compat_pickle',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\_compat_pickle.py',
-   'PYMODULE'),
-  ('struct',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\struct.py',
-   'PYMODULE'),
-  ('fnmatch',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\fnmatch.py',
-   'PYMODULE'),
   ('typing',
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
    'PYMODULE'),
-  ('_py_abc',
+  ('tracemalloc',
    'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
    'PYMODULE'),
   ('stringprep',
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
    'PYMODULE'),
   ('tkinter.messagebox',
    'c:\\users\\edogawa '
@@ -567,4 +487,84 @@
   ('tkinter.constants',
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\os.py',
    'PYMODULE')])
