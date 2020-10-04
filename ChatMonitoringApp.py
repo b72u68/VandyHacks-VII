@@ -1,12 +1,14 @@
 import tkinter as tk
+import tkinter.font as tkFont
 import subprocess
 from tkinter import *
 from tkinter.ttk import *
 from tkinter.filedialog import askopenfile
 from tkinter import filedialog
 
-HEIGHT = 700 #pixels
-WIDTH = 800 #pixels
+
+HEIGHT = 1000 #pixels
+WIDTH = 1000 #pixels
 chat_file = ''
 badWords_file = './default_word_files/badWords.txt'
 filterWords_file = './default_word_files/filterWords.txt'
@@ -18,6 +20,7 @@ MinuteOptionList = ['00', '01', '02', '03', '04', '05', '06', '07', '08', '09', 
 
 #create base window
 root = tk.Tk()
+root.geometry("300x300")
 
 
 #Checkbutton for choosing monitoring option
