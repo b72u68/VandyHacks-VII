@@ -44,6 +44,8 @@ results to the screen.
     - Click the Start button.
     - Once finished, the output will be written to a .csv file.
 
+    !(Demo Command Line)[./demo_pic/terminal_usage.png]
+
 ## Challenges we ran into
 
 The Zoom API does not allow us to get in-meeting chat asynchronously so we have
