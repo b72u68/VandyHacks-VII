@@ -10,6 +10,7 @@ WIDTH = 800 #pixels
 chat_file = ''
 badWords_file = ''
 filterWords_file = ''
+student_names = []
 searchOptionsWind = None
 
 HourOptionList = ['00', '01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18' ,'19', '20', '21', '22', '23']
@@ -84,15 +85,22 @@ def openSearchOptions():
 
 #function for opening files in read mode
 def open_chatFile():
-	chat_file = filedialog.askopenfilename()
-	print(chat_file)
-	print(type(chat_file))
+	global chat_file
+	chat_file_temp = filedialog.askopenfilename()
+	if chat_file_temp:
+		chat_file = chat_file_temp
 
 def open_badWordsFile():
-	badWords_file = filedialog.askopenfilename()
+	global badWords_file
+	badWords_file_temp = filedialog.askopenfilename()
+	if badWords_file_temp:
+		badWords_file = badWords_file_temp
 
 def open_filterChatFile():
-	filterWords_file = filedialog.askopenfilename()
+	global filterWords_file
+	filterWords_file_temp = filedialog.askopenfilename()
+	if filterWords_file_temp:
+		filterWords_file = filterWords_file_temp
 
 
 #Open chat_file
@@ -116,21 +124,19 @@ openFilterWordsButton = tk.Button(root, text="Browse", command=lambda:open_filte
 openFilterWordsButton.pack()
 
 
-#defining startButton function
+
 def start():
 	if opt1.get() == 1:
-		subprocess.run(['python3', 'main.py', '-fw', filterWords_file, chat_file], shell=False, capture_output=False)
+			subprocess.run(['python3', 'main.py', '-fw', filterWords_file, chat_file], shell=False, capture_output=False)
 	elif opt2.get() == 1:
-		subprocess.run('python3 main.py -bw badWords_file chat_file')
+		subprocess.run(['python3', 'main.py', '-bw', badWords_file, chat_file], shell=False, capture_output=False)
 	elif opt3.get() == 1:
 		useFilt = 0
 		if monOptionVal == "Yes":
 			useFilt=1
-
-		subprocess.run('python3 main.py -s useFilt -n <student name> -st startHourVal:startMinuteVal:startSecondVal -e endHourVal:endMinuteVal:endSecondVal chat_file')
+			#subprocess.run(['python3', 'main.py', '-s', useFilt, '-n', <student name> '-st' startHourVal:startMinuteVal:startSecondVal, '-e' endHourVal:endMinuteVal:endSecondVal, 'chat_file'])
 	else:
 		pass
-		#test = tk.MessageBox.showinfo("Say Hello", "Hello World")
 
 
 
