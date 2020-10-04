@@ -30,7 +30,7 @@ class ZoomChatMonitoring:
         self.all_messages = []
 
         try:
-            file = open(self.chat_file, 'rt')
+            file = open(self.chat_file, 'rt', encoding='utf8')
             for data in file.readlines():
                 # spl1: message_time\t | From student_name : message\n
                 data_split = data.split(' ', 1)
@@ -40,7 +40,7 @@ class ZoomChatMonitoring:
 
                 self.all_messages.append({'message_time': message_time, 'student_name': student_name, 'message': message})
 
-        except Exception as e:
+        except:
             print('[-] Error occurred while reading chat file')
 
     def read_word_file(self, filename):
@@ -49,7 +49,7 @@ class ZoomChatMonitoring:
         """
         words = []
         try:
-            file = open(filename, 'rt')
+            file = open(filename, 'rt', encoding='utf8')
             words = [word[:-1] for word in file.readlines()]
 
         except Exception as e:
@@ -66,7 +66,7 @@ class ZoomChatMonitoring:
         self.get_bad_word_list()
 
         try:
-            file = open(self.chat_file, 'rt')
+            file = open(self.chat_file, 'rt', encoding='utf8')
             for data in file.readlines():
                 # spl1: message_time\t | From student_name : message\n
                 data_split = data.split(' ', 1)
@@ -182,7 +182,7 @@ class ZoomChatMonitoring:
 
         filepath = f'./zoom_logs/{current_date.month}-{current_date.day}-{current_date.year}/' + filename
 
-        with open(filepath, mode='w') as zoom_log_file:
+        with open(filepath, mode='w', encoding='utf8') as zoom_log_file:
             fieldnames = ['name', 'point']
             writer = csv.DictWriter(zoom_log_file, fieldnames=fieldnames)
 
@@ -209,7 +209,7 @@ class ZoomChatMonitoring:
 
         filepath = f'./zoom_logs/{current_date.month}-{current_date.day}-{current_date.year}/' + filename
 
-        with open(filepath, mode='w') as zoom_log_file:
+        with open(filepath, mode='w', encoding='utf8') as zoom_log_file:
             fieldnames = ['name', 'message']
             writer = csv.DictWriter(zoom_log_file, fieldnames=fieldnames)
 
