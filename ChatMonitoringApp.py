@@ -242,13 +242,13 @@ def start():
         # python_command = python_path.split('\\')[-1].split('.')[0]
         python_command = 'python'
 
-    if opt1.get() == 1:
-        result = subprocess.run([python_command, 'main.py', '-fw', filterWords_file, chat_file], shell=False, capture_output=True)
-        messagebox.showinfo(title="Search Results", message=result.stdout)
+    command = [python_command, 'main.py']
 
-    elif opt2.get() == 1:
-        result = subprocess.run(['python3', 'main.py', '-bw', badWords_file, chat_file], shell=False, capture_output=True)
-        messagebox.showinfo(title="Search Results", message=result.stdout)
+    if opt1.get() == 1:
+        command.extend(['-fw', filterWords_file])
+
+    if opt2.get() == 1:
+        command.extend(['-bw', badWords_file])
 
     # elif opt3.get() == 1:
         # s = 1
@@ -257,6 +257,13 @@ def start():
             # useFilt=1
         # result = subprocess.run(['python3', 'main.py', '-m', f'{useFilt}', '-s', f'{s}', '-n', f'{nameMenuVal.get()}', '-st', f'{startHourVal.get()}:{startMinuteVal.get()}:{startSecondVal.get()}', '-e', f'{endHourVal.get()}:{endMinuteVal.get()}:{endSecondVal.get()}', chat_file], shell=False, capture_output=True)
         # messagebox.showinfo(title="Search Results",message=result.stdout)
+
+        # add chat file to the end of command
+        command.append(chat_file)
+
+        # run the command
+        result = subprocess.run(command, shell=False, capture_output=True)
+        messagebox.showinfo(title="Results", message=result.stdout)
 
     else:
         messagebox.showerror(title="Error", message="You must select one monitoring option.")
