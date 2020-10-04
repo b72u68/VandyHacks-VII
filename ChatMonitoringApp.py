@@ -8,8 +8,8 @@ from tkinter import filedialog
 HEIGHT = 700 #pixels
 WIDTH = 800 #pixels
 chat_file = ''
-badWords_file = ''
-filterWords_file = ''
+badWords_file = './default_word_files/badWords.txt'
+filterWords_file = './default_word_files/filterWords.txt'
 student_names = []
 searchOptionsWind = None
 
