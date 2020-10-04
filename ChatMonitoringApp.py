@@ -3,6 +3,7 @@ import subprocess
 from tkinter import *
 from tkinter.ttk import *
 from tkinter.filedialog import askopenfile
+from tkinter import filedialog
 
 HEIGHT = 700 #pixels
 WIDTH = 800 #pixels
@@ -83,14 +84,15 @@ def openSearchOptions():
 
 #function for opening files in read mode
 def open_chatFile():
-	chat_file = askopenfile(mode='r', filetypes = [("Text Files",".txt")])
+	chat_file = filedialog.askopenfilename()
 	print(chat_file)
+	print(type(chat_file))
 
 def open_badWordsFile():
-	badWords_file = askopenfile(mode='r', filetypes = [("Text Files",".txt")])
+	badWords_file = filedialog.askopenfilename()
 
 def open_filterChatFile():
-	filterWords_file = askopenfile(mode='r', filetypes = [("Text Files",".txt")])
+	filterWords_file = filedialog.askopenfilename()
 
 
 #Open chat_file
@@ -117,7 +119,7 @@ openFilterWordsButton.pack()
 #defining startButton function
 def start():
 	if opt1.get() == 1:
-		subprocess.Popen(('python3 main.py -fw filterWords_file chat_file ').split(' ',2))
+		subprocess.run(['python3', 'main.py', '-fw', filterWords_file, chat_file], shell=False, capture_output=False)
 	elif opt2.get() == 1:
 		subprocess.run('python3 main.py -bw badWords_file chat_file')
 	elif opt3.get() == 1:
