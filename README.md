@@ -44,7 +44,7 @@ results to the screen.
     - Click the Start button.
     - Once finished, the output will be written to a .csv file.
 
-    !(Demo Command Line)[./demo_pic/terminal_usage.png]
+![Demo Command Line](./demo_pic/terminal_usage.png)
 
 ## Challenges we ran into
 
