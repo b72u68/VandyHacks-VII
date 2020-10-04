@@ -1,3 +1,6 @@
+import os
+import sys
+import platform
 import tkinter as tk
 import tkinter.font as tkFont
 import subprocess
@@ -218,22 +221,29 @@ def filterSearch():
 
 
 def start():
-	if opt1.get() == 1:
-		result = subprocess.run(['python3', 'main.py', '-fw', filterWords_file, chat_file], shell=False, capture_output=True)		#NEW CHANGES
-		messagebox.showinfo(title="Search Results",message=result.stdout)															#NEW
-	elif opt2.get() == 1:
-		result = subprocess.run(['python3', 'main.py', '-bw', badWords_file, chat_file], shell=False, capture_output=True)				#NEW CHANGES
-		messagebox.showinfo(title="Search Results",message=result.stdout)															#NEW
-	elif opt3.get() == 1:
-		s = 1
-		useFilt = 0
-		if monOptionVal.get() == "Yes":
-			useFilt=1																	#NEW (below)
-		result = subprocess.run(['python3', 'main.py', '-m', f'{useFilt}', '-s', f'{s}', '-n', f'{nameMenuVal.get()}', '-st', f'{startHourVal.get()}:{startMinuteVal.get()}:{startSecondVal.get()}', '-e', f'{endHourVal.get()}:{endMinuteVal.get()}:{endSecondVal.get()}', chat_file], shell=False, capture_output=True)
-		messagebox.showinfo(title="Search Results",message=result.stdout)				#NEW
+    python_command = 'python3'
+    python_path = sys.executable
+    machine_os = platform.system()
+    if machine_os == 'Windows':
+        python_command = python_path.split('\\')[-1].split('.')[0]
 
-	else:
-		messagebox.showerror(title="Error",message="You must select one monitoring option.")			#NEW
+    if opt1.get() == 1:
+        result = subprocess.run([python_command, 'main.py', '-fw', filterWords_file, chat_file], shell=False, capture_output=True)		#NEW CHANGES
+        messagebox.showinfo(title="Search Results",message=result.stdout)
+
+    elif opt2.get() == 1:
+        result = subprocess.run(['python3', 'main.py', '-bw', badWords_file, chat_file], shell=False, capture_output=True)				#NEW CHANGES
+        messagebox.showinfo(title="Search Results",message=result.stdout)															#NEW
+	# elif opt3.get() == 1:
+		# s = 1
+		# useFilt = 0
+		# if monOptionVal.get() == "Yes":
+			# useFilt=1																	#NEW (below)
+		# result = subprocess.run(['python3', 'main.py', '-m', f'{useFilt}', '-s', f'{s}', '-n', f'{nameMenuVal.get()}', '-st', f'{startHourVal.get()}:{startMinuteVal.get()}:{startSecondVal.get()}', '-e', f'{endHourVal.get()}:{endMinuteVal.get()}:{endSecondVal.get()}', chat_file], shell=False, capture_output=True)
+		# messagebox.showinfo(title="Search Results",message=result.stdout)				#NEW
+
+    else:
+        messagebox.showerror(title="Error",message="You must select one monitoring option.")			#NEW
 
 
 
