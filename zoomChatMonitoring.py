@@ -29,6 +29,20 @@ class ZoomChatMonitoring:
         # all messages
         self.all_messages = []
 
+        try:
+            file = open(self.chat_file, 'rt')
+            for data in file.readlines():
+                # spl1: message_time\t | From student_name : message\n
+                data_split = data.split(' ', 1)
+                message_time = data_split[0][:-1]
+                student_name = data_split[1].split(" : ")[0][len("From")+1:]
+                message= data_split[1].split(" : ")[1]
+
+                self.all_messages.append({'message_time': message_time, 'student_name': student_name, 'message': message})
+
+        except Exception as e:
+            print('[-] Error occurred while reading chat file')
+
     def read_word_file(self, filename):
         """
         read words from file
@@ -59,8 +73,6 @@ class ZoomChatMonitoring:
                 message_time = data_split[0][:-1]
                 student_name = data_split[1].split(" : ")[0][len("From")+1:]
                 message= data_split[1].split(" : ")[1]
-
-                self.all_messages.append({'message_time': message_time, 'student_name': student_name, 'message': message})
 
                 if self.check_message(message) == 1:
                     self.monitoring_messages(message_time, student_name, message)
