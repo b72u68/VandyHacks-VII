@@ -26,6 +26,8 @@ MinuteOptionList = ['00', '01', '02', '03', '04', '05', '06', '07', '08', '09', 
 
 background_color = 'wheat1'
 
+w1, w2 = None, None
+
 #create base window
 root = tk.Tk()
 root.geometry("300x350")
@@ -53,7 +55,7 @@ opt3 = IntVar()
 #creating options i.e. "What kind of monitoring?"
 option1 = tk.Checkbutton(monitorFrame, text="Participation Grading", font=tnr11, bg=background_color, fg="black", variable=opt1, onvalue=1, offvalue=0)
 option2 = tk.Checkbutton(monitorFrame, text="Inappropriate Language", font=tnr11, bg=background_color, fg="black", variable=opt2, onvalue=1, offvalue=0)
-option3 = tk.Checkbutton(monitorFrame, text="Time Search", font=tnr11, bg=background_color, fg="black", variable=opt3, onvalue=1, offvalue=0, command=openSearchOptions())
+option3 = tk.Checkbutton(monitorFrame, text="Time Search", font=tnr11, bg=background_color, fg="black", variable=opt3, onvalue=1, offvalue=0, command=lambda: openSearchOptions())
 
 #adding buttons to screen
 option1.pack()
@@ -162,6 +164,7 @@ def get_badWordsFile():
     badWords_file_temp = filedialog.askopenfilename()
     if badWords_file_temp:
         badWords_file = badWords_file_temp
+    global w1
     w1.withdraw()
 
 def get_filterChatFile():
@@ -172,18 +175,19 @@ def get_filterChatFile():
     filterWords_file_temp = filedialog.askopenfilename()
     if filterWords_file_temp:
         filterWords_file = filterWords_file_temp
+    global w2
     w2.withdraw()
 
 
 #Open chat_file
 chatFileLabel = tk.Label(root, text = "Upload chat log:", font=tnr11, bg=background_color)
 chatFileLabel.pack()
-openChatFileButton = tk.Button(root, text="Browse", font=helv10, bg='khaki1', command=get_chatFile())
+openChatFileButton = tk.Button(root, text="Browse", font=helv10, bg='khaki1', command=lambda: get_chatFile())
 openChatFileButton.pack()
 
 
 #Open badWords_file
-badWordFileLabel = tk.Label(root, text = "Upload list of inappropriate words:", font=tnr11,bg=background_color)
+badWordFileLabel = tk.Label(root, text = "Upload list of inappropriate words:", font=tnr11, bg=background_color)
 badWordFileLabel.pack()
 #openBadWordsFileButton = tk.Button(root, text="Browse", font=helv10, bg='khaki1', command=open_badWordsFile())
 #openBadWordsFileButton.pack()
@@ -192,7 +196,7 @@ badWordFileLabel.pack()
 badOpt1 = badOpt2 = None
 bad1 = tk.Checkbutton(root, text="Default", font=tnr11, bg=background_color, fg="black", variable=badOpt1, onvalue=1, offvalue=0)
 bad1.pack()
-bad2 = tk.Checkbutton(root, text="Custom", font=tnr11, bg=background_color, fg="black", variable=badOpt2, onvalue=1, offvalue=0, command=badSearch())
+bad2 = tk.Checkbutton(root, text="Custom", font=tnr11, bg=background_color, fg="black", variable=badOpt2, onvalue=1, offvalue=0, command=lambda: badSearch())
 bad2.pack()
 
 #Prompt for custom file
@@ -205,7 +209,7 @@ def badSearch():
     w1.title("Browse File")
     #w1.geometry("250x250")
 
-    openBadWordsFileButton = tk.Button(w1, text="Browse", command=get_badWordsFile())
+    openBadWordsFileButton = tk.Button(w1, text="Browse", command=lambda: get_badWordsFile())
     openBadWordsFileButton.pack()
 
 
@@ -219,7 +223,7 @@ filterWordsFileLabel.pack()
 filterOpt1 = filterOpt2 = None
 filter1 = tk.Checkbutton(root, text="Default", font=tnr11, bg=background_color, fg="black", variable=filterOpt1, onvalue=1, offvalue=0)
 filter1.pack()
-filter2 = tk.Checkbutton(root, text="Custom", font=tnr11, bg=background_color, fg="black", variable=filterOpt2, onvalue=1, offvalue=0, command=filterSearch())
+filter2 = tk.Checkbutton(root, text="Custom", font=tnr11, bg=background_color, fg="black", variable=filterOpt2, onvalue=1, offvalue=0, command=lambda: filterSearch())
 filter2.pack()
 
 def filterSearch():
@@ -231,7 +235,7 @@ def filterSearch():
     w2.title("Browse File")
     #w2.geometry("250x250")
 
-    openFilterWordsButton = tk.Button(w2, text="Browse", font=helv10, bg='khaki1', command=get_filterChatFile())
+    openFilterWordsButton = tk.Button(w2, text="Browse", font=helv10, bg='khaki1', command=lambda: get_filterChatFile())
     openFilterWordsButton.pack()
 
 def start():

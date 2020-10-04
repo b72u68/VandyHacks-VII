@@ -1,6 +1,10 @@
 ('D:\\Working\\Side '
  'Projects\\VandyHacks-VII\\build\\chatMonitoringApp\\PYZ-00.pyz',
- [('tracemalloc',
+ [('copy',
+   'c:\\users\\edogawa '
+   'dore\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('tracemalloc',
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
    'PYMODULE'),
@@ -31,10 +35,6 @@
   ('textwrap',
    'c:\\users\\edogawa '
    'dore\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
-   'PYMODULE'),
-  ('copy',
-   'c:\\users\\edogawa '
-   'dore\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
    'PYMODULE'),
   ('gettext',
    'c:\\users\\edogawa '
