@@ -260,7 +260,6 @@ def start():
 
     # add chat file to the end of command
     command.append(chat_file)
-    print(command)
 
     # run the command
     result = subprocess.run(command, shell=False, capture_output=True)
