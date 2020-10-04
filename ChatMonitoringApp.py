@@ -54,6 +54,8 @@ uploadLabel.pack()
 
 def openSearchOptions():
 	searchOptionsWind = tk.Toplevel(height=HEIGHT, width=WIDTH, bg=background_color)
+	searchOptionsWind.title("Time Search")
+	searchOptionsWind.geometry("250x250")
 
 	startLabel = tk.Label(searchOptionsWind, text="Choose start time:", font=helv12,bg=background_color)
 	startLabel.pack()
