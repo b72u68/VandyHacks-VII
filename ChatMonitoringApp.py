@@ -3,13 +3,14 @@ import subprocess
 from tkinter import *
 from tkinter.ttk import *
 from tkinter.filedialog import askopenfile
+from tkinter import filedialog
 
 HEIGHT = 700 #pixels
 WIDTH = 800 #pixels
-opt1,opt2,opt3 = 0,0,0
 chat_file = ''
 badWords_file = ''
 filterWords_file = ''
+student_names = []
 searchOptionsWind = None
 
 HourOptionList = ['00', '01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13', '14', '15', '16', '17', '18' ,'19', '20', '21', '22', '23']
@@ -23,11 +24,13 @@ root = tk.Tk()
 optionsLabel = tk.Label(root, text="Choose type of monitoring:")
 optionsLabel.pack()
 
-
+opt1=IntVar()
+opt2=IntVar()
+opt3=IntVar()
 #creating options i.e. "What kind of monitoring?"
-option1 = tk.Checkbutton(root, text = "Participation Grading", fg = "black")
-option2 = tk.Checkbutton(root, text = "Inappropriate Language", fg = "black")
-option3 = tk.Checkbutton(root, text = "Time Search", fg = "black", command=lambda:openSearchOptions())
+option1 = tk.Checkbutton(root, text = "Participation Grading", fg = "black", variable = opt1, onvalue = 1, offvalue = 0)
+option2 = tk.Checkbutton(root, text = "Inappropriate Language", fg = "black", variable = opt2, onvalue = 1, offvalue = 0)
+option3 = tk.Checkbutton(root, text = "Time Search", fg = "black", variable = opt3, onvalue = 1, offvalue = 0, command=lambda:openSearchOptions())
 #adding buttons to screen
 option1.pack()
 option2.pack()
@@ -74,59 +77,73 @@ def openSearchOptions():
 	optionMonLabel = tk.Label(searchOptionsWind, text="Use filtering?")
 	optionMonLabel.pack()
 
-	monOptionVal = StrVar()
+	monOptionVal = StringVar()
 	monOption = OptionMenu(searchOptionsWind, monOptionVal, "Yes", "No")
 	monOption.pack()
 
 
 
 #function for opening files in read mode
-def open_file():
-	file = askopenfile(mode='r', filetypes = [("Text Files",".txt")])
+def open_chatFile():
+	global chat_file
+	chat_file_temp = filedialog.askopenfilename()
+	if chat_file_temp:
+		chat_file = chat_file_temp
+
+def open_badWordsFile():
+	global badWords_file
+	badWords_file_temp = filedialog.askopenfilename()
+	if badWords_file_temp:
+		badWords_file = badWords_file_temp
+
+def open_filterChatFile():
+	global filterWords_file
+	filterWords_file_temp = filedialog.askopenfilename()
+	if filterWords_file_temp:
+		filterWords_file = filterWords_file_temp
 
 
 #Open chat_file
 chatFileLabel = tk.Label(root, text = "Upload chat log:")
 chatFileLabel.pack()
-openChatFileButton = tk.Button(root, text="Browse", command=lambda:open_file())
+openChatFileButton = tk.Button(root, text="Browse", command=lambda:open_chatFile())
 openChatFileButton.pack()
 
 
 #Open badWords_file
 badWordFileLabel = tk.Label(root, text = "Upload list of inappropriate words:")
 badWordFileLabel.pack()
-openBadWordsFileButton = tk.Button(root, text="Browse", command=lambda:open_file())
+openBadWordsFileButton = tk.Button(root, text="Browse", command=lambda:open_badWordsFile())
 openBadWordsFileButton.pack()
 
 
 #Open filterWords_file
 filterWordsFileLabel = tk.Label(root, text = "Upload list of filter words:")
 filterWordsFileLabel.pack()
-openFilterWordsButton = tk.Button(root, text="Browse", command=lambda:open_file())
+openFilterWordsButton = tk.Button(root, text="Browse", command=lambda:open_filterChatFile())
 openFilterWordsButton.pack()
 
 
-#creating a button
-startButton = tk.Button(root, text="Start", fg = "black", bg = "red", command = lambda: start())
-#put button on screen
-startButton.pack()
 
-
-#defining startButton function
 def start():
-	if opt1 == 1:
-		subprocess.run('python3 main.py -fw filterWords_file chat_file ')
-	elif opt2 == 1:
-		subprocess.run('python3 main.py -bw badWords_file chat_file')
-	elif opt3 == 1:
+	if opt1.get() == 1:
+			subprocess.run(['python3', 'main.py', '-fw', filterWords_file, chat_file], shell=False, capture_output=False)
+	elif opt2.get() == 1:
+		subprocess.run(['python3', 'main.py', '-bw', badWords_file, chat_file], shell=False, capture_output=False)
+	elif opt3.get() == 1:
 		useFilt = 0
 		if monOptionVal == "Yes":
 			useFilt=1
-
-		subprocess.run('python3 main.py -s useFilt -n <student name> -st startHourVal:startMinuteVal:startSecondVal -e endHourVal:endMinuteVal:endSecondVal chat_file')
+			#subprocess.run(['python3', 'main.py', '-s', useFilt, '-n', <student name> '-st' startHourVal:startMinuteVal:startSecondVal, '-e' endHourVal:endMinuteVal:endSecondVal, 'chat_file'])
 	else:
 		pass
 
+
+
+#creating a button
+startButton = tk.Button(root, text="Start", fg = "black", bg = "red", command=start)
+#put button on screen
+startButton.pack()
 
 #run application
 root.mainloop()
