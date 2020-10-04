@@ -24,3 +24,11 @@ smooth interaction on a user-friendly GUI.
 	  attach them under their respective tabs.
 	- Click the Start button.
 	- Once finished, the output will be written to a .csv file. 
+
+
+## Team Members
+
+	- Alexis Edwards
+	- My Dinh
+	- Gladys Toledo-Rodriguez
+	- Jackie McAninch
