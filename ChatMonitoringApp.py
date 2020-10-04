@@ -6,7 +6,6 @@ from tkinter.filedialog import askopenfile
 
 HEIGHT = 700 #pixels
 WIDTH = 800 #pixels
-opt1,opt2,opt3 = 0,0,0
 chat_file = ''
 badWords_file = ''
 filterWords_file = ''
@@ -23,11 +22,13 @@ root = tk.Tk()
 optionsLabel = tk.Label(root, text="Choose type of monitoring:")
 optionsLabel.pack()
 
-
+opt1=IntVar()
+opt2=IntVar()
+opt3=IntVar()
 #creating options i.e. "What kind of monitoring?"
-option1 = tk.Checkbutton(root, text = "Participation Grading", fg = "black")
-option2 = tk.Checkbutton(root, text = "Inappropriate Language", fg = "black")
-option3 = tk.Checkbutton(root, text = "Time Search", fg = "black", command=lambda:openSearchOptions())
+option1 = tk.Checkbutton(root, text = "Participation Grading", fg = "black", variable = opt1, onvalue = 1, offvalue = 0)
+option2 = tk.Checkbutton(root, text = "Inappropriate Language", fg = "black", variable = opt2, onvalue = 1, offvalue = 0)
+option3 = tk.Checkbutton(root, text = "Time Search", fg = "black", variable = opt3, onvalue = 1, offvalue = 0, command=lambda:openSearchOptions())
 #adding buttons to screen
 option1.pack()
 option2.pack()
@@ -74,51 +75,52 @@ def openSearchOptions():
 	optionMonLabel = tk.Label(searchOptionsWind, text="Use filtering?")
 	optionMonLabel.pack()
 
-	monOptionVal = StrVar()
+	monOptionVal = StringVar()
 	monOption = OptionMenu(searchOptionsWind, monOptionVal, "Yes", "No")
 	monOption.pack()
 
 
 
 #function for opening files in read mode
-def open_file():
-	file = askopenfile(mode='r', filetypes = [("Text Files",".txt")])
+def open_chatFile():
+	chat_file = askopenfile(mode='r', filetypes = [("Text Files",".txt")])
+	print(chat_file)
+
+def open_badWordsFile():
+	badWords_file = askopenfile(mode='r', filetypes = [("Text Files",".txt")])
+
+def open_filterChatFile():
+	filterWords_file = askopenfile(mode='r', filetypes = [("Text Files",".txt")])
 
 
 #Open chat_file
 chatFileLabel = tk.Label(root, text = "Upload chat log:")
 chatFileLabel.pack()
-openChatFileButton = tk.Button(root, text="Browse", command=lambda:open_file())
+openChatFileButton = tk.Button(root, text="Browse", command=lambda:open_chatFile())
 openChatFileButton.pack()
 
 
 #Open badWords_file
 badWordFileLabel = tk.Label(root, text = "Upload list of inappropriate words:")
 badWordFileLabel.pack()
-openBadWordsFileButton = tk.Button(root, text="Browse", command=lambda:open_file())
+openBadWordsFileButton = tk.Button(root, text="Browse", command=lambda:open_badWordsFile())
 openBadWordsFileButton.pack()
 
 
 #Open filterWords_file
 filterWordsFileLabel = tk.Label(root, text = "Upload list of filter words:")
 filterWordsFileLabel.pack()
-openFilterWordsButton = tk.Button(root, text="Browse", command=lambda:open_file())
+openFilterWordsButton = tk.Button(root, text="Browse", command=lambda:open_filterChatFile())
 openFilterWordsButton.pack()
-
-
-#creating a button
-startButton = tk.Button(root, text="Start", fg = "black", bg = "red", command = lambda: start())
-#put button on screen
-startButton.pack()
 
 
 #defining startButton function
 def start():
-	if opt1 == 1:
-		subprocess.run('python3 main.py -fw filterWords_file chat_file ')
-	elif opt2 == 1:
+	if opt1.get() == 1:
+		subprocess.Popen(('python3 main.py -fw filterWords_file chat_file ').split(' ',2))
+	elif opt2.get() == 1:
 		subprocess.run('python3 main.py -bw badWords_file chat_file')
-	elif opt3 == 1:
+	elif opt3.get() == 1:
 		useFilt = 0
 		if monOptionVal == "Yes":
 			useFilt=1
@@ -126,7 +128,14 @@ def start():
 		subprocess.run('python3 main.py -s useFilt -n <student name> -st startHourVal:startMinuteVal:startSecondVal -e endHourVal:endMinuteVal:endSecondVal chat_file')
 	else:
 		pass
+		#test = tk.MessageBox.showinfo("Say Hello", "Hello World")
 
+
+
+#creating a button
+startButton = tk.Button(root, text="Start", fg = "black", bg = "red", command=start)
+#put button on screen
+startButton.pack()
 
 #run application
 root.mainloop()
