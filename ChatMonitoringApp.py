@@ -161,9 +161,7 @@ def get_badWordsFile():
     get bad word file from input
     """
     global badWords_file
-    badWords_file_temp = filedialog.askopenfilename()
-    if badWords_file_temp:
-        badWords_file = badWords_file_temp
+    badWords_file = filedialog.askopenfilename()
     global w1
     w1.withdraw()
 
@@ -172,9 +170,7 @@ def get_filterChatFile():
     get filter word file from input
     """
     global filterWords_file
-    filterWords_file_temp = filedialog.askopenfilename()
-    if filterWords_file_temp:
-        filterWords_file = filterWords_file_temp
+    filterWords_file = filedialog.askopenfilename()
     global w2
     w2.withdraw()
 
@@ -262,14 +258,15 @@ def start():
         # result = subprocess.run(['python3', 'main.py', '-m', f'{useFilt}', '-s', f'{s}', '-n', f'{nameMenuVal.get()}', '-st', f'{startHourVal.get()}:{startMinuteVal.get()}:{startSecondVal.get()}', '-e', f'{endHourVal.get()}:{endMinuteVal.get()}:{endSecondVal.get()}', chat_file], shell=False, capture_output=True)
         # messagebox.showinfo(title="Search Results",message=result.stdout)
 
-        # add chat file to the end of command
-        command.append(chat_file)
+    # add chat file to the end of command
+    command.append(chat_file)
+    print(command)
 
-        # run the command
-        result = subprocess.run(command, shell=False, capture_output=True)
-        messagebox.showinfo(title="Results", message=result.stdout)
+    # run the command
+    result = subprocess.run(command, shell=False, capture_output=True)
+    messagebox.showinfo(title="Results", message=result.stdout)
 
-    else:
+    if opt1.get() == opt2.get() == opt3.get() == 0:
         messagebox.showerror(title="Error", message="You must select one monitoring option.")
 
 #creating a button
