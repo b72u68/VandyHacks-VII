@@ -41,7 +41,7 @@ class ZoomChatMonitoring:
                 self.all_messages.append({'message_time': message_time, 'student_name': student_name, 'message': message})
 
         except:
-            print('[-] Error occurred while reading chat file')
+            print('[-] ERROR: Error occurred while reading chat file')
 
     def read_word_file(self, filename):
         """
@@ -53,7 +53,7 @@ class ZoomChatMonitoring:
             words = [word[:-1] for word in file.readlines()]
 
         except Exception as e:
-            print(f'[-] Error occurred while reading word file: {e}')
+            print(f'[-] ERROR: Error occurred while reading word file: {e}')
 
         return words
 
