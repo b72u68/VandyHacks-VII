@@ -35,7 +35,7 @@ tnr12 = tkFont.Font(family="Times New Roman",size=12)
 tnr11 = tkFont.Font(family="Times New Roman",size=11)
 
 
-monitorFrame = tk.Frame(root)									#NEW
+monitorFrame = tk.Frame(root,bg=background_color)									#NEW
 monitorFrame.pack(side=tk.TOP)									#NEW
 
 #Checkbutton for choosing monitoring option
