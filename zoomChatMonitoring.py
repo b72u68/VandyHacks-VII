@@ -1,6 +1,6 @@
-import datetime
 import os
 import csv
+import ntpath
 
 class ZoomChatMonitoring:
 
@@ -22,6 +22,9 @@ class ZoomChatMonitoring:
 
         # all messages
         self.all_messages = self.get_all_messages(chat_file)
+
+        # directory for loggings
+        self.log_directory = self.create_log_directory(chat_file)
 
     def read_word_file(self, filename):
         """
@@ -154,17 +157,8 @@ class ZoomChatMonitoring:
         """
         write students who get credits to csv file
         """
-        current_date = datetime.datetime.now()
         filename = 'partial_credits.csv'
-
-        try:
-            # create directory zoom_logs if not exist
-            os.mkdir(f'./zoom_logs/{current_date.month}-{current_date.day}-{current_date.year}')
-        except OSError:
-            # the directory has already existed
-            pass
-
-        filepath = f'./zoom_logs/{current_date.month}-{current_date.day}-{current_date.year}/' + filename
+        filepath = self.log_directory + '/' + filename
 
         with open(filepath, mode='w', encoding='utf8') as zoom_log_file:
             fieldnames = ['name', 'point']
@@ -181,23 +175,8 @@ class ZoomChatMonitoring:
         """
         write students who use inappropriate words to csv file
         """
-        current_date = datetime.datetime.now()
         filename = 'inappropriate_chats.csv'
-        directory = f'./zoom_logs/{current_date.month}-{current_date.day}-{current_date.year}'
-        directory_uniq = 1
-
-        while os.path.exists(directory):
-            directory = f'./zoom_logs/{current_date.month}-{current_date.day}-{current_date.year}_({directory_uniq})'
-            directory_uniq += 1
-
-        try:
-            # create directory zoom_logs if not exist
-            os.mkdir(directory)
-        except OSError:
-            # the directory has already existed
-            pass
-
-        filepath = directory + filename
+        filepath = self.log_directory + '/' + filename
 
         with open(filepath, mode='w', encoding='utf8') as zoom_log_file:
             fieldnames = ['name', 'message']
@@ -264,3 +243,29 @@ class ZoomChatMonitoring:
         return time of last message the lecture
         """
         return self.all_messages[-1]['message_time']
+
+    def create_log_directory(self, chatfile):
+        """
+        create directory for logs
+        """
+
+        def get_filename_from_directory(directory):
+            head, tail = ntpath.split(directory)
+            return tail or ntpath.basename(head)
+
+        chatfile_name = get_filename_from_directory(chatfile).split('.')[0]
+        directory = f'./zoom_logs/{chatfile_name}'
+        directory_uniq = 1
+
+        while os.path.exists(directory):
+            directory = f'{directory}_({directory_uniq})'
+            directory_uniq += 1
+
+        try:
+            # create directory zoom_logs if not exist
+            os.mkdir(directory)
+        except OSError:
+            # the directory has already existed
+            pass
+
+        return directory
