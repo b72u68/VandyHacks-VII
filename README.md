@@ -51,9 +51,9 @@ results to the screen.
 The Zoom API does not allow us to get in-meeting chat asynchronously so we have
 to switch to downloading chat in .txt file format. Since each member uses different
 operation system, we had encountered some problem analyzing directory and run
-the app using command line on the terminal and cmd for Windows. Moreover, we
-wanted to experiment with building GUI app using Python so there were a lot
-research had been done and bugs encountered.
+the app using command line on the terminal for MacOS or Linux and cmd for Windows.
+Moreover, we wanted to experiment with building GUI app using Python so there
+were a lot research had been done and bugs encountered.
 
 ## What we have learned
 
