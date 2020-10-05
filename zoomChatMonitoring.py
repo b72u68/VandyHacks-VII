@@ -1,6 +1,7 @@
 import os
 import csv
 import ntpath
+import string
 
 class ZoomChatMonitoring:
 
@@ -92,11 +93,17 @@ class ZoomChatMonitoring:
         return 0 if message contains filter words -> no credits
         return 1 if message can be counted as credits
         """
+        # split message into separated words
+        message_words = message.split(' ')
+
+        # strip punctuation out of words
+        message_words = [word.translate(str.maketrans('', '', string.punctuation)) for word in message_words]
+
         for word in self.bad_words:
-            if word in message:
+            if word in message_words:
                 return -1
         for word in self.filter_words:
-            if word in message:
+            if word in message_words:
                 return 0
         return 1
 
