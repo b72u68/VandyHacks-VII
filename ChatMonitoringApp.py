@@ -32,7 +32,7 @@ w1, w2 = None, None
 root = tk.Tk()
 root.geometry("300x350")
 root.configure(bg=background_color)
-root.title("Zoom Chat Monitering")
+root.title("Zoom Chat Monitoring")
 
 #custom font
 helv12 = tkFont.Font(family="Helvetica", size=12, underline=1)
