@@ -5,43 +5,23 @@ import csv
 class ZoomChatMonitoring:
 
     def __init__(self, bad_word_file, filter_word_file, chat_file):
-        # init .txt files
-        self.chat_file = chat_file
-        self.filter_word_file = filter_word_file
-        self.bad_word_file = bad_word_file
-
         # filter_words: list of words to filter message (read from file)
-        self.filter_words = []
-
-        #question_words: list of words used to determine if message is a question
-        self.question_words = ['who', 'what', 'when', 'where', 'why', 'how']
+        self.filter_words = self.read_word_file(filter_word_file)
 
         # bad_words: list of bad words (read from file)
-        self.bad_words = []
+        self.bad_words = self.read_word_file(bad_word_file)
 
         # student_messages: {student_name: [{message_time: str, message: str}]}
         self.student_messages = {}
+
         # student_questions: {student_name: [{message_time: str, questions: str}]}
         self.student_questions = {}
+
         #student_badwords: {student_name: [{message_time: str, inappropriateMsg: str}]}
         self.student_badwords = {}
 
         # all messages
-        self.all_messages = []
-
-        try:
-            file = open(self.chat_file, 'rt', encoding='utf8')
-            for data in file.readlines():
-                # spl1: message_time\t | From student_name : message\n
-                data_split = data.split(' ', 1)
-                message_time = data_split[0][:-1]
-                student_name = data_split[1].split(" : ")[0][len("From")+1:]
-                message= data_split[1].split(" : ")[1]
-
-                self.all_messages.append({'message_time': message_time, 'student_name': student_name, 'message': message})
-
-        except:
-            print('[-] ERROR: Error occurred while reading chat file')
+        self.all_messages = self.get_all_messages(chat_file)
 
     def read_word_file(self, filename):
         """
@@ -53,7 +33,7 @@ class ZoomChatMonitoring:
             words = [word[:-1] for word in file.readlines()]
 
         except Exception as e:
-            print(f'[-] ERROR: Error occurred while reading word file: {e}')
+            print(f'[-] ERROR: read_word_file({filename}): {e}')
 
         return words
 
@@ -61,18 +41,11 @@ class ZoomChatMonitoring:
         """
         read chat file
         """
-        # get word lists
-        self.get_filter_word_list()
-        self.get_bad_word_list()
-
         try:
-            file = open(self.chat_file, 'rt', encoding='utf8')
-            for data in file.readlines():
-                # spl1: message_time\t | From student_name : message\n
-                data_split = data.split(' ', 1)
-                message_time = data_split[0][:-1]
-                student_name = data_split[1].split(" : ")[0][len("From")+1:]
-                message= data_split[1].split(" : ")[1]
+            for message_obj in self.all_messages:
+                message_time = message_obj['message_time']
+                student_name = message_obj['student_name']
+                message = message_obj['message']
 
                 if self.check_message(message) == 1:
                     self.monitoring_messages(message_time, student_name, message)
@@ -81,25 +54,34 @@ class ZoomChatMonitoring:
 
             print('[+] Process chat file successfully!')
 
+            # write the results to files
+            self.write_csv_messages()
+            self.write_csv_badwords()
+
         except Exception as e:
-            print(f'[-] Exception occurred while reading chat file: {e}')
+            print(f'[-] ERROR: read_chat_file(): {e}')
 
-        # write the results to files
-        self.write_csv_messages()
-        self.write_csv_badwords()
+    def get_all_messages(self, chatfile):
+        """
+        get all messages and store them in the array
+        """
+        messages = []
 
+        try:
+            file = open(chatfile, 'rt', encoding='utf8')
+            for data in file.readlines():
+                # data_split: message_time\t | From student_name : message\n
+                data_split = data.split(' ', 1)
+                message_time = data_split[0][:-1]
+                student_name = data_split[1].split(" : ")[0][len("From")+1:]
+                message= data_split[1].split(" : ")[1]
 
-    def get_bad_word_list(self):
-        """
-        get bad words from file
-        """
-        self.bad_words = self.read_word_file(self.bad_word_file)
+                messages.append({'message_time': message_time, 'student_name': student_name, 'message': message})
 
-    def get_filter_word_list(self):
-        """
-        get filter words from file
-        """
-        self.filter_words = self.read_word_file(self.filter_word_file)
+        except Exception as e:
+            print(f'[-] ERROR: get_all_messages(): {e}')
+
+        return messages
 
     def check_message(self, message):
         """
@@ -122,12 +104,14 @@ class ZoomChatMonitoring:
         """
         text = message.split(' ')
 
+        question_words = ['who', 'what', 'when', 'where', 'why', 'how', 'is', 'are']
+
         # get first word of message
         first_word = text[0]
         # get punctuation
         last_word = text[-1][-1]
 
-        if first_word in self.question_words or last_word == '?':
+        if first_word in question_words or last_word == '?':
             return True
 
         return False
@@ -253,3 +237,12 @@ class ZoomChatMonitoring:
                         result_messages.append(self.all_messages[i])
 
         return result_messages
+
+    def get_student_list(self):
+        """
+        return a list of students in the class (might missing some students since
+        not everyone uses chat)
+        """
+        student_set = {message_obj['student_name'] for message_obj in self.all_messages}
+
+        return list(student_set)
