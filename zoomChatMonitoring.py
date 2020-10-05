@@ -183,15 +183,21 @@ class ZoomChatMonitoring:
         """
         current_date = datetime.datetime.now()
         filename = 'inappropriate_chats.csv'
+        directory = f'./zoom_logs/{current_date.month}-{current_date.day}-{current_date.year}'
+        directory_uniq = 1
+
+        while os.path.exists(directory):
+            directory = f'./zoom_logs/{current_date.month}-{current_date.day}-{current_date.year}_({directory_uniq})'
+            directory_uniq += 1
 
         try:
             # create directory zoom_logs if not exist
-            os.mkdir(f'./zoom_logs/{current_date.month}-{current_date.day}-{current_date.year}')
+            os.mkdir(directory)
         except OSError:
             # the directory has already existed
             pass
 
-        filepath = f'./zoom_logs/{current_date.month}-{current_date.day}-{current_date.year}/' + filename
+        filepath = directory + filename
 
         with open(filepath, mode='w', encoding='utf8') as zoom_log_file:
             fieldnames = ['name', 'message']
@@ -220,9 +226,9 @@ class ZoomChatMonitoring:
 
         # assign value to start and end if no argument is passed
         if not start:
-            start = self.all_messages[0]['message_time']
+            start = self.get_start_time()
         if not end:
-            end = self.all_messages[-1]['message_time']
+            end = self.get_end_time()
 
         start_time = string_time_to_second(start)
         end_time = string_time_to_second(end)
@@ -246,3 +252,15 @@ class ZoomChatMonitoring:
         student_set = {message_obj['student_name'] for message_obj in self.all_messages}
 
         return list(student_set)
+
+    def get_start_time(self):
+        """
+        return time of first message in the lecture
+        """
+        return self.all_messages[0]['message_time']
+
+    def get_end_time(self):
+        """
+        return time of last message the lecture
+        """
+        return self.all_messages[-1]['message_time']
